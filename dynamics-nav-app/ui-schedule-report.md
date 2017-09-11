@@ -7,22 +7,22 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2c22d857a67818dae0c743fb30ef644470fcef6f
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d3aa98ffdaf6d9d1e88b6ed233e8a38808b5d05b
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
     
-# <a name="schedule-a-report-to-run"></a>Så här schemalägger du en rapportkörning
-Du kan schemalägga en rapport att köras vid ett visst datum och tider. Planerade rapporter anges i jobbkön och behandlas vid den planerade tid, på liknande sätt som andra jobb. Du kan välja att spara den behandlade rapporten till en fil, t.ex en Excel-, Word- eller PDF-fil, skriva ut den till en viss skrivare eller bara behandlar rapporten. Om du väljer att spara rapporten till en fil skickas den bearbetade rapporten till **Rapportinkorg**, på din startsida där du kan visa den. 
+# <a name="schedule-a-report-to-run"></a><span data-ttu-id="62d87-102">Så här schemalägger du en rapportkörning</span><span class="sxs-lookup"><span data-stu-id="62d87-102">Schedule a Report to Run</span></span>
+<span data-ttu-id="62d87-103">Du kan schemalägga en rapport att köras vid ett visst datum och tider.</span><span class="sxs-lookup"><span data-stu-id="62d87-103">You can schedule a report to run at a specific date and time.</span></span> <span data-ttu-id="62d87-104">Planerade rapporter anges i jobbkön och behandlas vid den planerade tid, på liknande sätt som andra jobb.</span><span class="sxs-lookup"><span data-stu-id="62d87-104">Scheduled reports are entered in the job queue and processed at the scheduled time, similar to other jobs.</span></span> <span data-ttu-id="62d87-105">Du kan välja att spara den behandlade rapporten till en fil, t.ex en Excel-, Word- eller PDF-fil, skriva ut den till en viss skrivare eller bara behandlar rapporten.</span><span class="sxs-lookup"><span data-stu-id="62d87-105">You can choose to save the processed report to a file, such as an Excel, Word, or PDF, print it to a selected printer, or process the report only.</span></span> <span data-ttu-id="62d87-106">Om du väljer att spara rapporten till en fil skickas den bearbetade rapporten till **Rapportinkorg**, på din startsida där du kan visa den.</span><span class="sxs-lookup"><span data-stu-id="62d87-106">If you choose to save the report to a file, then the processed report is sent to the **Report Inbox** on your Home page, where you can view it.</span></span> 
 
-Du kan schemalägga en rapport när du öppnar en rapport. Du väljer **schema** och sedan anger du information som t.ex. skrivare och tid och datum. Rapporten läggs sedan till jobbkön och körs vid den angivna tidpunkten. När rapporten behandlas tas artikeln bort från jobbkön. Om du har sparat den bearbetade rapporten till en fil, kommer den att vara tillgänglig i **Rapportinkorg**.
+<span data-ttu-id="62d87-107">Du kan schemalägga en rapport när du öppnar en rapport.</span><span class="sxs-lookup"><span data-stu-id="62d87-107">You can schedule a report when you open a report.</span></span> <span data-ttu-id="62d87-108">Du väljer **schema** och sedan anger du information som t.ex. skrivare och tid och datum.</span><span class="sxs-lookup"><span data-stu-id="62d87-108">You choose **Schedule** and then you enter information such as printer, and time and date.</span></span> <span data-ttu-id="62d87-109">Rapporten läggs sedan till jobbkön och körs vid den angivna tidpunkten.</span><span class="sxs-lookup"><span data-stu-id="62d87-109">The report is then added to the job queue and will be run at the specified time.</span></span> <span data-ttu-id="62d87-110">När rapporten behandlas tas artikeln bort från jobbkön.</span><span class="sxs-lookup"><span data-stu-id="62d87-110">When the report is processed, the item will be removed from the job queue.</span></span> <span data-ttu-id="62d87-111">Om du har sparat den bearbetade rapporten till en fil, kommer den att vara tillgänglig i **Rapportinkorg**.</span><span class="sxs-lookup"><span data-stu-id="62d87-111">If you saved the processed report to a file, it will be available in the **Report Inbox**.</span></span>
 
-## <a name="see-also"></a>Se även
-[Ange skrivarval för rapporter](ui-specify-printer-selection-reports.md) 
+## <a name="see-also"></a><span data-ttu-id="62d87-112">Se även</span><span class="sxs-lookup"><span data-stu-id="62d87-112">See Also</span></span>
+[<span data-ttu-id="62d87-113">Ange skrivarval för rapporter</span><span class="sxs-lookup"><span data-stu-id="62d87-113">Specify Printer Selection for Reports</span></span>](ui-specify-printer-selection-reports.md) 
 
  
 

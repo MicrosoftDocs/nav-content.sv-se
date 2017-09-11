@@ -7,27 +7,27 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 1444d49cdd3d51a1adc9f2f999b564ef4aa3ff22
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: b29d4364f40730f5eb691c8b05b4048867caeafd
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="relationship-management"></a>Kundhantering
-Kundhanteringsfunktionen i Dynamics NAV hjälper dig att hantera och stödja din försäljning. Med de här funktionerna får du tillgång till fullständig och riktig information så att du kan fokusera på ditt arbete med de viktiga kund-/kontaktsegmenten.
+# <a name="relationship-management"></a><span data-ttu-id="23789-102">Kundhantering</span><span class="sxs-lookup"><span data-stu-id="23789-102">Relationship Management</span></span>
+<span data-ttu-id="23789-103">Kundhanteringsfunktionen i Dynamics NAV hjälper dig att hantera och stödja din försäljning.</span><span class="sxs-lookup"><span data-stu-id="23789-103">The relationship management features of Dynamics NAV help you manage and support your sales efforts.</span></span> <span data-ttu-id="23789-104">Med de här funktionerna får du tillgång till fullständig och riktig information så att du kan fokusera på ditt arbete med de viktiga kund-/kontaktsegmenten.</span><span class="sxs-lookup"><span data-stu-id="23789-104">With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.</span></span>
 
-Effektiva metoder för försäljning och marknadsföring handlar om hur du fattar rätt beslut vid rätt tidpunkt. Dynamics NAV ger en exakt överblick över din kontaktinformation när du behöver den, så att du kan arbeta effektivt med potentiella kunder och öka kundtillfredsställelsen.
+<span data-ttu-id="23789-105">Effektiva metoder för försäljning och marknadsföring handlar om hur du fattar rätt beslut vid rätt tidpunkt.</span><span class="sxs-lookup"><span data-stu-id="23789-105">Good sales and marketing practices are all about how to make the best decisions at the right time.</span></span> <span data-ttu-id="23789-106">Dynamics NAV ger en exakt överblick över din kontaktinformation när du behöver den, så att du kan arbeta effektivt med potentiella kunder och öka kundtillfredsställelsen.</span><span class="sxs-lookup"><span data-stu-id="23789-106">Dynamics NAV provides a precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction.</span></span>
 
-När du vill börja, se följande avsnitt:
+<span data-ttu-id="23789-107">När du vill börja, se följande avsnitt:</span><span class="sxs-lookup"><span data-stu-id="23789-107">To get started, see the following topics:</span></span>
 
-[Hantera kontakter](marketing-contacts.md)  
-[Hantera segment](marketing-segments.md)  
-[Registrera interaktioner](marketing-interactions.md)  
-[Hantera Försäljningsmöjligheter](marketing-manage-sales-opportunities.md)
+[<span data-ttu-id="23789-108">Hantera kontakter</span><span class="sxs-lookup"><span data-stu-id="23789-108">Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="23789-109">Hantera segment</span><span class="sxs-lookup"><span data-stu-id="23789-109">Manage Segments</span></span>](marketing-segments.md)  
+[<span data-ttu-id="23789-110">Registrera interaktioner</span><span class="sxs-lookup"><span data-stu-id="23789-110">Recording Interactions</span></span>](marketing-interactions.md)  
+[<span data-ttu-id="23789-111">Hantera Försäljningsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="23789-111">Manage Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)
 
-##<a name="see-also"></a>Se även
-[Hantera försäljning](sales-manage-sales.md)  
-[Ställ in Marknadsföring och Kontakthantering](marketing-setup-marketing.md)
+##<a name="see-also"></a><span data-ttu-id="23789-112">Se även</span><span class="sxs-lookup"><span data-stu-id="23789-112">See Also</span></span>
+[<span data-ttu-id="23789-113">Hantera försäljning</span><span class="sxs-lookup"><span data-stu-id="23789-113">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="23789-114">Ställ in Marknadsföring och Kontakthantering</span><span class="sxs-lookup"><span data-stu-id="23789-114">Set Up Marketing and Contact Management</span></span>](marketing-setup-marketing.md)
 

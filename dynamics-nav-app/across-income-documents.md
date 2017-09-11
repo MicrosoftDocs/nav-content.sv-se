@@ -7,42 +7,42 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 49acc3549180b73dada6415f3ea40f17c1dd9e4c
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: cf978dfdfbdaa627bdefaf788a6dd804100681cd
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="manage-incoming-documents"></a>Hantera Inkommande dokument
-Vissa affärstransaktioner registreras inte i Dynamics NAV från början. I stället kommer ett externt affärsdokument till ditt företag som en e-postbilaga eller papperskopia som du skannar för att spara. Det här är typiskt för inköp där sådana inkommande dokument representerar betalningkvitton för kostnader eller små inköp.
+# <a name="manage-incoming-documents"></a><span data-ttu-id="4bd26-102">Hantera Inkommande dokument</span><span class="sxs-lookup"><span data-stu-id="4bd26-102">Manage Incoming Documents</span></span>
+<span data-ttu-id="4bd26-103">Vissa affärstransaktioner registreras inte i Dynamics NAV från början.</span><span class="sxs-lookup"><span data-stu-id="4bd26-103">Some business transactions are not recorded in Dynamics NAV from the outset.</span></span> <span data-ttu-id="4bd26-104">I stället kommer ett externt affärsdokument till ditt företag som en e-postbilaga eller papperskopia som du skannar för att spara.</span><span class="sxs-lookup"><span data-stu-id="4bd26-104">Instead, an external business document comes into your company as an e-mail attachment or a paper copy that you scan to file.</span></span> <span data-ttu-id="4bd26-105">Det här är typiskt för inköp där sådana inkommande dokument representerar betalningkvitton för kostnader eller små inköp.</span><span class="sxs-lookup"><span data-stu-id="4bd26-105">This is typical of purchases, where such incoming document files represent payment receipts for expenses or small purchases.</span></span>
 
-Från PDF eller bildfiler som representerar inkommande dokument kan du låta en extern OCR-tjänst (Optical Character Recognition) generera elektroniska dokument som därefter kan konverteras till dokumentposter inne i Dynamics NAV.
+<span data-ttu-id="4bd26-106">Från PDF eller bildfiler som representerar inkommande dokument kan du låta en extern OCR-tjänst (Optical Character Recognition) generera elektroniska dokument som därefter kan konverteras till dokumentposter inne i Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="4bd26-106">From PDF or image files representing incoming documents, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can then be converted to document records inside Dynamics NAV.</span></span>
 
-I fönstret **Inkommande dokument** använder du olika funktioner för att förhandsgranska utgiftskvitton, hantera OCR-uppgifter och konvertera inkommande dokumentfiler, manuellt eller automatiskt, till relevanta dokument eller journalrader i . De externa filerna kan kopplas till något processteg, inklusive till bokförda dokument och till resulterande leverantörs-, kund- och redovisningstransaktioner.
+<span data-ttu-id="4bd26-107">I fönstret **Inkommande dokument** använder du olika funktioner för att förhandsgranska utgiftskvitton, hantera OCR-uppgifter och konvertera inkommande dokumentfiler, manuellt eller automatiskt, till relevanta dokument eller journalrader i .</span><span class="sxs-lookup"><span data-stu-id="4bd26-107">In the **Incoming Documents** window, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines.</span></span> <span data-ttu-id="4bd26-108">De externa filerna kan kopplas till något processteg, inklusive till bokförda dokument och till resulterande leverantörs-, kund- och redovisningstransaktioner.</span><span class="sxs-lookup"><span data-stu-id="4bd26-108">The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries.</span></span>
 
-Processen för inkommande dokument består av följande huvudaktiviteter:
+<span data-ttu-id="4bd26-109">Processen för inkommande dokument består av följande huvudaktiviteter:</span><span class="sxs-lookup"><span data-stu-id="4bd26-109">The incoming document process can consist of the following main activities:</span></span>
 
-* Logga de externa dokumenten inne i Dynamics NAV genom att skapa rader i fönstret **Inkommande dokument** på något av följande sätt:
-    * Manuellt med hjälp av enkla funktioner, antingen från en dator eller från en mobil enhet, på något av följande sätt:
-        * Använd knappen **Skapa från fil** och fyll sedan i relevanta fält i fönstret **Inkommande dokument**. Filen kopplas automatiskt.  
-        * Använd knappen **Nytt** och fyll sedan i relevanta fält i fönstret **Inkommande dokument** och bifoga den relaterade filen manuellt.
-        * Använd knappen **Skapa från kamera** för att skapa en ny inkommande dokumentpost och sedan skicka bilden till ocr-servicen, till exempel.
-    * Automatiskt genom att ta emot dokumentet från OCR-tjänsten som ett elektroniskt dokument, efter att du har skickat den relaterade PDF- eller bildfilen per e-post till OCR-tjänsten. Snabbfliken **Ekonomisk information** ifylls automatiskt i fönstret **Inkommande dokument**.
-* Använd OCR-service för att omvandla PDF- eller bildfiler till elektroniska dokument som kan konverteras till dokumentposter i Dynamics NAV.
-* Skapa nya dokument eller redovisningsjournalrader för inkommande dokumentposter genom att registrera informationen när du läser den från den inkommande dokumentfiler.
-* Koppla inkommande dokumentfiler till inköps- och försäljningsdokument med olika status. inklusive leverantören, kunden och de redovisningstransaktionerna från bokföringen.
-* Visa inkommande dokumentposter och deras bilagor från alla inköps- och försäljningsdokument eller sök efter alla redovisningstransaktioner utan inkommande dokumentposter från fönstret **Kontoplan**.
+* <span data-ttu-id="4bd26-110">Logga de externa dokumenten inne i Dynamics NAV genom att skapa rader i fönstret **Inkommande dokument** på något av följande sätt:</span><span class="sxs-lookup"><span data-stu-id="4bd26-110">Record the external documents inside Dynamics NAV by creating lines in the **Incoming Documents** window in either of the following ways:</span></span>
+    * <span data-ttu-id="4bd26-111">Manuellt med hjälp av enkla funktioner, antingen från en dator eller från en mobil enhet, på något av följande sätt:</span><span class="sxs-lookup"><span data-stu-id="4bd26-111">Manually, by using simple functions, either from a PC or from a mobile device, in one of the following ways:</span></span>
+        * <span data-ttu-id="4bd26-112">Använd knappen **Skapa från fil** och fyll sedan i relevanta fält i fönstret **Inkommande dokument**.</span><span class="sxs-lookup"><span data-stu-id="4bd26-112">Use the **Create from File** button, and then fill relevant fields in the **Incoming Document** window.</span></span> <span data-ttu-id="4bd26-113">Filen kopplas automatiskt.</span><span class="sxs-lookup"><span data-stu-id="4bd26-113">The file is automatically attached.</span></span>  
+        * <span data-ttu-id="4bd26-114">Använd knappen **Nytt** och fyll sedan i relevanta fält i fönstret **Inkommande dokument** och bifoga den relaterade filen manuellt.</span><span class="sxs-lookup"><span data-stu-id="4bd26-114">Use the **New** button, and then fill relevant fields in the **Incoming Document** window and manually attach the related file.</span></span>
+        * <span data-ttu-id="4bd26-115">Använd knappen **Skapa från kamera** för att skapa en ny inkommande dokumentpost och sedan skicka bilden till ocr-servicen, till exempel.</span><span class="sxs-lookup"><span data-stu-id="4bd26-115">From a tablet or phone, use the **Create from Camera** button to create a new incoming document record, and then send the image to the OCR service, for example.</span></span>
+    * <span data-ttu-id="4bd26-116">Automatiskt genom att ta emot dokumentet från OCR-tjänsten som ett elektroniskt dokument, efter att du har skickat den relaterade PDF- eller bildfilen per e-post till OCR-tjänsten.</span><span class="sxs-lookup"><span data-stu-id="4bd26-116">Automatically, by receiving the document from the OCR service as an electronic document after you have e-mailed the related PDF or image file to the OCR service.</span></span> <span data-ttu-id="4bd26-117">Snabbfliken **Ekonomisk information** ifylls automatiskt i fönstret **Inkommande dokument**.</span><span class="sxs-lookup"><span data-stu-id="4bd26-117">The **Financial Information** FastTab is automatically filled in the **Incoming Document** window.</span></span>
+* <span data-ttu-id="4bd26-118">Använd OCR-service för att omvandla PDF- eller bildfiler till elektroniska dokument som kan konverteras till dokumentposter i Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="4bd26-118">Use the OCR service to have PDF or image files turned into electronic documents that can be converted to document records in Dynamics NAV.</span></span>
+* <span data-ttu-id="4bd26-119">Skapa nya dokument eller redovisningsjournalrader för inkommande dokumentposter genom att registrera informationen när du läser den från den inkommande dokumentfiler.</span><span class="sxs-lookup"><span data-stu-id="4bd26-119">Create new documents or general journal lines for incoming document records by entering the information as you read it from incoming document files.</span></span>
+* <span data-ttu-id="4bd26-120">Koppla inkommande dokumentfiler till inköps- och försäljningsdokument med olika status. inklusive leverantören, kunden och de redovisningstransaktionerna från bokföringen.</span><span class="sxs-lookup"><span data-stu-id="4bd26-120">Attach incoming document files to purchase and sales documents of any status, including to the vendor, customer, and general ledger entries that result from posting.</span></span>
+* <span data-ttu-id="4bd26-121">Visa inkommande dokumentposter och deras bilagor från alla inköps- och försäljningsdokument eller sök efter alla redovisningstransaktioner utan inkommande dokumentposter från fönstret **Kontoplan**.</span><span class="sxs-lookup"><span data-stu-id="4bd26-121">View incoming document records and their attachments from any purchase and sales document or entry, or find all general ledger entries without incoming document records from the **Chart of Accounts** window.</span></span>
 
 
-|Om du vill |Gå till |
+|<span data-ttu-id="4bd26-122">Om du vill</span><span class="sxs-lookup"><span data-stu-id="4bd26-122">To</span></span> |<span data-ttu-id="4bd26-123">Gå till</span><span class="sxs-lookup"><span data-stu-id="4bd26-123">See</span></span> |
 |---|----|
-|Ställa in funktionen för inkommande dokument och konfigurera OCR-tjänsten.|[Så här konfigurerar du Inkommande dokument](across-how-setup-income-documents.md)|
-|Skapa inkommande dokumentposter, koppla filer, använda OCR för att omvandla PDF-filer till elektroniska dokument, omvänd elektroniska dokument till dokumentposter, granska inkommande dokumentposter bokförda för försäljnings- och inköpsdokument.|[Bearbeta inkommande dokument](across-process-income-documents.md)|
+|<span data-ttu-id="4bd26-124">Ställa in funktionen för inkommande dokument och konfigurera OCR-tjänsten.</span><span class="sxs-lookup"><span data-stu-id="4bd26-124">Set up the Incoming Documents feature and set up the OCR service.</span></span>|[<span data-ttu-id="4bd26-125">Så här konfigurerar du Inkommande dokument</span><span class="sxs-lookup"><span data-stu-id="4bd26-125">How to: Set Up Incoming Documents</span></span>](across-how-setup-income-documents.md)|
+|<span data-ttu-id="4bd26-126">Skapa inkommande dokumentposter, koppla filer, använda OCR för att omvandla PDF-filer till elektroniska dokument, omvänd elektroniska dokument till dokumentposter, granska inkommande dokumentposter bokförda för försäljnings- och inköpsdokument.</span><span class="sxs-lookup"><span data-stu-id="4bd26-126">Create incoming document records, attach files, use OCR to turn PDF files into electronic documents, convert electronic documents to document records, audit incoming document records from posted sales and purchase documents.</span></span>|[<span data-ttu-id="4bd26-127">Bearbeta inkommande dokument</span><span class="sxs-lookup"><span data-stu-id="4bd26-127">Process Incoming Documents</span></span>](across-process-income-documents.md)|
 
-## <a name="see-also"></a>Se även  
-[Hantera inköp](purchasing-manage-purchasing.md)  
-[Arbeta med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="4bd26-128">Se även</span><span class="sxs-lookup"><span data-stu-id="4bd26-128">See Also</span></span>  
+[<span data-ttu-id="4bd26-129">Hantera inköp</span><span class="sxs-lookup"><span data-stu-id="4bd26-129">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="4bd26-130">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="4bd26-130">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

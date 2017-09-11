@@ -1,1 +1,1 @@
-Betaltjänster för Microsoft Dynamics ERP
+<span data-ttu-id="fa98e-101">Betaltjänster för Microsoft Dynamics ERP</span><span class="sxs-lookup"><span data-stu-id="fa98e-101">Payment Services for Microsoft Dynamics ERP</span></span>

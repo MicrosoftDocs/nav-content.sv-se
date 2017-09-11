@@ -16,136 +16,136 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-use-time-sheets-for-jobs"></a>Så här kan du använda tidrapporter för projekt
-Du använder batch-jobbet **Skapa tidsrapporter** för att skapa tidrapporter för ett angivet antal perioder eller veckor. Du måste ha behörighet för att kunna skapa tidrapporter.
+# <a name="how-to-use-time-sheets-for-jobs"></a><span data-ttu-id="848a4-102">Så här kan du använda tidrapporter för projekt</span><span class="sxs-lookup"><span data-stu-id="848a4-102">How to: Use Time Sheets for Jobs</span></span>
+<span data-ttu-id="848a4-103">Du använder batch-jobbet **Skapa tidsrapporter** för att skapa tidrapporter för ett angivet antal perioder eller veckor.</span><span class="sxs-lookup"><span data-stu-id="848a4-103">You use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks.</span></span> <span data-ttu-id="848a4-104">Du måste ha behörighet för att kunna skapa tidrapporter.</span><span class="sxs-lookup"><span data-stu-id="848a4-104">You must have permissions to be able to create time sheets.</span></span>
 
-Du kan kopiera och använda dina projektplaneringsrader i en tidrapport. På så sätt får du bara ange informationen på ett ställe och radinformationen är alltid korrekt.
+<span data-ttu-id="848a4-105">Du kan kopiera och använda dina projektplaneringsrader i en tidrapport.</span><span class="sxs-lookup"><span data-stu-id="848a4-105">You can copy and use your job planning lines in a time sheet.</span></span> <span data-ttu-id="848a4-106">På så sätt får du bara ange informationen på ett ställe och radinformationen är alltid korrekt.</span><span class="sxs-lookup"><span data-stu-id="848a4-106">In that way, you must only enter the information in one place and the line information is always correct.</span></span>
 
-När du har godkänt tidrapportsposter för ett projekt, kan du bokföra dem i den aktuella projektjournalen eller resursjournalen.
+<span data-ttu-id="848a4-107">När du har godkänt tidrapportsposter för ett projekt, kan du bokföra dem i den aktuella projektjournalen eller resursjournalen.</span><span class="sxs-lookup"><span data-stu-id="848a4-107">After you have approved time sheet entries for a job, you can post them to the relevant job journal or resource journal.</span></span>
 
-Innan du kan använda tidrapporter måste du ställa in allmän information och ange en administratör och en eller flera godkännare av tidrapporter. Mer information finns i [Så här skapar du tidrapporter](projects-how-setup-time-sheets.md).
+<span data-ttu-id="848a4-108">Innan du kan använda tidrapporter måste du ställa in allmän information och ange en administratör och en eller flera godkännare av tidrapporter.</span><span class="sxs-lookup"><span data-stu-id="848a4-108">Before you can use time sheets, you must set up general information and specify an administrator and one or more approvers of time sheets.</span></span> <span data-ttu-id="848a4-109">Mer information finns i [Så här skapar du tidrapporter](projects-how-setup-time-sheets.md).</span><span class="sxs-lookup"><span data-stu-id="848a4-109">For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).</span></span>
 
-## <a name="to-create-a-time-sheet"></a>Så här skapar du en tidrapport  
-Du kan använda batch-jobbet **Skapa tidsrapporter** för att skapa tidrapporter för ett angivet antal perioder eller veckor. Sedan kan tidrapportsägaren öppna den och registrera tid som har spenderats på en aktivitet.
+## <a name="to-create-a-time-sheet"></a><span data-ttu-id="848a4-110">Så här skapar du en tidrapport</span><span class="sxs-lookup"><span data-stu-id="848a4-110">To create a time sheet</span></span>  
+<span data-ttu-id="848a4-111">Du kan använda batch-jobbet **Skapa tidsrapporter** för att skapa tidrapporter för ett angivet antal perioder eller veckor.</span><span class="sxs-lookup"><span data-stu-id="848a4-111">You can use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks.</span></span> <span data-ttu-id="848a4-112">Sedan kan tidrapportsägaren öppna den och registrera tid som har spenderats på en aktivitet.</span><span class="sxs-lookup"><span data-stu-id="848a4-112">Then, the time sheet owner can open it and record time that has been spent on a task.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.
-2. I fönstret **Tidrapporter** väljer du åtgärden **Skapa tidrapporter**.
-3. Fyll i fälten om det behövs. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+1. <span data-ttu-id="848a4-113">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-113">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="848a4-114">I fönstret **Tidrapporter** väljer du åtgärden **Skapa tidrapporter**.</span><span class="sxs-lookup"><span data-stu-id="848a4-114">In the **Time Sheet List** window, choose the **Create Time Sheets** action.</span></span>
+3. <span data-ttu-id="848a4-115">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="848a4-115">Fill in the fields as necessary.</span></span> <span data-ttu-id="848a4-116">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="848a4-116">Choose a field to read a short description of the field or link to more information.</span></span>
 
-**Obs**! Fälten **Andvänd tidrapport** och **Användar-ID för tidrapportens ägare** måste fyllas i på kortet för resursen på tidrapporten.  
+<span data-ttu-id="848a4-117">**Obs**! Fälten **Andvänd tidrapport** och **Användar-ID för tidrapportens ägare** måste fyllas i på kortet för resursen på tidrapporten.</span><span class="sxs-lookup"><span data-stu-id="848a4-117">**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.</span></span>  
 
-4. Välj **OK**.
-I fönstret **Tidrapportlista** kan du visa tidrapporter som du har skapat.
+4. <span data-ttu-id="848a4-118">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="848a4-118">Choose the **OK** button.</span></span>
+<span data-ttu-id="848a4-119">I fönstret **Tidrapportlista** kan du visa tidrapporter som du har skapat.</span><span class="sxs-lookup"><span data-stu-id="848a4-119">You can view the time sheets that you have created in the **Time Sheet list** window.</span></span>
 
-## <a name="to-copy-job-planning-lines-to-a-time-sheet"></a>Så här kan du kopiera projektplaneringsrader till en tidrapport  
-Nedan beskrivs hur du skapar snabbt lägger till projektplaneringsrader i en tidrapport.
+## <a name="to-copy-job-planning-lines-to-a-time-sheet"></a><span data-ttu-id="848a4-120">Så här kan du kopiera projektplaneringsrader till en tidrapport</span><span class="sxs-lookup"><span data-stu-id="848a4-120">To copy job planning lines to a time sheet</span></span>  
+<span data-ttu-id="848a4-121">Nedan beskrivs hur du skapar snabbt lägger till projektplaneringsrader i en tidrapport.</span><span class="sxs-lookup"><span data-stu-id="848a4-121">The following procedure describes how to quickly add job planning lines to a time sheet.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.  
-2. I fönstret **Tidrapportlista** väljer du en tidrapport för den relevanta tidsperioden och väljer sedan åtgärden **Redigera tidrapport**.  
-3. Välj åtgärden **Skapa rader från projektplanering**. Vissa projektplaneringsrader i tidrapporttidsperioden kopieras till tidrapporten för den personen eller maskinen i fältet **Resursnr.** i tidrapporten.
+1. <span data-ttu-id="848a4-122">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="848a4-123">I fönstret **Tidrapportlista** väljer du en tidrapport för den relevanta tidsperioden och väljer sedan åtgärden **Redigera tidrapport**.</span><span class="sxs-lookup"><span data-stu-id="848a4-123">In the **Time Sheet List** window, select a time sheet for the relevant time period, and then choose the **Edit Time Sheet** action.</span></span>  
+3. <span data-ttu-id="848a4-124">Välj åtgärden **Skapa rader från projektplanering**.</span><span class="sxs-lookup"><span data-stu-id="848a4-124">Choose the **Create lines from job planning** action.</span></span> <span data-ttu-id="848a4-125">Vissa projektplaneringsrader i tidrapporttidsperioden kopieras till tidrapporten för den personen eller maskinen i fältet **Resursnr.**</span><span class="sxs-lookup"><span data-stu-id="848a4-125">Any job planning lines in the time sheet time period are copied to the time sheet for the person or machine in the **Resource No.**</span></span> <span data-ttu-id="848a4-126">i tidrapporten.</span><span class="sxs-lookup"><span data-stu-id="848a4-126">field on the time sheet.</span></span>
 
-## <a name="to-define-work-types-and-add-one-to-a-time-sheet"></a>Om du vill definiera arbetstyper och lägga till en till en tidrapport  
-Du kan definiera arbetstypen för alla tidrapportrader för projekt. På detta sätt kan du lägga till information som du behöver för att fakturera kunden för olika typer av arbete.
+## <a name="to-define-work-types-and-add-one-to-a-time-sheet"></a><span data-ttu-id="848a4-127">Om du vill definiera arbetstyper och lägga till en till en tidrapport</span><span class="sxs-lookup"><span data-stu-id="848a4-127">To define work types and add one to a time sheet</span></span>  
+<span data-ttu-id="848a4-128">Du kan definiera arbetstypen för alla tidrapportrader för projekt.</span><span class="sxs-lookup"><span data-stu-id="848a4-128">You can define the work type for all time sheet lines for jobs.</span></span> <span data-ttu-id="848a4-129">På detta sätt kan du lägga till information som du behöver för att fakturera kunden för olika typer av arbete.</span><span class="sxs-lookup"><span data-stu-id="848a4-129">In this way, you can add information that you need to bill the customer for different types of work.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.   
-2. Öppna relevant tidrapport.
-3. Välj fältet **Beskrivning**.  
-4. I fönstret **Jobbdetalj för tidrapportsrad** väljer du fältet **Arbetstypkod** och väljer sedan arbetstyp från listan som t.ex. **Mil**.  
-5. Om inga arbetstyper finns, väljer du åtgärden **Ny**.
-6. I fönstret **Arbetstyper** fyller du i fälten efter behov.
-7. Upprepa steg 4 för att tilldela den nya arbetstypen till tidrapporten.
+1. <span data-ttu-id="848a4-130">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>   
+2. <span data-ttu-id="848a4-131">Öppna relevant tidrapport.</span><span class="sxs-lookup"><span data-stu-id="848a4-131">Open the relevant time sheet.</span></span>
+3. <span data-ttu-id="848a4-132">Välj fältet **Beskrivning**.</span><span class="sxs-lookup"><span data-stu-id="848a4-132">Choose the **Description** field.</span></span>  
+4. <span data-ttu-id="848a4-133">I fönstret **Jobbdetalj för tidrapportsrad** väljer du fältet **Arbetstypkod** och väljer sedan arbetstyp från listan som t.ex. **Mil**.</span><span class="sxs-lookup"><span data-stu-id="848a4-133">In the **Time Sheet Line Job Detail** window, choose the **Work Type Code** field, and select a work type from the list, such as **Miles**.</span></span>  
+5. <span data-ttu-id="848a4-134">Om inga arbetstyper finns, väljer du åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="848a4-134">If no work types exist, chose the **New** action.</span></span>
+6. <span data-ttu-id="848a4-135">I fönstret **Arbetstyper** fyller du i fälten efter behov.</span><span class="sxs-lookup"><span data-stu-id="848a4-135">In the **Work Types** window, fill in the fields as necessary.</span></span>
+7. <span data-ttu-id="848a4-136">Upprepa steg 4 för att tilldela den nya arbetstypen till tidrapporten.</span><span class="sxs-lookup"><span data-stu-id="848a4-136">Repeat step 4 to assign the new work type to the time sheet.</span></span>
 
-## <a name="to-reuse-time-sheet-lines-in-other-time-sheets"></a>Så här kan du återanvända tidrapportsrader i andra tidrapporter  
-Om din tidrapportsinformation är samma från tidsperiod till tidsperiod kan du spara tid genom att kopiera raderna från den föregående perioden. Sedan kan du ange bara din tidförbrukning för den nya perioden.
+## <a name="to-reuse-time-sheet-lines-in-other-time-sheets"></a><span data-ttu-id="848a4-137">Så här kan du återanvända tidrapportsrader i andra tidrapporter</span><span class="sxs-lookup"><span data-stu-id="848a4-137">To reuse time sheet lines in other time sheets</span></span>  
+<span data-ttu-id="848a4-138">Om din tidrapportsinformation är samma från tidsperiod till tidsperiod kan du spara tid genom att kopiera raderna från den föregående perioden.</span><span class="sxs-lookup"><span data-stu-id="848a4-138">If your time sheet information remains the same from time period to time period, you can save time by copying the lines from the previous time period.</span></span> <span data-ttu-id="848a4-139">Sedan kan du ange bara din tidförbrukning för den nya perioden.</span><span class="sxs-lookup"><span data-stu-id="848a4-139">Then, you just enter your time usage for the new period.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.  
-2. Öppna tidrapporten för en period senare än perioden för en befintlig tidrapport med rader.  
-3. Välj åtgärden **Kopiera rader från föregående tidrapport**.
+1. <span data-ttu-id="848a4-140">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-140">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="848a4-141">Öppna tidrapporten för en period senare än perioden för en befintlig tidrapport med rader.</span><span class="sxs-lookup"><span data-stu-id="848a4-141">Open the time sheet for a period later than the period for an existing time sheet with lines.</span></span>  
+3. <span data-ttu-id="848a4-142">Välj åtgärden **Kopiera rader från föregående tidrapport**.</span><span class="sxs-lookup"><span data-stu-id="848a4-142">Choose the **Copy Lines from Previous Time Sheet** action.</span></span>
 
-Raderna kopieras med uppgifter som till exempel typ och beskrivning. Till exempel om raden är relaterad till ett projekt, kopieras **Jobbnr** . Alla kopierade rader har statusen **Öppen**. Du kan nu ändra raderna efter behov.
+<span data-ttu-id="848a4-143">Raderna kopieras med uppgifter som till exempel typ och beskrivning.</span><span class="sxs-lookup"><span data-stu-id="848a4-143">The lines are copied, including details such as type and description.</span></span> <span data-ttu-id="848a4-144">Till exempel om raden är relaterad till ett projekt, kopieras **Jobbnr**</span><span class="sxs-lookup"><span data-stu-id="848a4-144">For example, if the line is related to a job, the **Job No.**</span></span> <span data-ttu-id="848a4-145">.</span><span class="sxs-lookup"><span data-stu-id="848a4-145">is copied.</span></span> <span data-ttu-id="848a4-146">Alla kopierade rader har statusen **Öppen**.</span><span class="sxs-lookup"><span data-stu-id="848a4-146">All copied lines have the status **Open**.</span></span> <span data-ttu-id="848a4-147">Du kan nu ändra raderna efter behov.</span><span class="sxs-lookup"><span data-stu-id="848a4-147">You can now modify the lines as needed.</span></span>
 
-## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a>Fylla i en tidrapportrad och skicka för godkännande  
-Tidrapportsregistrering spåras i timmar, som är standardbasmåttenheten för resurser. Som standard visar en tidrapport vanliga arbetsdagar, från måndag till fredag.
+## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a><span data-ttu-id="848a4-148">Fylla i en tidrapportrad och skicka för godkännande</span><span class="sxs-lookup"><span data-stu-id="848a4-148">To fill in a time sheet lines and submit for approval</span></span>  
+<span data-ttu-id="848a4-149">Tidrapportsregistrering spåras i timmar, som är standardbasmåttenheten för resurser.</span><span class="sxs-lookup"><span data-stu-id="848a4-149">Time sheet registration is tracked in hours, the standard base unit of measure for resources.</span></span> <span data-ttu-id="848a4-150">Som standard visar en tidrapport vanliga arbetsdagar, från måndag till fredag.</span><span class="sxs-lookup"><span data-stu-id="848a4-150">By default, a time sheet shows the common work days of Monday through Friday.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.  
-2. Välj en tidrapport för den relevanta tidsperioden och välj sedan åtgärden **Redigera tidrapport**.  
-3. Fyll i fälten på en rad efter behov. Ange numret på timmar som används av resursen på respektive veckodag.
+1. <span data-ttu-id="848a4-151">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-151">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="848a4-152">Välj en tidrapport för den relevanta tidsperioden och välj sedan åtgärden **Redigera tidrapport**.</span><span class="sxs-lookup"><span data-stu-id="848a4-152">Select a time sheet for the relevant time period, and then choose the **Edit Time Sheet** action.</span></span>  
+3. <span data-ttu-id="848a4-153">Fyll i fälten på en rad efter behov.</span><span class="sxs-lookup"><span data-stu-id="848a4-153">Fill in the fields on a line as necessary.</span></span> <span data-ttu-id="848a4-154">Ange numret på timmar som används av resursen på respektive veckodag.</span><span class="sxs-lookup"><span data-stu-id="848a4-154">Enter the number of hours used by the resource on each day of the week.</span></span>
 
-    **Tips**: Du kan granska summan av tidrapportstimmar som du har angett i faktaboxen **Översikt över utfall/budgeterat**.  
+    <span data-ttu-id="848a4-155">**Tips**: Du kan granska summan av tidrapportstimmar som du har angett i faktaboxen **Översikt över utfall/budgeterat**.</span><span class="sxs-lookup"><span data-stu-id="848a4-155">**Tip**: You can review the sum of time sheet hours that you have entered in the **Actual/Budgeted Summary** FactBox.</span></span>  
 
-4. Upprepa steg 3 för andra arbetstyper som resursen utför.
-5. Välj åtgärden **Skicka** och välj sedan åtgärden **Alla öppna rader** för att skicka alla rader eller åtgärden **Enbart valda rader** för att endast skicka de rader som har valts i fönstret **Tidrapport**.  
+4. <span data-ttu-id="848a4-156">Upprepa steg 3 för andra arbetstyper som resursen utför.</span><span class="sxs-lookup"><span data-stu-id="848a4-156">Repeat step 3 for other work types that the resource performs.</span></span>
+5. <span data-ttu-id="848a4-157">Välj åtgärden **Skicka** och välj sedan åtgärden **Alla öppna rader** för att skicka alla rader eller åtgärden **Enbart valda rader** för att endast skicka de rader som har valts i fönstret **Tidrapport**.</span><span class="sxs-lookup"><span data-stu-id="848a4-157">Choose the **Submit** action, and then choose the **All open lines** action to submit all lines or the **Selected lines only** action to submit only the lines that are selected in the **Time Sheet** window.</span></span>  
 
-    **Obs**! Du kan endast skicka tidrapportrader som du har angett tid för.  
+    <span data-ttu-id="848a4-158">**Obs**! Du kan endast skicka tidrapportrader som du har angett tid för.</span><span class="sxs-lookup"><span data-stu-id="848a4-158">**Note**: You can only submit time sheet lines for which you have entered time.</span></span>  
 
-6. För att ändra informationen på en rad som har angetts som **Skickad** väljer du raden och väljer sedan åtgärden **Öppna igen**.
+6. <span data-ttu-id="848a4-159">För att ändra informationen på en rad som har angetts som **Skickad** väljer du raden och väljer sedan åtgärden **Öppna igen**.</span><span class="sxs-lookup"><span data-stu-id="848a4-159">To modify information on a line that has been set to **Submitted**, select the line, and then choose the **Reopen** action.</span></span>
 
-    **Obs**! En chef kan avvisa en tidrapportrad som skickas in för godkännande. Om en rad t.ex. har statusen **Avvisad** kan du göra ändringar av raden och sedan välja **Skicka** igen.  
+    <span data-ttu-id="848a4-160">**Obs**! En chef kan avvisa en tidrapportrad som skickas in för godkännande.</span><span class="sxs-lookup"><span data-stu-id="848a4-160">**Note**: A manager may reject a time sheet line that is submitted for approval.</span></span> <span data-ttu-id="848a4-161">Om en rad t.ex. har statusen **Avvisad** kan du göra ändringar av raden och sedan välja **Skicka** igen.</span><span class="sxs-lookup"><span data-stu-id="848a4-161">If a line has a status of **Rejected**, you can make changes to the line, and then choose **Submit** again.</span></span>  
 
-7. Välj **OK**.
+7. <span data-ttu-id="848a4-162">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="848a4-162">Choose the **OK** button.</span></span>
 
-## <a name="to-approve-or-reject-a-time-sheet"></a>Så här kan du godkänna eller avvisa en tidrapport  
-En tidrapport måste skickas för godkännande innan den kan användas. Du kan godkänna och avvisa enskilda rader i en tidrapport eller skicka tillbaka dem till avsändaren för ytterligare åtgärd. En tidrapport kan godkännas på två sätt:
-- En tidrapportsadministratör kan godkänna alla tidrapporter.
-- Personen som anges i fältet **Användar-ID för tidrapportens godkännare** på resurskortet kan godkänna resursens tidrapporter. Mer information finns i [Så här skapar du tidrapporter](projects-how-setup-time-sheets.md).
+## <a name="to-approve-or-reject-a-time-sheet"></a><span data-ttu-id="848a4-163">Så här kan du godkänna eller avvisa en tidrapport</span><span class="sxs-lookup"><span data-stu-id="848a4-163">To approve or reject a time sheet</span></span>  
+<span data-ttu-id="848a4-164">En tidrapport måste skickas för godkännande innan den kan användas.</span><span class="sxs-lookup"><span data-stu-id="848a4-164">A time sheet must be submitted for approval before it can be used.</span></span> <span data-ttu-id="848a4-165">Du kan godkänna och avvisa enskilda rader i en tidrapport eller skicka tillbaka dem till avsändaren för ytterligare åtgärd.</span><span class="sxs-lookup"><span data-stu-id="848a4-165">You can approve and reject individual lines on a time sheet or send them back to the submitter for additional action.</span></span> <span data-ttu-id="848a4-166">En tidrapport kan godkännas på två sätt:</span><span class="sxs-lookup"><span data-stu-id="848a4-166">A time sheet can be approved in two ways:</span></span>
+- <span data-ttu-id="848a4-167">En tidrapportsadministratör kan godkänna alla tidrapporter.</span><span class="sxs-lookup"><span data-stu-id="848a4-167">A time sheet administrator can approve any time sheet.</span></span>
+- <span data-ttu-id="848a4-168">Personen som anges i fältet **Användar-ID för tidrapportens godkännare** på resurskortet kan godkänna resursens tidrapporter.</span><span class="sxs-lookup"><span data-stu-id="848a4-168">The person who is specified in the **Time Sheet Approver User ID** field on a resource card can approve that resource's time sheets.</span></span> <span data-ttu-id="848a4-169">Mer information finns i [Så här skapar du tidrapporter](projects-how-setup-time-sheets.md).</span><span class="sxs-lookup"><span data-stu-id="848a4-169">For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter för chef** och välj sedan relaterad länk.
-2. Välj en tidrapport från listan.  
-3. I fönstret **Tidsrapport** väljer du åtgärden **Godkänn** och väljer sedan åtgärden **Alla skickade rader** för att godkänna alla rader eller åtgärden **Enbart valda rader** för att endast godkänna de rader som valts i fönstret **Tidrapport**.
-4. Välj **OK**.  
-5. Välj alternativt åtgärden **Avvisa** och följ steg 4 till 5.  
+1. <span data-ttu-id="848a4-170">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter för chef** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-170">In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="848a4-171">Välj en tidrapport från listan.</span><span class="sxs-lookup"><span data-stu-id="848a4-171">Select a time sheet from the list.</span></span>  
+3. <span data-ttu-id="848a4-172">I fönstret **Tidsrapport** väljer du åtgärden **Godkänn** och väljer sedan åtgärden **Alla skickade rader** för att godkänna alla rader eller åtgärden **Enbart valda rader** för att endast godkänna de rader som valts i fönstret **Tidrapport**.</span><span class="sxs-lookup"><span data-stu-id="848a4-172">In the **Time Sheet** window, choose the **Approve** action, and then choose the **All submitted lines** action to approve all lines or the **Selected lines only** action to approve only the lines that are selected in the **Time Sheet** window.</span></span>
+4. <span data-ttu-id="848a4-173">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="848a4-173">Choose the **OK** button.</span></span>  
+5. <span data-ttu-id="848a4-174">Välj alternativt åtgärden **Avvisa** och följ steg 4 till 5.</span><span class="sxs-lookup"><span data-stu-id="848a4-174">Alternatively, choose the **Reject** action and follow steps 4 through 5.</span></span>  
 
-**Tips**! Använd faktaboxarna **Tidrapportsstatus** och **Faktisk/schemalagd översikt** för att få översikt över tidrapportsinformation.
+<span data-ttu-id="848a4-175">**Tips**! Använd faktaboxarna **Tidrapportsstatus** och **Faktisk/schemalagd översikt** för att få översikt över tidrapportsinformation.</span><span class="sxs-lookup"><span data-stu-id="848a4-175">**Tip**: Use the **Time Sheet Status** and **Actual/Budgeted Summary** FactBoxes to get an overview of time sheet information.</span></span>
 
-När du har godkänt eller avvisat en tidrapport kan den inte ändras om den inte först öppnas igen. Följande procedur förklarar hur du öppna en godkänd eller avvisad tidrapport igen.
+<span data-ttu-id="848a4-176">När du har godkänt eller avvisat en tidrapport kan den inte ändras om den inte först öppnas igen.</span><span class="sxs-lookup"><span data-stu-id="848a4-176">After you have approved or rejected a time sheet, it cannot be modified unless it is first reopened.</span></span> <span data-ttu-id="848a4-177">Följande procedur förklarar hur du öppna en godkänd eller avvisad tidrapport igen.</span><span class="sxs-lookup"><span data-stu-id="848a4-177">The following procedure explains how to reopen an approved or rejected time sheet.</span></span>
 
-## <a name="to-reopen-a-time-sheet"></a>Så här kan du öppna en tidrapport igen  
+## <a name="to-reopen-a-time-sheet"></a><span data-ttu-id="848a4-178">Så här kan du öppna en tidrapport igen</span><span class="sxs-lookup"><span data-stu-id="848a4-178">To reopen a time sheet</span></span>  
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter för chef** eller **Tidrapporter** och välj sedan relaterad länk.
-2. Öppna en tidrapport från listan.  
+1. <span data-ttu-id="848a4-179">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Tidrapporter för chef** eller **Tidrapporter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-179">In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets** or **Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="848a4-180">Öppna en tidrapport från listan.</span><span class="sxs-lookup"><span data-stu-id="848a4-180">Open a time sheet from the list.</span></span>  
 
-    **Obs**! Du kan endast öppna rader igen som har statusen **Godkänd**. Du kan inte öppna rader igen som har statusen **Avvisad**. Du kan inte öppna en tidrapport igen om den har bokförts.  
+    <span data-ttu-id="848a4-181">**Obs**! Du kan endast öppna rader igen som har statusen **Godkänd**.</span><span class="sxs-lookup"><span data-stu-id="848a4-181">**Note**: You can only reopen lines that have the status **Approved**.</span></span> <span data-ttu-id="848a4-182">Du kan inte öppna rader igen som har statusen **Avvisad**.</span><span class="sxs-lookup"><span data-stu-id="848a4-182">You cannot reopen lines that have the status **Rejected**.</span></span> <span data-ttu-id="848a4-183">Du kan inte öppna en tidrapport igen om den har bokförts.</span><span class="sxs-lookup"><span data-stu-id="848a4-183">You cannot reopen a time sheet if it has been posted.</span></span>  
 
-3. I fönstret **Tidsrapport** väljer du åtgärden **Öppna igen** och väljer sedan åtgärden **Alla skickade rader** för att öppna alla rader igen eller åtgärden **Enbart valda rader** för att endast öppna de rader igen som valts i fönstret **Tidrapport**.
-4. Välj **OK**. Statusen för tidrapportraden eller raderna ändras till **Skickat**.  
+3. <span data-ttu-id="848a4-184">I fönstret **Tidsrapport** väljer du åtgärden **Öppna igen** och väljer sedan åtgärden **Alla skickade rader** för att öppna alla rader igen eller åtgärden **Enbart valda rader** för att endast öppna de rader igen som valts i fönstret **Tidrapport**.</span><span class="sxs-lookup"><span data-stu-id="848a4-184">In the **Time Sheet** window, choose the **Reopen** action, and then choose the **All submitted lines** action to reopen all lines or the **Selected lines only** action to reopen only the lines that are selected in the **Time Sheet** window.</span></span>
+4. <span data-ttu-id="848a4-185">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="848a4-185">Choose the **OK** button.</span></span> <span data-ttu-id="848a4-186">Statusen för tidrapportraden eller raderna ändras till **Skickat**.</span><span class="sxs-lookup"><span data-stu-id="848a4-186">The status of the time sheets line or lines is changes to **Submitted**.</span></span>  
 
-## <a name="to-post-time-sheet-lines-in-a-resource-journal"></a>Bokföra tidrapportsrader i en resursjournal  
-När du har godkänt tidrapportsposter för en resurs, kan du bokföra dem i den aktuella resursjournalen.
+## <a name="to-post-time-sheet-lines-in-a-resource-journal"></a><span data-ttu-id="848a4-187">Bokföra tidrapportsrader i en resursjournal</span><span class="sxs-lookup"><span data-stu-id="848a4-187">To post time sheet lines in a resource journal</span></span>  
+<span data-ttu-id="848a4-188">När du har godkänt tidrapportsposter för en resurs, kan du bokföra dem i den aktuella resursjournalen.</span><span class="sxs-lookup"><span data-stu-id="848a4-188">After you have approved time sheet entries for a resource, you can post them to the relevant resource journal.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resursjournal** och välj sedan relaterad länk.  
-2. Välj åtgärden **Föreslå rader från tidrapporter**.  
-3. Fyll i fälten om det behövs.  
-4. Välj **OK**. Transaktioner för förbrukning skapas i resursjournalen, där du kan ändra informationen efter behov.  
-5. Välj åtgärden **Bokföra**.  
-6. Om du vill bekräfta bokföringen väljer du åtgärden **Transaktioner**. Fönstret **Resurstransaktioner** öppnas och visar resultatet av att bokföra resursjournalen.
+1. <span data-ttu-id="848a4-189">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resursjournal** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-189">In the top right corner, choose the **Search for Page or Report** icon, enter **Resource Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="848a4-190">Välj åtgärden **Föreslå rader från tidrapporter**.</span><span class="sxs-lookup"><span data-stu-id="848a4-190">Choose the **Suggest Lines from Time Sheets** action.</span></span>  
+3. <span data-ttu-id="848a4-191">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="848a4-191">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="848a4-192">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="848a4-192">Choose the **OK** button.</span></span> <span data-ttu-id="848a4-193">Transaktioner för förbrukning skapas i resursjournalen, där du kan ändra informationen efter behov.</span><span class="sxs-lookup"><span data-stu-id="848a4-193">Entries for usage are created in the resource journal, where you can modify the information as needed.</span></span>  
+5. <span data-ttu-id="848a4-194">Välj åtgärden **Bokföra**.</span><span class="sxs-lookup"><span data-stu-id="848a4-194">Choose the **Post** action.</span></span>  
+6. <span data-ttu-id="848a4-195">Om du vill bekräfta bokföringen väljer du åtgärden **Transaktioner**.</span><span class="sxs-lookup"><span data-stu-id="848a4-195">To verify the posting, choose the **Ledger Entries** action.</span></span> <span data-ttu-id="848a4-196">Fönstret **Resurstransaktioner** öppnas och visar resultatet av att bokföra resursjournalen.</span><span class="sxs-lookup"><span data-stu-id="848a4-196">The **Resource Ledger Entries** window opens showing the result of posting the resource journal.</span></span>
 
-## <a name="to-post-time-sheet-lines-in-a-job-journal"></a>Bokföra tidrapportsrader i en projektjournal  
-När du har godkänt tidrapportsposter för ett projekt, kan du bokföra dem i den aktuella projektjournalen.
+## <a name="to-post-time-sheet-lines-in-a-job-journal"></a><span data-ttu-id="848a4-197">Bokföra tidrapportsrader i en projektjournal</span><span class="sxs-lookup"><span data-stu-id="848a4-197">To post time sheet lines in a job journal</span></span>  
+<span data-ttu-id="848a4-198">När du har godkänt tidrapportsposter för ett projekt, kan du bokföra dem i den aktuella projektjournalen.</span><span class="sxs-lookup"><span data-stu-id="848a4-198">After you have approved time sheet entries for a job, you can post them to the relevant job journal.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Projektjournal** och välj sedan relaterad länk.  
-2. Välj åtgärden **Föreslå rader från tidrapporter**.  
-3. Fyll i fälten om det behövs.  
-4. Välj **OK**. Transaktioner för förbrukning skapas i projektjournalen, där du kan ändra informationen efter behov.  
+1. <span data-ttu-id="848a4-199">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Projektjournal** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-199">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="848a4-200">Välj åtgärden **Föreslå rader från tidrapporter**.</span><span class="sxs-lookup"><span data-stu-id="848a4-200">Choose the **Suggest Lines from Time Sheets** action.</span></span>  
+3. <span data-ttu-id="848a4-201">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="848a4-201">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="848a4-202">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="848a4-202">Choose the **OK** button.</span></span> <span data-ttu-id="848a4-203">Transaktioner för förbrukning skapas i projektjournalen, där du kan ändra informationen efter behov.</span><span class="sxs-lookup"><span data-stu-id="848a4-203">Entries for usage are created in the job journal, where you can modify the information as needed.</span></span>  
 
-    **Obs**! Information om arbetstyp och om arbetet är debiterbart kopieras från tidrapportsraden. Om det behövs, kan du minska antalet timmar och skapa en delvis bokföring. Om du minskar antalet kommer raden som skapas att innehålla det återstående antalet timmar nästa gång som du väljer åtgärden **Föreslå rader från tidrapporter**.  
+    <span data-ttu-id="848a4-204">**Obs**! Information om arbetstyp och om arbetet är debiterbart kopieras från tidrapportsraden.</span><span class="sxs-lookup"><span data-stu-id="848a4-204">**Note**: Information about work type and whether the work is chargeable is copied from the time sheet line.</span></span> <span data-ttu-id="848a4-205">Om det behövs, kan du minska antalet timmar och skapa en delvis bokföring.</span><span class="sxs-lookup"><span data-stu-id="848a4-205">If needed, you can reduce the quantity of hours and do a partial posting.</span></span> <span data-ttu-id="848a4-206">Om du minskar antalet kommer raden som skapas att innehålla det återstående antalet timmar nästa gång som du väljer åtgärden **Föreslå rader från tidrapporter**.</span><span class="sxs-lookup"><span data-stu-id="848a4-206">If you reduce the quantity, then the next time that you choose the **Suggest Lines From Time Sheets** action, the line that is created will contain the remaining quantity of hours.</span></span>  
 
-5. Välj åtgärden **Bokföra**.  
-6. Om du vill bekräfta bokföringen väljer du åtgärden **Transaktioner**. Fönstret **Projekttransaktioner** öppnas och visar resultatet av att bokföra resursjournalen.
+5. <span data-ttu-id="848a4-207">Välj åtgärden **Bokföra**.</span><span class="sxs-lookup"><span data-stu-id="848a4-207">Choose the **Post** action.</span></span>  
+6. <span data-ttu-id="848a4-208">Om du vill bekräfta bokföringen väljer du åtgärden **Transaktioner**.</span><span class="sxs-lookup"><span data-stu-id="848a4-208">To verify the posting, choose the **Ledger Entries** action.</span></span> <span data-ttu-id="848a4-209">Fönstret **Projekttransaktioner** öppnas och visar resultatet av att bokföra resursjournalen.</span><span class="sxs-lookup"><span data-stu-id="848a4-209">The **Job Ledger Entries** window opens showing the result of posting the resource journal.</span></span>
 
-## <a name="to-archive-time-sheets"></a>Så här arkiverar du tidrapporter  
-När du har bokfört tidrapporter kan du arkivera dem för framtida referens. Alla tidrapportrader måste bokföras innan en tidrapport kan arkiveras.
+## <a name="to-archive-time-sheets"></a><span data-ttu-id="848a4-210">Så här arkiverar du tidrapporter</span><span class="sxs-lookup"><span data-stu-id="848a4-210">To archive time sheets</span></span>  
+<span data-ttu-id="848a4-211">När du har bokfört tidrapporter kan du arkivera dem för framtida referens.</span><span class="sxs-lookup"><span data-stu-id="848a4-211">After you have posted time sheets, you can archive them for future reference.</span></span> <span data-ttu-id="848a4-212">Alla tidrapportrader måste bokföras innan en tidrapport kan arkiveras.</span><span class="sxs-lookup"><span data-stu-id="848a4-212">All time sheets lines must be posted before a time sheet can be archived.</span></span>
 
-**Obs**! När du arkiverar en tidrapport, tas den bort från listan både i fönstret **Tidrapport** och i fönstret **Tidrapport för chef**.
+<span data-ttu-id="848a4-213">**Obs**! När du arkiverar en tidrapport, tas den bort från listan både i fönstret **Tidrapport** och i fönstret **Tidrapport för chef**.</span><span class="sxs-lookup"><span data-stu-id="848a4-213">**Note**: When you archive a time sheet, it is removed from the lists in both the **Time Sheets** window and the **Manager Time Sheets** window.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Flytta tidrapporter till arkiv** och välj sedan relaterad länk.  
-2. Fyll i fälten efter behov och stäng sedan fönstret.  
-3. Om du vill granska arkiverade tidrapporter väljer du ikonen **Söka efter sida eller rapport**, går till **Tidrapportsarkiv** eller **Tidrapportsarkiv för chef** och väljer sedan relaterad länk.
+1. <span data-ttu-id="848a4-214">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Flytta tidrapporter till arkiv** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-214">In the top right corner, choose the **Search for Page or Report** icon, enter **Move Time Sheets to Archive**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="848a4-215">Fyll i fälten efter behov och stäng sedan fönstret.</span><span class="sxs-lookup"><span data-stu-id="848a4-215">Fill in the fields as necessary, and then close the window.</span></span>  
+3. <span data-ttu-id="848a4-216">Om du vill granska arkiverade tidrapporter väljer du ikonen **Söka efter sida eller rapport**, går till **Tidrapportsarkiv** eller **Tidrapportsarkiv för chef** och väljer sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="848a4-216">To review archived time sheets, in the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheet Archives** or **Manager Time Sheet Archives**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a>Se även
-[Hantera projekt](projects-manage-projects.md)  
-[Ange projekthantering](projects-setup-projects.md)    
-[Finans](finance-setup.md)  
-[Hantera inköp](purchasing-manage-purchasing.md)         
-[Hantera försäljning](sales-manage-sales.md)     
-[Arbeta med Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="848a4-217">Se även</span><span class="sxs-lookup"><span data-stu-id="848a4-217">See Also</span></span>
+[<span data-ttu-id="848a4-218">Hantera projekt</span><span class="sxs-lookup"><span data-stu-id="848a4-218">Manage Projects</span></span>](projects-manage-projects.md)  
+<span data-ttu-id="848a4-219">[Ange projekthantering](projects-setup-projects.md)  </span><span class="sxs-lookup"><span data-stu-id="848a4-219">[Set Up Project Management](projects-setup-projects.md)  </span></span>  
+[<span data-ttu-id="848a4-220">Finans</span><span class="sxs-lookup"><span data-stu-id="848a4-220">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="848a4-221">[Hantera inköp](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="848a4-221">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="848a4-222">[Hantera försäljning](sales-manage-sales.md)   </span><span class="sxs-lookup"><span data-stu-id="848a4-222">[Manage Sales](sales-manage-sales.md)   </span></span>  
+[<span data-ttu-id="848a4-223">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="848a4-223">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

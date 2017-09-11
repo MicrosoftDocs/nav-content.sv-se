@@ -1,1 +1,1 @@
-CRONUS Sverige AB demonstrationsdatabas
+<span data-ttu-id="ac9b7-101">CRONUS Sverige AB</span><span class="sxs-lookup"><span data-stu-id="ac9b7-101">CRONUS International Ltd.</span></span> <span data-ttu-id="ac9b7-102">demonstrationsdatabas</span><span class="sxs-lookup"><span data-stu-id="ac9b7-102">demonstration database</span></span>

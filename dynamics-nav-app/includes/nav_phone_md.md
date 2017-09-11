@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Phone-klient
+<span data-ttu-id="c6f2c-101">Microsoft Dynamics NAV Phone-klient</span><span class="sxs-lookup"><span data-stu-id="c6f2c-101">Microsoft Dynamics NAV Phone client</span></span>

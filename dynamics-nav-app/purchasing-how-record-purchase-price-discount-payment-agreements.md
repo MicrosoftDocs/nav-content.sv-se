@@ -7,64 +7,64 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Så här registrerar du inköpspriser och rabatter
-De olika pris- och rabattavtalen som gäller när artiklar köps in från olika leverantörer måste definieras så att de överenskomna reglerna och värdena används i de inköpsdokument som du skapar för leverantören.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="39baa-102">Så här registrerar du inköpspriser och rabatter</span><span class="sxs-lookup"><span data-stu-id="39baa-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="39baa-103">De olika pris- och rabattavtalen som gäller när artiklar köps in från olika leverantörer måste definieras så att de överenskomna reglerna och värdena används i de inköpsdokument som du skapar för leverantören.</span><span class="sxs-lookup"><span data-stu-id="39baa-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-När det gäller priser kan du infoga ett särskilt inköpspris på inköpsrader, om en viss kombination av leverantör, artikel, minsta kvantiteten, måttenhet eller start-/slutdatum finns.
+<span data-ttu-id="39baa-104">När det gäller priser kan du infoga ett särskilt inköpspris på inköpsrader, om en viss kombination av leverantör, artikel, minsta kvantiteten, måttenhet eller start-/slutdatum finns.</span><span class="sxs-lookup"><span data-stu-id="39baa-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-När det gäller rabatter kan du ställa in och använda två olika typer av inköpsrabatter:
+<span data-ttu-id="39baa-105">När det gäller rabatter kan du ställa in och använda två olika typer av inköpsrabatter:</span><span class="sxs-lookup"><span data-stu-id="39baa-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Rabattyp |Beskrivning |
+|<span data-ttu-id="39baa-106">Rabattyp</span><span class="sxs-lookup"><span data-stu-id="39baa-106">Discount Type</span></span> |<span data-ttu-id="39baa-107">Beskrivning</span><span class="sxs-lookup"><span data-stu-id="39baa-107">Description</span></span> |
 |--------------|------------|
-|**Inköpsradrabatt**|En beloppsrabatt som infogas på inköpsrader, om en viss kombination av leverantör, artikel, minsta kvantiteten, måttenhet eller start-/slutdatum finns. Detta fungerar på samma sätt som för inköpspriser.|
-|**Fakturarabatt**|En procentrabatt som dras av från dokumentets summa om värdebeloppet för alla rader i ett inköpsdokument överstiger ett viss minimivärde.|
+|<span data-ttu-id="39baa-108">**Inköpsradrabatt**</span><span class="sxs-lookup"><span data-stu-id="39baa-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="39baa-109">En beloppsrabatt som infogas på inköpsrader, om en viss kombination av leverantör, artikel, minsta kvantiteten, måttenhet eller start-/slutdatum finns.</span><span class="sxs-lookup"><span data-stu-id="39baa-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="39baa-110">Detta fungerar på samma sätt som för inköpspriser.</span><span class="sxs-lookup"><span data-stu-id="39baa-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="39baa-111">**Fakturarabatt**</span><span class="sxs-lookup"><span data-stu-id="39baa-111">**Invoice Discount**</span></span>|<span data-ttu-id="39baa-112">En procentrabatt som dras av från dokumentets summa om värdebeloppet för alla rader i ett inköpsdokument överstiger ett viss minimivärde.</span><span class="sxs-lookup"><span data-stu-id="39baa-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Eftersom inköpsradrabatter och inköpspriser baseras på en kombination av artikel och leverantör kan du också ställa in den här konfigurationen på det artikelkort där reglerna och värdena har definierats. Mer information finns i [Så här registrerar du nya produkter](inventory-how-register-new-products.md).
+<span data-ttu-id="39baa-113">Eftersom inköpsradrabatter och inköpspriser baseras på en kombination av artikel och leverantör kan du också ställa in den här konfigurationen på det artikelkort där reglerna och värdena har definierats.</span><span class="sxs-lookup"><span data-stu-id="39baa-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="39baa-114">Mer information finns i [Så här registrerar du nya produkter](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="39baa-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Om du vill definiera ett speciellt inköpspris för en leverantör
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Leverantörer** och välj sedan relaterad länk.
-2. Öppna det relevanta leverantörskortet och välj sedan åtgärden **Priser.**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="39baa-115">Om du vill definiera ett speciellt inköpspris för en leverantör</span><span class="sxs-lookup"><span data-stu-id="39baa-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="39baa-116">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Leverantörer** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="39baa-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="39baa-117">Öppna det relevanta leverantörskortet och välj sedan åtgärden **Priser.**.</span><span class="sxs-lookup"><span data-stu-id="39baa-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    Fältet **Inköpstyp** är förifyllt med **leverantör** och fältet **inköpskod** är förifyllt med leverantörsnumret.
-3. Fyll i fälten på den första raden. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
-4. Fyll i en rad för varje kombination för vilken leverantören beviljar dig en inköpsradrabatt.
+    <span data-ttu-id="39baa-118">Fältet **Inköpstyp** är förifyllt med **leverantör** och fältet **inköpskod** är förifyllt med leverantörsnumret.</span><span class="sxs-lookup"><span data-stu-id="39baa-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="39baa-119">Fyll i fälten på den första raden.</span><span class="sxs-lookup"><span data-stu-id="39baa-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="39baa-120">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="39baa-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="39baa-121">Fyll i en rad för varje kombination för vilken leverantören beviljar dig en inköpsradrabatt.</span><span class="sxs-lookup"><span data-stu-id="39baa-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Om du vill definiera en radrabatt för en leverantör
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Leverantörer** och välj sedan relaterad länk.
-2. Öppna det relevanta leverantörskortet och välj sedan åtgärden **Radrabatter.**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="39baa-122">Om du vill definiera en radrabatt för en leverantör</span><span class="sxs-lookup"><span data-stu-id="39baa-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="39baa-123">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Leverantörer** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="39baa-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="39baa-124">Öppna det relevanta leverantörskortet och välj sedan åtgärden **Radrabatter.**.</span><span class="sxs-lookup"><span data-stu-id="39baa-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    Fältet **Inköpstyp** är förifyllt med **leverantör** och fältet **inköpskod** är förifyllt med leverantörsnumret.
-3. Fyll i fälten på den första raden. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
-4. Fyll i en rad för varje kombination för vilken leverantören beviljar dig en inköpsradrabatt.
+    <span data-ttu-id="39baa-125">Fältet **Inköpstyp** är förifyllt med **leverantör** och fältet **inköpskod** är förifyllt med leverantörsnumret.</span><span class="sxs-lookup"><span data-stu-id="39baa-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="39baa-126">Fyll i fälten på den första raden.</span><span class="sxs-lookup"><span data-stu-id="39baa-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="39baa-127">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="39baa-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="39baa-128">Fyll i en rad för varje kombination för vilken leverantören beviljar dig en inköpsradrabatt.</span><span class="sxs-lookup"><span data-stu-id="39baa-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Så här definierar du radrabatt för en leverantör
-När dina leverantörer har informerat dig om vilka fakturarabatter som de beviljar, skriver du fakturarabattkoderna på leverantörskorten och lägger upp villkoren för respektive kod.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="39baa-129">Så här definierar du radrabatt för en leverantör</span><span class="sxs-lookup"><span data-stu-id="39baa-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="39baa-130">När dina leverantörer har informerat dig om vilka fakturarabatter som de beviljar, skriver du fakturarabattkoderna på leverantörskorten och lägger upp villkoren för respektive kod.</span><span class="sxs-lookup"><span data-stu-id="39baa-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Leverantörer** och välj sedan relaterad länk.
-2. Öppna leverantörskortet för en leverantör som är aktuell för fakturarabatter.
-3. Välj i fältet  **Fakturarabattkod** koden för den fakturarabatt som ska användas vid beräkning av fakturarabatter för leverantören.
+1. <span data-ttu-id="39baa-131">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Leverantörer** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="39baa-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="39baa-132">Öppna leverantörskortet för en leverantör som är aktuell för fakturarabatter.</span><span class="sxs-lookup"><span data-stu-id="39baa-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="39baa-133">Välj i fältet  **Fakturarabattkod** koden för den fakturarabatt som ska användas vid beräkning av fakturarabatter för leverantören.</span><span class="sxs-lookup"><span data-stu-id="39baa-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Obs!** Fakturarabattkoder representeras av befintliga leverantörskort. Detta aktiverar dig att snabbt tilldela fakturarabattvillkor till leverantörer, genom att välja namnet på en andra leverantörer som ska ha dessa villkor.
+    <span data-ttu-id="39baa-134">**Obs!** Fakturarabattkoder representeras av befintliga leverantörskort.</span><span class="sxs-lookup"><span data-stu-id="39baa-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="39baa-135">Detta aktiverar dig att snabbt tilldela fakturarabattvillkor till leverantörer, genom att välja namnet på en andra leverantörer som ska ha dessa villkor.</span><span class="sxs-lookup"><span data-stu-id="39baa-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Så här definierar du fakturarabattvillkor för inköp:
-4. I fönstret **leverantörskort** väljer du åtgärden **Fakturarabatter**. Fönstret **Leverantörsfakturarabatter** öppnas.
-5. Ange valutakoden som du vill definiera fakturarabattvillkor för i fältet **Valutakod**. Lämna det här fältet tomt om du vill ange fakturarabattvillkor i USD.
-6. Ange i fältet **Minimibelopp** det minsta belopp som en faktura måste vara på för att komma i fråga för rabatt.
-7. Fakturarabatten beräknas som en procentandel av fakturabeloppet i fältet **Rabatt %**.
-8. Upprepa steg 5 till och med 7 för varje valuta som leverantören ska ta emot en annan fakturarabatt för.
+    <span data-ttu-id="39baa-136">Så här definierar du fakturarabattvillkor för inköp:</span><span class="sxs-lookup"><span data-stu-id="39baa-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="39baa-137">I fönstret **leverantörskort** väljer du åtgärden **Fakturarabatter**.</span><span class="sxs-lookup"><span data-stu-id="39baa-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="39baa-138">Fönstret **Leverantörsfakturarabatter** öppnas.</span><span class="sxs-lookup"><span data-stu-id="39baa-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="39baa-139">Ange valutakoden som du vill definiera fakturarabattvillkor för i fältet **Valutakod**.</span><span class="sxs-lookup"><span data-stu-id="39baa-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="39baa-140">Lämna det här fältet tomt om du vill ange fakturarabattvillkor i USD.</span><span class="sxs-lookup"><span data-stu-id="39baa-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="39baa-141">Ange i fältet **Minimibelopp** det minsta belopp som en faktura måste vara på för att komma i fråga för rabatt.</span><span class="sxs-lookup"><span data-stu-id="39baa-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="39baa-142">Fakturarabatten beräknas som en procentandel av fakturabeloppet i fältet **Rabatt %**.</span><span class="sxs-lookup"><span data-stu-id="39baa-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="39baa-143">Upprepa steg 5 till och med 7 för varje valuta som leverantören ska ta emot en annan fakturarabatt för.</span><span class="sxs-lookup"><span data-stu-id="39baa-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-Fakturarabatten ställs nu in i fältet och fördelas till leverantören i fråga. När du väljer leverantörkoden i fältet **Fakturarabattkod** på andra leverantörskort, kopplas samma fakturarabatt till dessa leverantörer.
+<span data-ttu-id="39baa-144">Fakturarabatten ställs nu in i fältet och fördelas till leverantören i fråga.</span><span class="sxs-lookup"><span data-stu-id="39baa-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="39baa-145">När du väljer leverantörkoden i fältet **Fakturarabattkod** på andra leverantörskort, kopplas samma fakturarabatt till dessa leverantörer.</span><span class="sxs-lookup"><span data-stu-id="39baa-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>Se även  
-[Konfigurera inköp](purchasing-setup-purchasing.md)  
-[Hantera inköp](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="39baa-146">Se även</span><span class="sxs-lookup"><span data-stu-id="39baa-146">See Also</span></span>  
+[<span data-ttu-id="39baa-147">Konfigurera inköp</span><span class="sxs-lookup"><span data-stu-id="39baa-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="39baa-148">Hantera inköp</span><span class="sxs-lookup"><span data-stu-id="39baa-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

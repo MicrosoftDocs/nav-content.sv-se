@@ -7,70 +7,70 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: eaf539f1d4d00c2cd5679f39f29a3428e33ee1fd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 1542204994a9214a241b2b9ea07a9fcde2b1a544
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-work-with-item-attributes"></a>Så här arbetar du med Artikelattribut
-När kunder gör förfrågningar om en artikel, antingen i motsvarande fält eller via en integrerad webbutik kan kunden fråga eller söka efter egenskaper som till exempel höjd och modellår. För att tillhandahålla denna kundservice kan du tilldela artikelattributvärden av andra typer till artiklarna, som sedan kan användas när du söker efter artiklar.
+# <a name="how-to-work-with-item-attributes"></a><span data-ttu-id="3f6f1-102">Så här arbetar du med Artikelattribut</span><span class="sxs-lookup"><span data-stu-id="3f6f1-102">How to: Work with Item Attributes</span></span>
+<span data-ttu-id="3f6f1-103">När kunder gör förfrågningar om en artikel, antingen i motsvarande fält eller via en integrerad webbutik kan kunden fråga eller söka efter egenskaper som till exempel höjd och modellår.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-103">When customers inquire about an item, either in correspondence or in an integrated web shop, they may ask or search according to characteristics, such as height and model year.</span></span> <span data-ttu-id="3f6f1-104">För att tillhandahålla denna kundservice kan du tilldela artikelattributvärden av andra typer till artiklarna, som sedan kan användas när du söker efter artiklar.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-104">To provide this customer service, you can assign item attribute values of different types to your items, which can then be used when searching for items.</span></span>
 
-Du kan också tilldela till artikelattribut till artikelkategorier, som sedan kopplas till artiklarna som använder artikelkategorierna. För mer information finns i [Så här kategoriserar du artiklar](inventory-how-categorize-items.md).
+<span data-ttu-id="3f6f1-105">Du kan också tilldela till artikelattribut till artikelkategorier, som sedan kopplas till artiklarna som använder artikelkategorierna.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-105">You can also assign item attributes to item categories, which then apply to the items that use the item categories.</span></span> <span data-ttu-id="3f6f1-106">För mer information finns i [Så här kategoriserar du artiklar](inventory-how-categorize-items.md).</span><span class="sxs-lookup"><span data-stu-id="3f6f1-106">For more information, see [How to: Categorize Item](inventory-how-categorize-items.md).</span></span>
 
-## <a name="to-create-item-attributes"></a>Så här skapar du artikelattribut
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artikelattribut** och välj sedan relaterad länk.
-2. I fönstret **Artikelattribut** väljer du åtgärden **Ny**.
-3. I fönstret **Artikelattribut** fyller du i fälten efter behov. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+## <a name="to-create-item-attributes"></a><span data-ttu-id="3f6f1-107">Så här skapar du artikelattribut</span><span class="sxs-lookup"><span data-stu-id="3f6f1-107">To create item attributes</span></span>
+1. <span data-ttu-id="3f6f1-108">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artikelattribut** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-108">In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3f6f1-109">I fönstret **Artikelattribut** väljer du åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-109">In the **Item Attributes** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="3f6f1-110">I fönstret **Artikelattribut** fyller du i fälten efter behov.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-110">In the **Item Attribute** window, fill in the fields as necessary.</span></span> <span data-ttu-id="3f6f1-111">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-111">Choose a field to read a short description of the field or link to more information.</span></span>
 
-**Obs!** Om du väljer **Alternativ** i fältet **Typ** kan du välja åtgärden **Artikelattributvärden** för att markera eller skapa artikelattributvärden Mer information finns i avsnittet "Att skapa artikelattributvärden av typen alternativ".  
+<span data-ttu-id="3f6f1-112">**Obs!** Om du väljer **Alternativ** i fältet **Typ** kan du välja åtgärden **Artikelattributvärden** för att markera eller skapa artikelattributvärden</span><span class="sxs-lookup"><span data-stu-id="3f6f1-112">**Note**: If you select **Option** in the **Type** field, then you can choose the **Item Attribute Values** action to create values for the item attribute.</span></span> <span data-ttu-id="3f6f1-113">Mer information finns i avsnittet "Att skapa artikelattributvärden av typen alternativ".</span><span class="sxs-lookup"><span data-stu-id="3f6f1-113">For more information, see the "To create values for item attributes of type Option" section.</span></span>  
 
-## <a name="to-create-values-for-item-attributes-of-type-option"></a>Så här skapar du värden för artikelattribut av typen alternativ
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artikelattribut** och välj sedan relaterad länk.
-2. I fönstret **Artikelattribut** markerar du det artikelattribut typen alternativ som du vill tilldela värden på, och väljer sedan åtgärden **Artikelattributvärden**.
-3. I fönstret **Artikelattributvärden** fyller du i fälten efter behov. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+## <a name="to-create-values-for-item-attributes-of-type-option"></a><span data-ttu-id="3f6f1-114">Så här skapar du värden för artikelattribut av typen alternativ</span><span class="sxs-lookup"><span data-stu-id="3f6f1-114">To create values for item attributes of type Option</span></span>
+1. <span data-ttu-id="3f6f1-115">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artikelattribut** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3f6f1-116">I fönstret **Artikelattribut** markerar du det artikelattribut typen alternativ som du vill tilldela värden på, och väljer sedan åtgärden **Artikelattributvärden**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-116">In the **Item Attributes** window, select an item attribute of type Option that you want to create values for, and then choose the **Item Attribute Values** action.</span></span>
+3. <span data-ttu-id="3f6f1-117">I fönstret **Artikelattributvärden** fyller du i fälten efter behov.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-117">In the **Item Attribute Values** window, fill in the fields as necessary.</span></span> <span data-ttu-id="3f6f1-118">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-118">Choose a field to read a short description of the field or link to more information.</span></span>
 
-## <a name="to-assign-item-attributes-to-items"></a>Så här tilldelar du ett artikelattribut till en artikel
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artiklar** och välj sedan relaterad länk.
-2. I fönstret **Artiklar** markerar du den artikel som du vill tilldela artikelattribut på, och väljer sedan åtgärden **Attribut**.
-3. I fönstret **Artikelattributvärden** väljer du åtgärden **Ny**.
-4. I fältet **Attribut** väljer du knappen AssistEdit och väljer ett befintligt artikelattribut. Välj alternativt åtgärden **Ny** för att först skapa en ny artikelattribut som förklaras i avsnittet "Att skapa artikelattribut".
-5. I fältet **Värde** anger du artikelattributvärdet , exempelvis "2010" för modellårsattribut.
-6. För artikelattribut av typen Alternativ väljer du knappen AssistEditen i fältet **Värde** och väljer sedan ett artikelattributvärde. Välj alternativt åtgärden **Ny** för att först skapa ett nytt artikelattributvärde som förklaras i avsnittet "Att skapa värden för artikelattribut av typen Alternativ".
-7. Upprepa steg 4 genom 6 för alla artikelattribut som du vill tilldela artikeln.
+## <a name="to-assign-item-attributes-to-items"></a><span data-ttu-id="3f6f1-119">Så här tilldelar du ett artikelattribut till en artikel</span><span class="sxs-lookup"><span data-stu-id="3f6f1-119">To assign item attributes to items</span></span>
+1. <span data-ttu-id="3f6f1-120">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artiklar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-120">In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3f6f1-121">I fönstret **Artiklar** markerar du den artikel som du vill tilldela artikelattribut på, och väljer sedan åtgärden **Attribut**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-121">In the **Items** window, select the item that you want to assign item attributes to, and then choose the **Attributes** action.</span></span>
+3. <span data-ttu-id="3f6f1-122">I fönstret **Artikelattributvärden** väljer du åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-122">In the **Item Attribute Values** window, choose the **New** action.</span></span>
+4. <span data-ttu-id="3f6f1-123">I fältet **Attribut** väljer du knappen AssistEdit och väljer ett befintligt artikelattribut.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-123">Choose the AssistEdit button in the **Attribute** field and select an existing item attribute.</span></span> <span data-ttu-id="3f6f1-124">Välj alternativt åtgärden **Ny** för att först skapa en ny artikelattribut som förklaras i avsnittet "Att skapa artikelattribut".</span><span class="sxs-lookup"><span data-stu-id="3f6f1-124">Alternatively, choose the **New** action to first create a new item attribute as explained in the "To create item attributes" section.</span></span>
+5. <span data-ttu-id="3f6f1-125">I fältet **Värde** anger du artikelattributvärdet , exempelvis "2010" för modellårsattribut.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-125">In the **Value** field, enter the item attribute value, such as "2010" for the Model Year attribute.</span></span>
+6. <span data-ttu-id="3f6f1-126">För artikelattribut av typen Alternativ väljer du knappen AssistEditen i fältet **Värde** och väljer sedan ett artikelattributvärde.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-126">For item attributes of type Option, choose the AssistEdit button in the **Value** field and select an item attribute value.</span></span> <span data-ttu-id="3f6f1-127">Välj alternativt åtgärden **Ny** för att först skapa ett nytt artikelattributvärde som förklaras i avsnittet "Att skapa värden för artikelattribut av typen Alternativ".</span><span class="sxs-lookup"><span data-stu-id="3f6f1-127">Alternatively, choose the **New** action to first create a new item attribute value as explained in the "To create values for item attributes of type Option" section.</span></span>
+7. <span data-ttu-id="3f6f1-128">Upprepa steg 4 genom 6 för alla artikelattribut som du vill tilldela artikeln.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-128">Repeat steps 4 through 6 for all item attributes that you want to assign to the item.</span></span>
 
-## <a name="to-assign-item-attributes-to-item-categories"></a>Så här tilldelar du ett artikelattribut till artikelkategorier
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artikelkategorier** och välj sedan relaterad länk.
-2. I fönstret **Artikelkategorier** markerar du den artikelkategori, som du vill tilldela artikelattributen till och väljer sedan åtgärden **Redigera**.
-3. I fönstret **Artikelkategorikort** på snabbfliken **Attribut** väljer du åtgärden **Ny**.
-4. I fältet **Attribut** väljer du knappen AssistEdit och väljer ett befintligt artikelattribut. Välj alternativt åtgärden **Ny** för att först skapa en ny artikelattribut som förklaras i avsnittet "Att skapa ett artikelattribut".
-5. I fältet **Standaardvärde** väljer du knappen AssistEdit och väljer du ett artikelattributvärde.
-6. Upprepa steg 4 genom 5 för alla artikelattribut som du vill tilldela artikelkategorin.
+## <a name="to-assign-item-attributes-to-item-categories"></a><span data-ttu-id="3f6f1-129">Så här tilldelar du ett artikelattribut till artikelkategorier</span><span class="sxs-lookup"><span data-stu-id="3f6f1-129">To assign item attributes to item categories</span></span>
+1. <span data-ttu-id="3f6f1-130">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artikelkategorier** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Item Categories**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3f6f1-131">I fönstret **Artikelkategorier** markerar du den artikelkategori, som du vill tilldela artikelattributen till och väljer sedan åtgärden **Redigera**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-131">In the **Item Categories** window, select the item category that you want to assign item attributes to, and then choose the **Edit** action.</span></span>
+3. <span data-ttu-id="3f6f1-132">I fönstret **Artikelkategorikort** på snabbfliken **Attribut** väljer du åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-132">In the **Item Category Card** window, on the **Attributes** FastTab, choose the **New** action.</span></span>
+4. <span data-ttu-id="3f6f1-133">I fältet **Attribut** väljer du knappen AssistEdit och väljer ett befintligt artikelattribut.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-133">Choose the AssistEdit button in the **Attribute** field and select an existing item attribute.</span></span> <span data-ttu-id="3f6f1-134">Välj alternativt åtgärden **Ny** för att först skapa en ny artikelattribut som förklaras i avsnittet "Att skapa ett artikelattribut".</span><span class="sxs-lookup"><span data-stu-id="3f6f1-134">Alternatively, choose the **New** action to first create a new item attribute as explained in the "To create an item attribute" section.</span></span>
+5. <span data-ttu-id="3f6f1-135">I fältet **Standaardvärde** väljer du knappen AssistEdit och väljer du ett artikelattributvärde.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-135">In the **Default Value** field, choose the AssistEdit button and select an item attribute value.</span></span>
+6. <span data-ttu-id="3f6f1-136">Upprepa steg 4 genom 5 för alla artikelattribut som du vill tilldela artikelkategorin.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-136">Repeat steps 4 and 5 for all item attributes that you want to assign to the item category.</span></span>
 
-**Obs!**: Artikelattribut för överordnade artikelkategorier kommer att ärvas av underordnade artikelkategorier. Detta indikeras av fältet **Ärvd från** på snabbfliken **Attribut**. För mer information finns i [Så här kategoriserar du artiklar](inventory-how-categorize-items.md).
+<span data-ttu-id="3f6f1-137">**Obs!**: Artikelattribut för överordnade artikelkategorier kommer att ärvas av underordnade artikelkategorier.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-137">**Note**: Item attributes for parent item categories will be inherited to child item categories.</span></span> <span data-ttu-id="3f6f1-138">Detta indikeras av fältet **Ärvd från** på snabbfliken **Attribut**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-138">This is indicated by the **Inherited From** field on the **Attributes** FastTab.</span></span> <span data-ttu-id="3f6f1-139">För mer information finns i [Så här kategoriserar du artiklar](inventory-how-categorize-items.md).</span><span class="sxs-lookup"><span data-stu-id="3f6f1-139">For more information, see [How to: Categorize Item](inventory-how-categorize-items.md).</span></span>
 
-## <a name="to-filter-by-item-attributes"></a>Filtrera artikel efter attribut
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artiklar** och välj sedan relaterad länk.
-2. I fönstret **Artiklar** väljer du åtgärden **Filtrera efter attribut**.
-3. I fönstret **Filtrera artiklar efter attribut** väljer du knappen AssistEdit i fältet **Attribut** och väljer sedan ett artikelattribut.
-4. I fältet **Värde** väljer du knappen AssistEdit och väljer du ett befintligt artikelattributvärde att filtrera efter.
+## <a name="to-filter-by-item-attributes"></a><span data-ttu-id="3f6f1-140">Filtrera artikel efter attribut</span><span class="sxs-lookup"><span data-stu-id="3f6f1-140">To filter by item attributes</span></span>
+1. <span data-ttu-id="3f6f1-141">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Artiklar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-141">In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3f6f1-142">I fönstret **Artiklar** väljer du åtgärden **Filtrera efter attribut**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-142">In the **Items** window, choose the **Filter by Attributes** action.</span></span>
+3. <span data-ttu-id="3f6f1-143">I fönstret **Filtrera artiklar efter attribut** väljer du knappen AssistEdit i fältet **Attribut** och väljer sedan ett artikelattribut.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-143">In the **Filter Items by Attribute** window, choose the AssistEdit button in the **Attribute** field and select an item attribute.</span></span>
+4. <span data-ttu-id="3f6f1-144">I fältet **Värde** väljer du knappen AssistEdit och väljer du ett befintligt artikelattributvärde att filtrera efter.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-144">In the **Value** field, choose the AssistEdit button and select an attribute value to filter items by.</span></span>
 
-    **Obs!** Du kan bara välja värden direkt för artikelattribut som har fasta värden, till exempel färg. För artikelattribut, som har variabelvärden, till exempel bredd, måste du ange artikelattributvärdet, genom att först välja ett villkor. Se steg 5.
-5. I fältet **Värde** ett variabelt artikelattribut väljer du knappen AssistEdit.
-6. I fönstret **Ange filtervärde** i fältet **Villkor** väljer du villkor med listpilen.
-7. I fältet **Värde** anger du ett attributvärde för att filtrera artiklar.
+    <span data-ttu-id="3f6f1-145">**Obs!** Du kan bara välja värden direkt för artikelattribut som har fasta värden, till exempel färg.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-145">**Note**: You can only select values directly for item attributes that have fixed values, such as Color.</span></span> <span data-ttu-id="3f6f1-146">För artikelattribut, som har variabelvärden, till exempel bredd, måste du ange artikelattributvärdet, genom att först välja ett villkor.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-146">For item attributes that have variable values, such as Width, you must specify the item attribute value by first selecting a condition.</span></span> <span data-ttu-id="3f6f1-147">Se steg 5.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-147">See step 5.</span></span>
+5. <span data-ttu-id="3f6f1-148">I fältet **Värde** ett variabelt artikelattribut väljer du knappen AssistEdit.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-148">In the **Value** field for a variable item attribute, choose the AssistEdit button.</span></span>
+6. <span data-ttu-id="3f6f1-149">I fönstret **Ange filtervärde** i fältet **Villkor** väljer du villkor med listpilen.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-149">In the **Specify Filter Value** window, in the **Condition** field, choose the drop-down arrow and select a condition.</span></span>
+7. <span data-ttu-id="3f6f1-150">I fältet **Värde** anger du ett attributvärde för att filtrera artiklar.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-150">In the **Value** field, enter an attribute value to filter items by.</span></span>
 
-    **Exempel** För att filtrera efter artiklar där materialbeskrivningen börjar med "blå", fyller du i fälten enligt följande: fältet **Attribut**: Materialbeskrivning, fältet **Villkor**: Börjar med, **Värde**: blå.
-8. Välj **OK**.   
+    <span data-ttu-id="3f6f1-151">**Exempel** För att filtrera efter artiklar där materialbeskrivningen börjar med "blå", fyller du i fälten enligt följande: fältet **Attribut**: Materialbeskrivning, fältet **Villkor**: Börjar med, **Värde**: blå.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-151">**Example**: To filter on items where the material description begins with "blue", fill in the fields as follows: **Attribute** field: Material Description, **Condition** field: Begins With, **Value** field: blue.</span></span>
+8. <span data-ttu-id="3f6f1-152">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-152">Choose the **OK** button.</span></span>   
 
-Artiklarna i fönstret **Artiklar** filtreras efter de angivna artikelattributvärdena.
+<span data-ttu-id="3f6f1-153">Artiklarna i fönstret **Artiklar** filtreras efter de angivna artikelattributvärdena.</span><span class="sxs-lookup"><span data-stu-id="3f6f1-153">The items in the **Items** window are filtered by the specified item attribute values.</span></span>
 
-## <a name="see-also"></a>Se även
-[Så här kategoriserar du artikeln](inventory-how-categorize-items.md)    
-[Så här registrerar du nya produkter](inventory-how-register-new-products.md)  
-[Hantera lager](inventory-manage-inventory.md)  
-[Arbeta med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="3f6f1-154">Se även</span><span class="sxs-lookup"><span data-stu-id="3f6f1-154">See Also</span></span>
+<span data-ttu-id="3f6f1-155">[Så här kategoriserar du artikeln](inventory-how-categorize-items.md)  </span><span class="sxs-lookup"><span data-stu-id="3f6f1-155">[How to: Categorize Item](inventory-how-categorize-items.md)  </span></span>  
+[<span data-ttu-id="3f6f1-156">Så här registrerar du nya produkter</span><span class="sxs-lookup"><span data-stu-id="3f6f1-156">How to: Register New Products</span></span>](inventory-how-register-new-products.md)  
+[<span data-ttu-id="3f6f1-157">Hantera lager</span><span class="sxs-lookup"><span data-stu-id="3f6f1-157">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="3f6f1-158">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="3f6f1-158">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

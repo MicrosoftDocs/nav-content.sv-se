@@ -16,40 +16,40 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Så här överför du banktillgångar
-Ibland kan du behöva överföra ett belopp från ett bankkonto till ett annat. För att göra detta måste du bokföra en transaktion i redovisningsjournalen. Uppgiften varierar beroende på om bankkontona använder samma valuta eller olika valutor.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="c2e64-102">Så här överför du banktillgångar</span><span class="sxs-lookup"><span data-stu-id="c2e64-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="c2e64-103">Ibland kan du behöva överföra ett belopp från ett bankkonto till ett annat.</span><span class="sxs-lookup"><span data-stu-id="c2e64-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="c2e64-104">För att göra detta måste du bokföra en transaktion i redovisningsjournalen.</span><span class="sxs-lookup"><span data-stu-id="c2e64-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="c2e64-105">Uppgiften varierar beroende på om bankkontona använder samma valuta eller olika valutor.</span><span class="sxs-lookup"><span data-stu-id="c2e64-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Så här bokför du en överföring mellan bankkonton med samma valutakod
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournal** och välj sedan relaterad länk.
-2. Fyll i fälten **Bokföringsdatum** och **Verifikationsnr** på en . .
-3. Ange **Bankkonto** i fältet **Kontotyp**.
-4. I fältet **Bankkontonr.** väljer du den bank som du vill överföra pengarna från.
-5. Ange det belopp som ska överföras i fältet **Belopp**.
-6. I fältet **Motkontotyp** väljer du **Bankkonto**.
-7. I fältet **Motkonto** väljer du det bankkonto som du vill överföra pengarna till.
-8. Bokför journalen.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="c2e64-106">Så här bokför du en överföring mellan bankkonton med samma valutakod</span><span class="sxs-lookup"><span data-stu-id="c2e64-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="c2e64-107">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournal** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="c2e64-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c2e64-108">Fyll i fälten **Bokföringsdatum** och **Verifikationsnr** på en .</span><span class="sxs-lookup"><span data-stu-id="c2e64-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="c2e64-109">.</span><span class="sxs-lookup"><span data-stu-id="c2e64-109">fields.</span></span>
+3. <span data-ttu-id="c2e64-110">Ange **Bankkonto** i fältet **Kontotyp**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="c2e64-111">I fältet **Bankkontonr.**</span><span class="sxs-lookup"><span data-stu-id="c2e64-111">In the **Account No.**</span></span> <span data-ttu-id="c2e64-112">väljer du den bank som du vill överföra pengarna från.</span><span class="sxs-lookup"><span data-stu-id="c2e64-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="c2e64-113">Ange det belopp som ska överföras i fältet **Belopp**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="c2e64-114">I fältet **Motkontotyp** väljer du **Bankkonto**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="c2e64-115">I fältet **Motkonto**</span><span class="sxs-lookup"><span data-stu-id="c2e64-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="c2e64-116">väljer du det bankkonto som du vill överföra pengarna till.</span><span class="sxs-lookup"><span data-stu-id="c2e64-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="c2e64-117">Bokför journalen.</span><span class="sxs-lookup"><span data-stu-id="c2e64-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Så här bokför du överföringar mellan bankkonton med olika valutakoder
-För att överföra pengar mellan bankkonton som använder olika valutor måste du bokföra två redovisningsjournalrader.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="c2e64-118">Så här bokför du överföringar mellan bankkonton med olika valutakoder</span><span class="sxs-lookup"><span data-stu-id="c2e64-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="c2e64-119">För att överföra pengar mellan bankkonton som använder olika valutor måste du bokföra två redovisningsjournalrader.</span><span class="sxs-lookup"><span data-stu-id="c2e64-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournal** och välj sedan relaterad länk.
-2. Skapa två journalrader och fyll i fälten **Bokföringsdatum** och **Verifikationsnr**. .
-3. På den första journalraden anger du **Bankkonto** i fältet **Typ**.
-4. I fältet **Bankkontonr.** väljer du det bankkonto som du vill överföra pengarna från.
-5. I fältet **Belopp** anger du beloppet i samma valuta som bankontot. Ange kreditbelopp med ett minustecken. Ange debetbelopp utan ett minustecken.
-6. I fältet **Motkontotyp** väljer du **Bankkonto**.
-7. I fältet **Motkonto** väljer du det bankkonto som du vill överföra pengarna till.
-8. På den andra journalraden anger du **Bankkonto** i fältet **Typ**.
-9. I fältet **Bankkontonr.** väljer du det bankkonto som du vill överföra pengarna till.
-10. I fältet **Belopp** anger du beloppet i samma valuta som bankontot. Ange kreditbelopp med ett minustecken. Ange debetbelopp utan ett minustecken.
-11. I fältet **Motkontotyp** väljer du **Bankkonto**.  
-12. I fältet **Motkonto** väljer du det bankkonto som du vill överföra pengarna från.
+1. <span data-ttu-id="c2e64-120">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournal** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="c2e64-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c2e64-121">Skapa två journalrader och fyll i fälten **Bokföringsdatum** och **Verifikationsnr**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="c2e64-122">.</span><span class="sxs-lookup"><span data-stu-id="c2e64-122">fields.</span></span>
+3. <span data-ttu-id="c2e64-123">På den första journalraden anger du **Bankkonto** i fältet **Typ**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="c2e64-124">I fältet **Bankkontonr.**</span><span class="sxs-lookup"><span data-stu-id="c2e64-124">In the **Account No.**</span></span> <span data-ttu-id="c2e64-125">väljer du det bankkonto som du vill överföra pengarna från.</span><span class="sxs-lookup"><span data-stu-id="c2e64-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="c2e64-126">I fältet **Belopp** anger du beloppet i samma valuta som bankontot.</span><span class="sxs-lookup"><span data-stu-id="c2e64-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="c2e64-127">Ange kreditbelopp med ett minustecken.</span><span class="sxs-lookup"><span data-stu-id="c2e64-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="c2e64-128">Ange debetbelopp utan ett minustecken.</span><span class="sxs-lookup"><span data-stu-id="c2e64-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="c2e64-129">I fältet **Motkontotyp** väljer du **Bankkonto**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="c2e64-130">I fältet **Motkonto**</span><span class="sxs-lookup"><span data-stu-id="c2e64-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="c2e64-131">väljer du det bankkonto som du vill överföra pengarna till.</span><span class="sxs-lookup"><span data-stu-id="c2e64-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="c2e64-132">På den andra journalraden anger du **Bankkonto** i fältet **Typ**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="c2e64-133">I fältet **Bankkontonr.**</span><span class="sxs-lookup"><span data-stu-id="c2e64-133">In the **Account No.**</span></span> <span data-ttu-id="c2e64-134">väljer du det bankkonto som du vill överföra pengarna till.</span><span class="sxs-lookup"><span data-stu-id="c2e64-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="c2e64-135">I fältet **Belopp** anger du beloppet i samma valuta som bankontot.</span><span class="sxs-lookup"><span data-stu-id="c2e64-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="c2e64-136">Ange kreditbelopp med ett minustecken.</span><span class="sxs-lookup"><span data-stu-id="c2e64-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="c2e64-137">Ange debetbelopp utan ett minustecken.</span><span class="sxs-lookup"><span data-stu-id="c2e64-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="c2e64-138">I fältet **Motkontotyp** väljer du **Bankkonto**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="c2e64-139">I fältet **Motkonto**</span><span class="sxs-lookup"><span data-stu-id="c2e64-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="c2e64-140">väljer du det bankkonto som du vill överföra pengarna från.</span><span class="sxs-lookup"><span data-stu-id="c2e64-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Obs!** Om de valutakurser som används i journalen inte är samma som valutakurserna i fönstret **Valutakurser** skapar du en tredje rad för valutavinsten eller valutaförlusten. Ange **Redovisningskonto** i fältet **Kontotyp**. Ange numret för redovisningskontot för valutavinster och valutaförluster i fältet **Kontonr**. . Ange valutavinsten eller valutaförlusten i fältet **Belopp** med eller utan ett minustecken för respektive kredit och debet.
-13. Bokför journalen.
+    <span data-ttu-id="c2e64-141">**Obs!** Om de valutakurser som används i journalen inte är samma som valutakurserna i fönstret **Valutakurser** skapar du en tredje rad för valutavinsten eller valutaförlusten.</span><span class="sxs-lookup"><span data-stu-id="c2e64-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="c2e64-142">Ange **Redovisningskonto** i fältet **Kontotyp**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="c2e64-143">Ange numret för redovisningskontot för valutavinster och valutaförluster i fältet **Kontonr**.</span><span class="sxs-lookup"><span data-stu-id="c2e64-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="c2e64-144">.</span><span class="sxs-lookup"><span data-stu-id="c2e64-144">field.</span></span> <span data-ttu-id="c2e64-145">Ange valutavinsten eller valutaförlusten i fältet **Belopp** med eller utan ett minustecken för respektive kredit och debet.</span><span class="sxs-lookup"><span data-stu-id="c2e64-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="c2e64-146">Bokför journalen.</span><span class="sxs-lookup"><span data-stu-id="c2e64-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Se även  
-[Hantera bankkonton](bank-manage-bank-accounts.md)  
-[Konfigurera bank](bank-setup-banking.md)  
-[Arbeta med redovisningsjournaler](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="c2e64-147">Se även</span><span class="sxs-lookup"><span data-stu-id="c2e64-147">See Also</span></span>  
+[<span data-ttu-id="c2e64-148">Hantera bankkonton</span><span class="sxs-lookup"><span data-stu-id="c2e64-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="c2e64-149">Konfigurera bank</span><span class="sxs-lookup"><span data-stu-id="c2e64-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="c2e64-150">Arbeta med redovisningsjournaler</span><span class="sxs-lookup"><span data-stu-id="c2e64-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

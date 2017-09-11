@@ -7,50 +7,50 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59db38c159dd2810656edc668ee431c6414b9d90
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6f582e844670b8dc67e458947392d29afb8f1d1a
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-adjust-item-costs"></a>Så här justerar du artikelkostnader   
-Kostnaden för en artikel (lagervärde) som du köper och senare säljer kan ändras under dess livstid, eftersom till exempel en fraktkostnad läggs till dess inköpkostnad när du har sålt artikeln. För att alltid ha rätt lagervärde måste artikelkostnader därför regelbundet justeras.
-Detta säkerställer att försäljnings- och vinststatistiken är aktuell och ekonomiska KPI-er är korrekta.
+# <a name="how-to-adjust-item-costs"></a><span data-ttu-id="4cf3c-102">Så här justerar du artikelkostnader</span><span class="sxs-lookup"><span data-stu-id="4cf3c-102">How to: Adjust Item Costs</span></span>   
+<span data-ttu-id="4cf3c-103">Kostnaden för en artikel (lagervärde) som du köper och senare säljer kan ändras under dess livstid, eftersom till exempel en fraktkostnad läggs till dess inköpkostnad när du har sålt artikeln.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-103">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</span></span> <span data-ttu-id="4cf3c-104">För att alltid ha rätt lagervärde måste artikelkostnader därför regelbundet justeras.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-104">To always know the correct inventory value, item costs must therefore regularly be adjusted.</span></span>
+<span data-ttu-id="4cf3c-105">Detta säkerställer att försäljnings- och vinststatistiken är aktuell och ekonomiska KPI-er är korrekta.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-105">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</span></span>
 
-**Obs**! Artikelkostnader justeras endast av FIFO-principen. Det betyder att en artikels styckkostnad är det faktiska värdet av alla inleveranser av artikeln och att lagret värderas med antagandet om att de första artiklarna som finns i lager säljs först.
+<span data-ttu-id="4cf3c-106">**Obs**! Artikelkostnader justeras endast av FIFO-principen.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-106">**Note**: Item costs are adjusted by the FIFO costing method only.</span></span> <span data-ttu-id="4cf3c-107">Det betyder att en artikels styckkostnad är det faktiska värdet av alla inleveranser av artikeln och att lagret värderas med antagandet om att de första artiklarna som finns i lager säljs först.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-107">This means that an item’s unit cost is the actual value of any receipt of the item, and that inventory is valuated with the assumption that the first items placed in inventory are sold first.</span></span>
 
-Funktionen Kostnadsjustering bearbetar endast värdetransaktioner som inte ännu har justerats. Om en funktion påträffas där ankommande kostnader behöver flyttas fram till kopplade avgående kostnader, görs detta genom att nya justeringsvärdetransaktioner skapas som baseras på informationen i de ursprungliga värdetransaktionerna, men som innehåller justeringsbeloppet. Funktionen Kostnadsjustering använder bokföringsdatumet för den ursprungliga värdetransaktionen om inte det datumet infaller i en avslutad lagerperiod. Om så är fallet används startdatumet för nästa öppna lagerperiod. Om lagerperioder inte används definieras datumet i fältet **Tillåt bokföring fr.o.m.** i fönstret **Redovisningsinställningar** när justeringstransaktionerna bokförs.
+<span data-ttu-id="4cf3c-108">Funktionen Kostnadsjustering bearbetar endast värdetransaktioner som inte ännu har justerats.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-108">The cost adjustment function processes only value entries that have not yet been adjusted.</span></span> <span data-ttu-id="4cf3c-109">Om en funktion påträffas där ankommande kostnader behöver flyttas fram till kopplade avgående kostnader, görs detta genom att nya justeringsvärdetransaktioner skapas som baseras på informationen i de ursprungliga värdetransaktionerna, men som innehåller justeringsbeloppet.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-109">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</span></span> <span data-ttu-id="4cf3c-110">Funktionen Kostnadsjustering använder bokföringsdatumet för den ursprungliga värdetransaktionen om inte det datumet infaller i en avslutad lagerperiod.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-110">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</span></span> <span data-ttu-id="4cf3c-111">Om så är fallet används startdatumet för nästa öppna lagerperiod.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-111">In that case, the program uses the starting date of the next open inventory period.</span></span> <span data-ttu-id="4cf3c-112">Om lagerperioder inte används definieras datumet i fältet **Tillåt bokföring fr.o.m.** i fönstret **Redovisningsinställningar** när justeringstransaktionerna bokförs.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-112">If inventory periods are not used, then the date in the **Allow Posting From** field in the **General Ledger Setup** window will define when the adjustment entry is posted.</span></span>
 
-**Obs!** När artikelkostnader har justerats, måste lagerkostnaden bokföras i redovisningen, antingen automatiskt eller manuellt. Mer information finns i [Så här bokför du lagerkostnader i redovisningen](inventory-how-post-inventory-cost-gl.md).
+<span data-ttu-id="4cf3c-113">**Obs!** När artikelkostnader har justerats, måste lagerkostnaden bokföras i redovisningen, antingen automatiskt eller manuellt.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-113">**Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually.</span></span> <span data-ttu-id="4cf3c-114">Mer information finns i [Så här bokför du lagerkostnader i redovisningen](inventory-how-post-inventory-cost-gl.md).</span><span class="sxs-lookup"><span data-stu-id="4cf3c-114">For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).</span></span>
 
-Du kan justera artikelkostnader på två sätt:
- - Automatiskt genom att ställa in systemet till att justera för alla kostnadsändringar varje gång du som lagertransaktioner inträffar.
- - Manuellt genom att köra batch-jobbet **Justera kost. - artikeltrans** för en eller flera artiklar, när du vet att motsvarande kostnader har ändrat.  
+<span data-ttu-id="4cf3c-115">Du kan justera artikelkostnader på två sätt:</span><span class="sxs-lookup"><span data-stu-id="4cf3c-115">You can adjust item costs in two ways:</span></span>
+ - <span data-ttu-id="4cf3c-116">Automatiskt genom att ställa in systemet till att justera för alla kostnadsändringar varje gång du som lagertransaktioner inträffar.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-116">Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.</span></span>
+ - <span data-ttu-id="4cf3c-117">Manuellt genom att köra batch-jobbet **Justera kost. - artikeltrans** för en eller flera artiklar, när du vet att motsvarande kostnader har ändrat.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-117">Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.</span></span>  
 
-## <a name="to-adjust-item-costs-automatically"></a>Så här justerar du artikelkostnader automatiskt
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Lagerinställningar** och välj sedan relaterad länk.
-2. Välj ett av följande värden i fönstret **Lagerinställningar** i fältet **automatisk kostnadsjustering**.
+## <a name="to-adjust-item-costs-automatically"></a><span data-ttu-id="4cf3c-118">Så här justerar du artikelkostnader automatiskt</span><span class="sxs-lookup"><span data-stu-id="4cf3c-118">To adjust item costs automatically</span></span>
+1. <span data-ttu-id="4cf3c-119">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Lagerinställningar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.</span></span>
+2. <span data-ttu-id="4cf3c-120">Välj ett av följande värden i fönstret **Lagerinställningar** i fältet **automatisk kostnadsjustering**.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-120">In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.</span></span>
 
-|Alternativ |Beteende |
+|<span data-ttu-id="4cf3c-121">Alternativ</span><span class="sxs-lookup"><span data-stu-id="4cf3c-121">Option</span></span> |<span data-ttu-id="4cf3c-122">Beteende</span><span class="sxs-lookup"><span data-stu-id="4cf3c-122">Behavior</span></span> |
 |-------|---------|
-|Aldrig|Kostnaderna justeras inte vid bokföringen|
-|Dag|Kostnaderna justeras om bokföringen sker inom ett dygn från arbetsdatumet.|
-|Vecka|Kostnaderna justeras om bokföringen sker inom en vecka från arbetsdatumet.|
-|Månad|Kostnaderna justeras om bokföringen sker inom en månad från arbetsdatumet.|
-|Kvartal|Kostnaderna justeras om bokföringen sker inom ett kvartal från arbetsdatumet.|
-|År|Kostnaderna justeras om bokföringen sker inom ett år från arbetsdatumet.|
-|Alltid|Kostnaderna justeras vid bokföringen, oavsett bokföringsdatum.|
+|<span data-ttu-id="4cf3c-123">Aldrig</span><span class="sxs-lookup"><span data-stu-id="4cf3c-123">Never</span></span>|<span data-ttu-id="4cf3c-124">Kostnaderna justeras inte vid bokföringen</span><span class="sxs-lookup"><span data-stu-id="4cf3c-124">Costs are not adjusted when posting</span></span>|
+|<span data-ttu-id="4cf3c-125">Dag</span><span class="sxs-lookup"><span data-stu-id="4cf3c-125">Day</span></span>|<span data-ttu-id="4cf3c-126">Kostnaderna justeras om bokföringen sker inom ett dygn från arbetsdatumet.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-126">Costs are adjusted if posting occurs within one day from the work date</span></span>|
+|<span data-ttu-id="4cf3c-127">Vecka</span><span class="sxs-lookup"><span data-stu-id="4cf3c-127">Week</span></span>|<span data-ttu-id="4cf3c-128">Kostnaderna justeras om bokföringen sker inom en vecka från arbetsdatumet.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-128">Costs are adjusted if posting occurs within one week from the work date</span></span>|
+|<span data-ttu-id="4cf3c-129">Månad</span><span class="sxs-lookup"><span data-stu-id="4cf3c-129">Month</span></span>|<span data-ttu-id="4cf3c-130">Kostnaderna justeras om bokföringen sker inom en månad från arbetsdatumet.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-130">Costs are adjusted if posting occurs within one month from the work date</span></span>|
+|<span data-ttu-id="4cf3c-131">Kvartal</span><span class="sxs-lookup"><span data-stu-id="4cf3c-131">Quarter</span></span>|<span data-ttu-id="4cf3c-132">Kostnaderna justeras om bokföringen sker inom ett kvartal från arbetsdatumet.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-132">Costs are adjusted if posting occurs within one quarter from the work date</span></span>|
+|<span data-ttu-id="4cf3c-133">År</span><span class="sxs-lookup"><span data-stu-id="4cf3c-133">Year</span></span>|<span data-ttu-id="4cf3c-134">Kostnaderna justeras om bokföringen sker inom ett år från arbetsdatumet.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-134">Costs are adjusted if posting occurs within one year from the work date</span></span>|
+|<span data-ttu-id="4cf3c-135">Alltid</span><span class="sxs-lookup"><span data-stu-id="4cf3c-135">Always</span></span>|<span data-ttu-id="4cf3c-136">Kostnaderna justeras vid bokföringen, oavsett bokföringsdatum.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-136">Costs are always adjusted when posting, irrespective of the posting date</span></span>|
 
-## <a name="to-adjust-item-costs-manually"></a>Så här justerar du artikelkostnader manuellt
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Justera kost. - artikeltrans.** och välj sedan relaterad länk.
-2. I fönstret **Justera kost. - artikeltrans.** anger du vilka artiklar att justera kostnaderna för och om den justerade kostnaden ska bokföras i redovisningen samtidigt
+## <a name="to-adjust-item-costs-manually"></a><span data-ttu-id="4cf3c-137">Så här justerar du artikelkostnader manuellt</span><span class="sxs-lookup"><span data-stu-id="4cf3c-137">To adjust item costs manually</span></span>
+1. <span data-ttu-id="4cf3c-138">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Justera kost. - artikeltrans.** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="4cf3c-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.</span></span>
+2. <span data-ttu-id="4cf3c-139">I fönstret **Justera kost. - artikeltrans.** anger du vilka artiklar att justera kostnaderna för och om den justerade kostnaden ska bokföras i redovisningen samtidigt</span><span class="sxs-lookup"><span data-stu-id="4cf3c-139">In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.</span></span>
 
-## <a name="see-also"></a>Se även
-[Hantera lager](inventory-manage-inventory.md)  
-[Så här kan du bokföra lagerkostnader i redovisningen](inventory-how-post-inventory-cost-gl.md)  
-[Hantera försäljning](sales-manage-sales.md)  
-[Hantera inköp](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="4cf3c-140">Se även</span><span class="sxs-lookup"><span data-stu-id="4cf3c-140">See Also</span></span>
+[<span data-ttu-id="4cf3c-141">Hantera lager</span><span class="sxs-lookup"><span data-stu-id="4cf3c-141">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="4cf3c-142">Så här kan du bokföra lagerkostnader i redovisningen</span><span class="sxs-lookup"><span data-stu-id="4cf3c-142">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)  
+[<span data-ttu-id="4cf3c-143">Hantera försäljning</span><span class="sxs-lookup"><span data-stu-id="4cf3c-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="4cf3c-144">Hantera inköp</span><span class="sxs-lookup"><span data-stu-id="4cf3c-144">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

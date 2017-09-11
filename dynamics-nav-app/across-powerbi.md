@@ -7,106 +7,106 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 6351e4819a2f3665cc561b5b1f868eea5d435f75
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: ad9519b8ce9c244480308ccc99c05e78e4926b06
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="using-the-dynamics-nav-content-pack-for-power-bi"></a>Använda Dynamics NAV innehållspaket för Power BI
-Det är enkelt att få insikter om Dynamics NAV-data med Power BI och innehållspaketet för Dynamics NAV. Power BI hämtar dina data och bygger en förinstallerad instrumentbräda och rapporter baserade på den data.  
+# <a name="using-the-dynamics-nav-content-pack-for-power-bi"></a><span data-ttu-id="e95e8-102">Använda Dynamics NAV innehållspaket för Power BI</span><span class="sxs-lookup"><span data-stu-id="e95e8-102">Using the Dynamics NAV Content Pack for Power BI</span></span>
+<span data-ttu-id="e95e8-103">Det är enkelt att få insikter om Dynamics NAV-data med Power BI och innehållspaketet för Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="e95e8-103">Getting insights into your Dynamics NAV data is easy with Power BI and the Dynamics NAV content pack.</span></span> <span data-ttu-id="e95e8-104">Power BI hämtar dina data och bygger en förinstallerad instrumentbräda och rapporter baserade på den data.</span><span class="sxs-lookup"><span data-stu-id="e95e8-104">Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.</span></span>  
 
-Innehållspaketet är förkonfigurerat för att arbeta med försäljningsdata och ekonomiska data från demonstrationsföretaget som du får när du registrerar dig på förhandsgranskningen av Dynamics NAV.  
+<span data-ttu-id="e95e8-105">Innehållspaketet är förkonfigurerat för att arbeta med försäljningsdata och ekonomiska data från demonstrationsföretaget som du får när du registrerar dig på förhandsgranskningen av Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="e95e8-105">The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for the Dynamics NAV preview.</span></span>  
 
-- Välj något visuellt på instrumentbrädan för att få upp en av sju underliggande rapporter.  
-- Filtrera rapporten eller lägg till fält som du vill övervaka.  
-- Sätt fast den här vyn på instrumentbrädan om du vill fortsätta spårningen.  
-Instrumentbrädan och underliggande rapporter uppdateras dagligen. Du kan kontrollera uppdateringsschemat och ändra frekvens på datauppsättningen.  
+- <span data-ttu-id="e95e8-106">Välj något visuellt på instrumentbrädan för att få upp en av sju underliggande rapporter.</span><span class="sxs-lookup"><span data-stu-id="e95e8-106">Choose any visual on the dashboard to bring up one of seven underlying reports.</span></span>  
+- <span data-ttu-id="e95e8-107">Filtrera rapporten eller lägg till fält som du vill övervaka.</span><span class="sxs-lookup"><span data-stu-id="e95e8-107">Filter the report or add fields that you want to monitor.</span></span>  
+- <span data-ttu-id="e95e8-108">Sätt fast den här vyn på instrumentbrädan om du vill fortsätta spårningen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-108">Pin this customized view to the dashboard to continue tracking.</span></span>  
+<span data-ttu-id="e95e8-109">Instrumentbrädan och underliggande rapporter uppdateras dagligen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-109">The dashboard and underlying reports refresh daily.</span></span> <span data-ttu-id="e95e8-110">Du kan kontrollera uppdateringsschemat och ändra frekvens på datauppsättningen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-110">You can control the refresh schedule and modify the frequency on the dataset.</span></span>  
 
-## <a name="accessing-dynamics-nav-in-power-bi"></a>Öppna Dynamics NAV i Power BI
-Om du vill se data för Dynamics NAV i Power BI måste du ha följande:  
+## <a name="accessing-dynamics-nav-in-power-bi"></a><span data-ttu-id="e95e8-111">Öppna Dynamics NAV i Power BI</span><span class="sxs-lookup"><span data-stu-id="e95e8-111">Accessing Dynamics NAV in Power BI</span></span>
+<span data-ttu-id="e95e8-112">Om du vill se data för Dynamics NAV i Power BI måste du ha följande:</span><span class="sxs-lookup"><span data-stu-id="e95e8-112">To see your Dynamics NAV data in Power BI, you must have the following:</span></span>  
 
-- Åtkomst till Dynamics NAV. Mer information finns i [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
-- Åtkomst till Power BI. Mer information finns i [Power BI](https://powerbi.microsoft.com).
+- <span data-ttu-id="e95e8-113">Åtkomst till Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="e95e8-113">Access to Dynamics NAV.</span></span> <span data-ttu-id="e95e8-114">Mer information finns i [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).</span><span class="sxs-lookup"><span data-stu-id="e95e8-114">For more information, see [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).</span></span>  
+- <span data-ttu-id="e95e8-115">Åtkomst till Power BI.</span><span class="sxs-lookup"><span data-stu-id="e95e8-115">Access to Power BI.</span></span> <span data-ttu-id="e95e8-116">Mer information finns i [Power BI](https://powerbi.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="e95e8-116">For more information, see [Power BI](https://powerbi.microsoft.com).</span></span>
 
-Du hittar ytterligare information på webbplatsen för Power BI om [lägga till Dynamics NAV ](http://go.microsoft.com/fwlink/?LinkID=760850)-innehållspaket till Power BI.  
+<span data-ttu-id="e95e8-117">Du hittar ytterligare information på webbplatsen för Power BI om [lägga till Dynamics NAV ](http://go.microsoft.com/fwlink/?LinkID=760850)-innehållspaket till Power BI.</span><span class="sxs-lookup"><span data-stu-id="e95e8-117">On the Power BI site, you can find additional information about [adding the Dynamics NAV content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).</span></span>  
 
-Om du vill komma åt Dynamics NAV-innehållspaketet i Power BI, i anslutningsfönstret måste du ange följande information:
+<span data-ttu-id="e95e8-118">Om du vill komma åt Dynamics NAV-innehållspaketet i Power BI, i anslutningsfönstret måste du ange följande information:</span><span class="sxs-lookup"><span data-stu-id="e95e8-118">To access the Dynamics NAV content pack in Power BI, in the connection window, you must specify the following information:</span></span>
 
-| Fält       | Beskrivning              |
+| <span data-ttu-id="e95e8-119">Fält</span><span class="sxs-lookup"><span data-stu-id="e95e8-119">Field</span></span>       | <span data-ttu-id="e95e8-120">Beskrivning</span><span class="sxs-lookup"><span data-stu-id="e95e8-120">Description</span></span>              |
 |-------------|--------------------------|
-|**OData feed URL**|OData-URL så att Power BI kan få åtkomst till data från ditt företag som t.ex. https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US').|
-|**Autentiseringsmetod**|Välj **grundläggande**.|
-|**Användarnamn**|E-postkontot som du som du använde till att registrera dig för signerar för Dynamics NAV , t.ex. *me@mybusiness.com*.|
-|**Lösenord**|Detta är webbtjänståtkomstnyckel för ditt användarkonto i Dynamics NAV. |
+|<span data-ttu-id="e95e8-121">**OData feed URL**</span><span class="sxs-lookup"><span data-stu-id="e95e8-121">**OData Feed URL**</span></span>|<span data-ttu-id="e95e8-122">OData-URL så att Power BI kan få åtkomst till data från ditt företag som t.ex. https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US').</span><span class="sxs-lookup"><span data-stu-id="e95e8-122">The OData URL so Power BI can access data from your company, such as https://mybusiness.com:7048/MS/OData/Company('CRONUS%20US').</span></span>|
+|<span data-ttu-id="e95e8-123">**Autentiseringsmetod**</span><span class="sxs-lookup"><span data-stu-id="e95e8-123">**Authentication method**</span></span>|<span data-ttu-id="e95e8-124">Välj **grundläggande**.</span><span class="sxs-lookup"><span data-stu-id="e95e8-124">Choose **Basic**.</span></span>|
+|<span data-ttu-id="e95e8-125">**Användarnamn**</span><span class="sxs-lookup"><span data-stu-id="e95e8-125">**User name**</span></span>|<span data-ttu-id="e95e8-126">E-postkontot som du som du använde till att registrera dig för signerar för Dynamics NAV , t.ex. *me@mybusiness.com*.</span><span class="sxs-lookup"><span data-stu-id="e95e8-126">The email account that you used to sign up for Dynamics NAV, such as *me@mybusiness.com*.</span></span>|
+|<span data-ttu-id="e95e8-127">**Lösenord**</span><span class="sxs-lookup"><span data-stu-id="e95e8-127">**Password**</span></span>|<span data-ttu-id="e95e8-128">Detta är webbtjänståtkomstnyckel för ditt användarkonto i Dynamics NAV. </span><span class="sxs-lookup"><span data-stu-id="e95e8-128">This is the web service access key for your user account in Dynamics NAV.</span></span>|
 
-Detta innebär dock att du måste ha två enheter av information från Dynamics NAV: OData-URL och webbtjänståtkomstnyckel för ditt användarkonto.  
-**Få URL:en**  
-När du lägger till Dynamics NAV till Power BI måste du ange en URL, så att Power BI kan komma åt data från företaget. I anslutningsfönstret kommer URL:en att hänvisas till som **OData Feed URL** och måste ha följande format:
+<span data-ttu-id="e95e8-129">Detta innebär dock att du måste ha två enheter av information från Dynamics NAV: OData-URL och webbtjänståtkomstnyckel för ditt användarkonto.</span><span class="sxs-lookup"><span data-stu-id="e95e8-129">This means that you must get two pieces of information from Dynamics NAV: The OData URL and the web service access key for your user account.</span></span>  
+<span data-ttu-id="e95e8-130">**Få URL:en**</span><span class="sxs-lookup"><span data-stu-id="e95e8-130">**Getting the URL**</span></span>  
+<span data-ttu-id="e95e8-131">När du lägger till Dynamics NAV till Power BI måste du ange en URL, så att Power BI kan komma åt data från företaget.</span><span class="sxs-lookup"><span data-stu-id="e95e8-131">When you add Dynamics NAV to Power BI, you must specify a URL so Power BI can access data from your company.</span></span> <span data-ttu-id="e95e8-132">I anslutningsfönstret kommer URL:en att hänvisas till som **OData Feed URL** och måste ha följande format:</span><span class="sxs-lookup"><span data-stu-id="e95e8-132">In the connection window, the URL is referred to as the **OData Feed URL**, and it must have the following format:</span></span>
 
          https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-I det här exemplet är *mybusiness* namnet på din Dynamics NAV-tjänst och *CRONUS US* är namnet på demonstrationsföretaget med *%20* som representerar utrymmet i namnet.   
-Om du vill få URL:en söker du efter och öppnar i Dynamics NAV fönstret **Webbtjänster**. I det här fönstret visas webbtjänsterna som för närvarande finns tillgängliga och du kan kopiera länken från fältet **OData-URL** för en av de standardinställda OData-webbtjänsterna.  
-**Få webbtjänståtkomstnyckeln**  
-För att använda data från Dynamics NAV , i Power BI, i fönstret **Anslut till Dynamics NAV** måste du ange din användarnamn, som är ett e-postkonto, och ett lösenord. Lösenordet är webbtjänståtkomstnyckeln som är konfigurerad för ditt användarkonto i Dynamics NAV.   
-Om du vill få en webbtjänståtkomstnyckel, i Dynamics NAV söker du efter fönstret **Användare** och öppnar sedan kortet för ditt användarkonto. På snabbfliken **Webbtjänståtkomst** kopierar du innehållet i fältet **Webbtjänståtkomstnyckel**. Om fältet är tomt, välj **Ändra webbtjänståtkomstnyckel**, välj fältet **Nyckeln upphör aldrig att gälla** och tryck sedan på OK-knappen. Du kan sedan kopiera nyckeln.  
+<span data-ttu-id="e95e8-133">I det här exemplet är *mybusiness* namnet på din Dynamics NAV-tjänst och *CRONUS US* är namnet på demonstrationsföretaget med *%20* som representerar utrymmet i namnet.</span><span class="sxs-lookup"><span data-stu-id="e95e8-133">In this example, *mybusiness* is the name of your Dynamics NAV service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.</span></span>   
+<span data-ttu-id="e95e8-134">Om du vill få URL:en söker du efter och öppnar i Dynamics NAV fönstret **Webbtjänster**.</span><span class="sxs-lookup"><span data-stu-id="e95e8-134">To get the URL, in Dynamics NAV, search for and open the **Web Services** window.</span></span> <span data-ttu-id="e95e8-135">I det här fönstret visas webbtjänsterna som för närvarande finns tillgängliga och du kan kopiera länken från fältet **OData-URL** för en av de standardinställda OData-webbtjänsterna.</span><span class="sxs-lookup"><span data-stu-id="e95e8-135">This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.</span></span>  
+<span data-ttu-id="e95e8-136">**Få webbtjänståtkomstnyckeln**</span><span class="sxs-lookup"><span data-stu-id="e95e8-136">**Getting the web service access key**</span></span>  
+<span data-ttu-id="e95e8-137">För att använda data från Dynamics NAV , i Power BI, i fönstret **Anslut till Dynamics NAV** måste du ange din användarnamn, som är ett e-postkonto, och ett lösenord.</span><span class="sxs-lookup"><span data-stu-id="e95e8-137">In order to use data from Dynamics NAV, in Power BI, in the **Connect to Dynamics NAV** window, you must specify your user name, which is your email account, and a password.</span></span> <span data-ttu-id="e95e8-138">Lösenordet är webbtjänståtkomstnyckeln som är konfigurerad för ditt användarkonto i Dynamics NAV. </span><span class="sxs-lookup"><span data-stu-id="e95e8-138">The password is the web service access key that is set up for your user account in Dynamics NAV.</span></span>  
+<span data-ttu-id="e95e8-139">Om du vill få en webbtjänståtkomstnyckel, i Dynamics NAV söker du efter fönstret **Användare** och öppnar sedan kortet för ditt användarkonto.</span><span class="sxs-lookup"><span data-stu-id="e95e8-139">To get a web service access key, in Dynamics NAV, search for the **Users** window, and then open the card for your user account.</span></span> <span data-ttu-id="e95e8-140">På snabbfliken **Webbtjänståtkomst** kopierar du innehållet i fältet **Webbtjänståtkomstnyckel**.</span><span class="sxs-lookup"><span data-stu-id="e95e8-140">On the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field.</span></span> <span data-ttu-id="e95e8-141">Om fältet är tomt, välj **Ändra webbtjänståtkomstnyckel**, välj fältet **Nyckeln upphör aldrig att gälla** och tryck sedan på OK-knappen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-141">If the field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button.</span></span> <span data-ttu-id="e95e8-142">Du kan sedan kopiera nyckeln.</span><span class="sxs-lookup"><span data-stu-id="e95e8-142">You can then copy the key.</span></span>  
 
-## <a name="getting-data-from-dynamics-nav"></a>Hämta data från Dynamics NAV 
-Instrumentbrädan för Dynamics NAV visar de vanligaste rapporterna som du kommer att behöva använda för att spåra verksamheten. Data extraheras från ditt Dynamics NAV-företag med webbtjänster för att läsa realtidsdata. I Dynamics NAV anger fönstret **Webbtjänster** webbtjänsterna som har konfigurerats för dig, inklusive följande som förbrukas av innehållspaketet i Power BI:  
+## <a name="getting-data-from-dynamics-nav"></a><span data-ttu-id="e95e8-143">Hämta data från Dynamics NAV </span><span class="sxs-lookup"><span data-stu-id="e95e8-143">Getting Data from Dynamics NAV</span></span>
+<span data-ttu-id="e95e8-144">Instrumentbrädan för Dynamics NAV visar de vanligaste rapporterna som du kommer att behöva använda för att spåra verksamheten.</span><span class="sxs-lookup"><span data-stu-id="e95e8-144">The Dynamics NAV dashboard shows the most typical reports that you will want to use to track your business.</span></span> <span data-ttu-id="e95e8-145">Data extraheras från ditt Dynamics NAV-företag med webbtjänster för att läsa realtidsdata.</span><span class="sxs-lookup"><span data-stu-id="e95e8-145">The data is extracted from your Dynamics NAV company using web services to read live data.</span></span> <span data-ttu-id="e95e8-146">I Dynamics NAV anger fönstret **Webbtjänster** webbtjänsterna som har konfigurerats för dig, inklusive följande som förbrukas av innehållspaketet i Power BI:</span><span class="sxs-lookup"><span data-stu-id="e95e8-146">In Dynamics NAV, the **Web Services** window lists the web services that have been set up for you, including the following that are consumed by the content pack in Power BI:</span></span>  
 
-- ItemSalesAndProfit  
-- ItemSalesByCustomer  
-- powerbifinance-inställning  
-- SalesDashboard  
-- SalesOpportunities  
-- SalesOrdersBySalesPerson  
-- TopCustomerOverview  
+- <span data-ttu-id="e95e8-147">ItemSalesAndProfit</span><span class="sxs-lookup"><span data-stu-id="e95e8-147">ItemSalesAndProfit</span></span>  
+- <span data-ttu-id="e95e8-148">ItemSalesByCustomer</span><span class="sxs-lookup"><span data-stu-id="e95e8-148">ItemSalesByCustomer</span></span>  
+- <span data-ttu-id="e95e8-149">powerbifinance-inställning</span><span class="sxs-lookup"><span data-stu-id="e95e8-149">powerbifinance-setup</span></span>  
+- <span data-ttu-id="e95e8-150">SalesDashboard</span><span class="sxs-lookup"><span data-stu-id="e95e8-150">SalesDashboard</span></span>  
+- <span data-ttu-id="e95e8-151">SalesOpportunities</span><span class="sxs-lookup"><span data-stu-id="e95e8-151">SalesOpportunities</span></span>  
+- <span data-ttu-id="e95e8-152">SalesOrdersBySalesPerson</span><span class="sxs-lookup"><span data-stu-id="e95e8-152">SalesOrdersBySalesPerson</span></span>  
+- <span data-ttu-id="e95e8-153">TopCustomerOverview</span><span class="sxs-lookup"><span data-stu-id="e95e8-153">TopCustomerOverview</span></span>  
 
-**Obs!** Om du ändrar namnet på någon av dessa webbtjänster, kommer data inte att visas i Power BI.  
-Om du vill lägga till i andra data i Power BI, måste du hitta tabellerna i Dynamics NAV och exponera dem som webbtjänster och sedan lägga till dem i innehållspaketet. Detta är ett avancerat scenario och vi rekommenderar att du börjar med data som redan är tillgängliga i Power BI.  
+<span data-ttu-id="e95e8-154">**Obs!** Om du ändrar namnet på någon av dessa webbtjänster, kommer data inte att visas i Power BI.</span><span class="sxs-lookup"><span data-stu-id="e95e8-154">**Note**: If you change the name of any of these web services, the data will not show up in Power BI.</span></span>  
+<span data-ttu-id="e95e8-155">Om du vill lägga till i andra data i Power BI, måste du hitta tabellerna i Dynamics NAV och exponera dem som webbtjänster och sedan lägga till dem i innehållspaketet.</span><span class="sxs-lookup"><span data-stu-id="e95e8-155">If you want to add use other data in Power BI, you must find the tables in Dynamics NAV, expose them as web services, and then add them to the content pack.</span></span> <span data-ttu-id="e95e8-156">Detta är ett avancerat scenario och vi rekommenderar att du börjar med data som redan är tillgängliga i Power BI.</span><span class="sxs-lookup"><span data-stu-id="e95e8-156">This is an advanced scenario, and we recommend that you start with the data that is already available in Power BI.</span></span>  
 
-## <a name="troubleshooting"></a>Felsökning
-Instrumentbrädan för Power BI förlitar sig på de publicerade webbtjänsterna som visas ovan, och kommer att innehålla data från demonstrationsföretaget eller ditt eget företag om du importerar data från den aktuella finansinställningslösningen. Men om något går fel kommer denna sektion att ge en tillfällig lösning för de vanligaste problemen.  
+## <a name="troubleshooting"></a><span data-ttu-id="e95e8-157">Felsökning</span><span class="sxs-lookup"><span data-stu-id="e95e8-157">Troubleshooting</span></span>
+<span data-ttu-id="e95e8-158">Instrumentbrädan för Power BI förlitar sig på de publicerade webbtjänsterna som visas ovan, och kommer att innehålla data från demonstrationsföretaget eller ditt eget företag om du importerar data från den aktuella finansinställningslösningen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-158">The Power BI dashboard relies on the published web services that are listed above, and it will show data from the demonstration company or your own company if you import data from your current finance-setup solution.</span></span> <span data-ttu-id="e95e8-159">Men om något går fel kommer denna sektion att ge en tillfällig lösning för de vanligaste problemen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-159">However, if something goes wrong, this section provides a workaround for the most typical issues.</span></span>  
 
-**"Parametervalidering misslyckades. Se till att alla parametrar är giltiga"**  
-Om du ser det här felet efter att du har angett Dynamics NAV-URL:en ska du se till att följande krav är uppfyllda:  
+<span data-ttu-id="e95e8-160">**"Parametervalidering misslyckades. Se till att alla parametrar är giltiga"**</span><span class="sxs-lookup"><span data-stu-id="e95e8-160">**"Parameter validation failed, please make sure all parameters are valid"**</span></span>  
+<span data-ttu-id="e95e8-161">Om du ser det här felet efter att du har angett Dynamics NAV-URL:en ska du se till att följande krav är uppfyllda:</span><span class="sxs-lookup"><span data-stu-id="e95e8-161">If you see this error after you enter your Dynamics NAV URL, make sure the following requirements are satisfied:</span></span>  
 
-- URL:en följer exakt deta mönster:
+- <span data-ttu-id="e95e8-162">URL:en följer exakt deta mönster:</span><span class="sxs-lookup"><span data-stu-id="e95e8-162">The URL follows exactly this pattern:</span></span>
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-- Ta bort all text efter företagsnamnet i parentesen  
-- Se till att det inte finns något avslutande snedstreck i slutet av URL:en.  
-- Se till att det finns en säker anslutning som anges av URL:en som börjar med *https*.  
-
-
-**"Inloggningen misslyckades"**  
-Om du får felet "Inloggningen misslyckades" när du loggar in på instrumentbrädan med dina autentiseringsuppgifter för Dynamics NAV kan detta orsakas av ett följande problem:
-
-* Kontot som du använder har inte behörighet att läsa data från Dynamics NAV från ditt konto.
-
-    Kontrollera ditt användarkonto i Dynamics NAV och se till att du har använt rätt webbtjänståtkomstnyckel som lösenord och försök sedan igen.  
-* Instansen Dynamics NAV som du försöker att ansluta till har inte ett giltigt SSL-certifikat. I så fall visas en mer detaljerat felmeddelande ("det går inte att upprätta betrott SSL-förhållande").
-
-    **Obs!**: Självsignerade certifikat stöds inte.  
+    <span data-ttu-id="e95e8-163">https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')</span><span class="sxs-lookup"><span data-stu-id="e95e8-163">https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')</span></span>  
+- <span data-ttu-id="e95e8-164">Ta bort all text efter företagsnamnet i parentesen</span><span class="sxs-lookup"><span data-stu-id="e95e8-164">Delete any text after the company name in parenthesis</span></span>  
+- <span data-ttu-id="e95e8-165">Se till att det inte finns något avslutande snedstreck i slutet av URL:en.</span><span class="sxs-lookup"><span data-stu-id="e95e8-165">Make sure there are no trailing forward slash at the end of the URL.</span></span>  
+- <span data-ttu-id="e95e8-166">Se till att det finns en säker anslutning som anges av URL:en som börjar med *https*.</span><span class="sxs-lookup"><span data-stu-id="e95e8-166">Make sure that it is a secure connection as indicated by the URL starting with *https*.</span></span>  
 
 
-**"Hoppsan"**  
-Om du ser feldialogen "Hoppsan" när du har passerat autentiseringdialogen, orsakas den oftast av ett problem vid anslutning av data för innehållspaketet.
+<span data-ttu-id="e95e8-167">**"Inloggningen misslyckades"**</span><span class="sxs-lookup"><span data-stu-id="e95e8-167">**"Login failed"**</span></span>  
+<span data-ttu-id="e95e8-168">Om du får felet "Inloggningen misslyckades" när du loggar in på instrumentbrädan med dina autentiseringsuppgifter för Dynamics NAV kan detta orsakas av ett följande problem:</span><span class="sxs-lookup"><span data-stu-id="e95e8-168">If you get a "login failed" error when you log in to the dashboard, using your Dynamics NAV credentials, then this can be caused by one of the following issues:</span></span>
 
-* Kontrollera att URL:en följer mönstret som angavs tidigare:
+* <span data-ttu-id="e95e8-169">Kontot som du använder har inte behörighet att läsa data från Dynamics NAV från ditt konto.</span><span class="sxs-lookup"><span data-stu-id="e95e8-169">The account you are using does not have permissions to read the Dynamics NAV data from your account.</span></span>
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-* Ett vanligt fel är att ange den fullständiga URL:en för en viss webbtjänst:
+    <span data-ttu-id="e95e8-170">Kontrollera ditt användarkonto i Dynamics NAV och se till att du har använt rätt webbtjänståtkomstnyckel som lösenord och försök sedan igen.</span><span class="sxs-lookup"><span data-stu-id="e95e8-170">Verify your user account in Dynamics NAV, and make sure that you have used the right web service access key as the password, and then try again.</span></span>  
+* <span data-ttu-id="e95e8-171">Instansen Dynamics NAV som du försöker att ansluta till har inte ett giltigt SSL-certifikat.</span><span class="sxs-lookup"><span data-stu-id="e95e8-171">The Dynamics NAV  instance that you are trying to connect to does not have a valid SSL certificate.</span></span> <span data-ttu-id="e95e8-172">I så fall visas en mer detaljerat felmeddelande ("det går inte att upprätta betrott SSL-förhållande").</span><span class="sxs-lookup"><span data-stu-id="e95e8-172">In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship").</span></span>
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance-setup  
-* Eller så har du glömt att ange företagsnamnet:
-
-    https://mybusiness.projectmadeira.com:7048/MS/OData/  
+    <span data-ttu-id="e95e8-173">**Obs!**: Självsignerade certifikat stöds inte.</span><span class="sxs-lookup"><span data-stu-id="e95e8-173">**Note**: Self-signed certificates are not supported.</span></span>  
 
 
-## <a name="see-also"></a>Se även
-[Välkommen till Dynamics NAV](across-get-started.md)  
+<span data-ttu-id="e95e8-174">**"Hoppsan"**</span><span class="sxs-lookup"><span data-stu-id="e95e8-174">**"Oops"**</span></span>  
+<span data-ttu-id="e95e8-175">Om du ser feldialogen "Hoppsan" när du har passerat autentiseringdialogen, orsakas den oftast av ett problem vid anslutning av data för innehållspaketet.</span><span class="sxs-lookup"><span data-stu-id="e95e8-175">If you see an "Oops" error dialog after you pass the authentication dialog, this is most frequently caused by a problem connecting to the data for the content pack.</span></span>
+
+* <span data-ttu-id="e95e8-176">Kontrollera att URL:en följer mönstret som angavs tidigare:</span><span class="sxs-lookup"><span data-stu-id="e95e8-176">Verify that the URL follows the pattern that was specified earlier:</span></span>
+
+    <span data-ttu-id="e95e8-177">https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')</span><span class="sxs-lookup"><span data-stu-id="e95e8-177">https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')</span></span>  
+* <span data-ttu-id="e95e8-178">Ett vanligt fel är att ange den fullständiga URL:en för en viss webbtjänst:</span><span class="sxs-lookup"><span data-stu-id="e95e8-178">A common mistake is to specify the full URL for a specific web service:</span></span>
+
+    <span data-ttu-id="e95e8-179">https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance-setup</span><span class="sxs-lookup"><span data-stu-id="e95e8-179">https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance-setup</span></span>  
+* <span data-ttu-id="e95e8-180">Eller så har du glömt att ange företagsnamnet:</span><span class="sxs-lookup"><span data-stu-id="e95e8-180">Or you might have forgotten to specify the company name:</span></span>
+
+    <span data-ttu-id="e95e8-181">https://mybusiness.projectmadeira.com:7048/MS/OData/</span><span class="sxs-lookup"><span data-stu-id="e95e8-181">https://mybusiness.projectmadeira.com:7048/MS/OData/</span></span>  
+
+
+## <a name="see-also"></a><span data-ttu-id="e95e8-182">Se även</span><span class="sxs-lookup"><span data-stu-id="e95e8-182">See Also</span></span>
+[<span data-ttu-id="e95e8-183">Välkommen till Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="e95e8-183">Welcome to Dynamics NAV</span></span>](across-get-started.md)  
 

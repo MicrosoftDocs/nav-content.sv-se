@@ -1,1 +1,1 @@
-utvecklingsmiljö
+<span data-ttu-id="5b800-101">utvecklingsmiljö</span><span class="sxs-lookup"><span data-stu-id="5b800-101">development environment</span></span>

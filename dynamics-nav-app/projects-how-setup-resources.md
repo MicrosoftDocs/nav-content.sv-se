@@ -16,62 +16,62 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-resources"></a>Så här skapar du resurser
-Du måste lägga upp resurser och relaterade kostnader och priser för att hantera resursaktiviteter på rätt sätt. Projektrelaterade priser, rabatter och kostnadsfaktorregler är definierade på projektkortet. Du kan specificera kostnader och priser för enskilda resurser, resursgrupper eller alla tillgängliga resurser i företaget.
+# <a name="how-to-set-up-resources"></a><span data-ttu-id="935bc-102">Så här skapar du resurser</span><span class="sxs-lookup"><span data-stu-id="935bc-102">How to: Set Up Resources</span></span>
+<span data-ttu-id="935bc-103">Du måste lägga upp resurser och relaterade kostnader och priser för att hantera resursaktiviteter på rätt sätt.</span><span class="sxs-lookup"><span data-stu-id="935bc-103">To correctly manage resource activities, you must set up your resources and the related costs and prices.</span></span> <span data-ttu-id="935bc-104">Projektrelaterade priser, rabatter och kostnadsfaktorregler är definierade på projektkortet.</span><span class="sxs-lookup"><span data-stu-id="935bc-104">The job-related prices, discounts, and cost factor rules are set up on the job card.</span></span> <span data-ttu-id="935bc-105">Du kan specificera kostnader och priser för enskilda resurser, resursgrupper eller alla tillgängliga resurser i företaget.</span><span class="sxs-lookup"><span data-stu-id="935bc-105">You can specify the costs and prices for individual resources, resource groups, or all available resources of the company.</span></span>
 
-När resurser är förbrukade eller sålda i ett projekt hämtas associerade priser och kostnader från informationen som du anger.
+<span data-ttu-id="935bc-106">När resurser är förbrukade eller sålda i ett projekt hämtas associerade priser och kostnader från informationen som du anger.</span><span class="sxs-lookup"><span data-stu-id="935bc-106">When resources are used or sold in a job, the prices and costs associated with them are retrieved from the information that you set up.</span></span>
 
-Du kan ange standardbeloppet per timme när resursen skapas. Om du till exempel använder en viss maskin för ett projekt i 5 timmar beräknas projektet baserat på beloppet per timme.
+<span data-ttu-id="935bc-107">Du kan ange standardbeloppet per timme när resursen skapas.</span><span class="sxs-lookup"><span data-stu-id="935bc-107">You specify the default amount per hour when the resource is created.</span></span> <span data-ttu-id="935bc-108">Om du till exempel använder en viss maskin för ett projekt i 5 timmar beräknas projektet baserat på beloppet per timme.</span><span class="sxs-lookup"><span data-stu-id="935bc-108">For example, if you use a specific machine on a job for five hours, the job would be calculated based on the amount per hour.</span></span>
 
-## <a name="to-set-up-a-resource"></a>Så här skapar du resurser
-Skapa ett kort för varje resurs som du vill använda i projekt.
+## <a name="to-set-up-a-resource"></a><span data-ttu-id="935bc-109">Så här skapar du resurser</span><span class="sxs-lookup"><span data-stu-id="935bc-109">To set up a resource</span></span>
+<span data-ttu-id="935bc-110">Skapa ett kort för varje resurs som du vill använda i projekt.</span><span class="sxs-lookup"><span data-stu-id="935bc-110">Create a card for each resource that you want to use in projects.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.
-2. Välj åtgärden **Ny**.
-3. Fyll i fälten om det behövs. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.  
+1. <span data-ttu-id="935bc-111">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="935bc-111">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>
+2. <span data-ttu-id="935bc-112">Välj åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="935bc-112">Choose the **New** action.</span></span>
+3. <span data-ttu-id="935bc-113">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="935bc-113">Fill in the fields as necessary.</span></span> <span data-ttu-id="935bc-114">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="935bc-114">Choose a field to read a short description of the field or link to more information.</span></span>  
 
-## <a name="to-set-up-a-resource-group"></a>Så här skapar du en resursgrupp
-Du kan kombinera flera resurser i en resursgrupp. All kapacitet och budget i resursgrupperna samlas från de individuella resurserna. Det är också möjligt att skriva in resursgruppskapacitet, antingen oberoende av de samlade värdena eller som tillägg till dem.
+## <a name="to-set-up-a-resource-group"></a><span data-ttu-id="935bc-115">Så här skapar du en resursgrupp</span><span class="sxs-lookup"><span data-stu-id="935bc-115">To set up a resource group</span></span>
+<span data-ttu-id="935bc-116">Du kan kombinera flera resurser i en resursgrupp.</span><span class="sxs-lookup"><span data-stu-id="935bc-116">You can combine several resources in one resource group.</span></span> <span data-ttu-id="935bc-117">All kapacitet och budget i resursgrupperna samlas från de individuella resurserna.</span><span class="sxs-lookup"><span data-stu-id="935bc-117">All capacities and budgets of resource groups are accumulated from the individual resources.</span></span> <span data-ttu-id="935bc-118">Det är också möjligt att skriva in resursgruppskapacitet, antingen oberoende av de samlade värdena eller som tillägg till dem.</span><span class="sxs-lookup"><span data-stu-id="935bc-118">It is also possible to enter capacities for resource groups either independently of the accumulated values or in addition to them.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resursgrupper** och välj sedan relaterad länk.
-2. Välj åtgärden **Ny**.
-3. Fyll i fälten om det behövs.
+1. <span data-ttu-id="935bc-119">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resursgrupper** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="935bc-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Resource groups**, and then choose the related link.</span></span>
+2. <span data-ttu-id="935bc-120">Välj åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="935bc-120">Choose the **New** action.</span></span>
+3. <span data-ttu-id="935bc-121">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="935bc-121">Fill in the fields as necessary.</span></span>
 
-## <a name="to-set-capacity-for-a-resource"></a>Ställa in kapaciteten för en resurs 
-För att beräkna hur lång tid en resurs kan läggas på projekt, måste deras kapacitet först ställas in som tillgänglig tid per period i arbetskalendern. Denna inställning används när du fyller i projektplaneringsrader som innehåller resursen. Mer information finns i [Så här skapar du Projekt](projects-how-create-jobs.md).
+## <a name="to-set-capacity-for-a-resource"></a><span data-ttu-id="935bc-122">Ställa in kapaciteten för en resurs</span><span class="sxs-lookup"><span data-stu-id="935bc-122">To set capacity for a resource</span></span> 
+<span data-ttu-id="935bc-123">För att beräkna hur lång tid en resurs kan läggas på projekt, måste deras kapacitet först ställas in som tillgänglig tid per period i arbetskalendern.</span><span class="sxs-lookup"><span data-stu-id="935bc-123">To calculate how much time a resource can spend on jobs, their capacity must first be set up as available time per period on the work calendar.</span></span> <span data-ttu-id="935bc-124">Denna inställning används när du fyller i projektplaneringsrader som innehåller resursen.</span><span class="sxs-lookup"><span data-stu-id="935bc-124">This setup is used when you fill in job planning lines that contain the resource.</span></span> <span data-ttu-id="935bc-125">Mer information finns i [Så här skapar du Projekt](projects-how-create-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="935bc-125">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.
-2. Öppna det relevanta resurskortet och välj sedan åtgärden **Resurskapacitet**.
-3. I fönstret **Resurskapacitet** ställer du i fältet **Visa per** in periodlängden, exempelvis **Dag**, som visas i kolumnerna på **Matris för resurskapacitet** på snabbfliken.
-4. För varje resurs på en rad anger du för respektive period i kolumnerna hur många timmar som resursen är tillgänglig.
-5. Du kan också välja att ställa in resurskapaciteten veckovis med start- och slutdatum genom att välja åtgärden **Ställ in kapacitet**.
-6. I fönstret **Inställningar för resurskapacitet** fyller du i fälten efter behov.
-7. Välj åtgärden **Uppdatera kapacitet**. Fönstret **Resurskapacitet** uppdateras med den angivna kapaciteten.
-8. Stäng fönstret.
+1. <span data-ttu-id="935bc-126">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="935bc-126">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>
+2. <span data-ttu-id="935bc-127">Öppna det relevanta resurskortet och välj sedan åtgärden **Resurskapacitet**.</span><span class="sxs-lookup"><span data-stu-id="935bc-127">Open the relevant resource card, and then choose the **Resource Capacity** action.</span></span>
+3. <span data-ttu-id="935bc-128">I fönstret **Resurskapacitet** ställer du i fältet **Visa per** in periodlängden, exempelvis **Dag**, som visas i kolumnerna på **Matris för resurskapacitet** på snabbfliken.</span><span class="sxs-lookup"><span data-stu-id="935bc-128">In the **Resource Capacity** window, in the **View By** field, specify the length of the period, such as **Day**, that is shown on columns on the **Resource Capacity Matrix** FastTab.</span></span>
+4. <span data-ttu-id="935bc-129">För varje resurs på en rad anger du för respektive period i kolumnerna hur många timmar som resursen är tillgänglig.</span><span class="sxs-lookup"><span data-stu-id="935bc-129">For each resource on a line, specify for each period on the columns the number of hours that the resource is available.</span></span>
+5. <span data-ttu-id="935bc-130">Du kan också välja att ställa in resurskapaciteten veckovis med start- och slutdatum genom att välja åtgärden **Ställ in kapacitet**.</span><span class="sxs-lookup"><span data-stu-id="935bc-130">Alternatively, to detail the resource's weekly capacity within a starting and ending date, choose the **Set Capacity** action.</span></span>
+6. <span data-ttu-id="935bc-131">I fönstret **Inställningar för resurskapacitet** fyller du i fälten efter behov.</span><span class="sxs-lookup"><span data-stu-id="935bc-131">In the **Resource Capacity Settings** window, fill in the fields as necessary.</span></span>
+7. <span data-ttu-id="935bc-132">Välj åtgärden **Uppdatera kapacitet**.</span><span class="sxs-lookup"><span data-stu-id="935bc-132">Choose the **Update Capacity** action.</span></span> <span data-ttu-id="935bc-133">Fönstret **Resurskapacitet** uppdateras med den angivna kapaciteten.</span><span class="sxs-lookup"><span data-stu-id="935bc-133">The **Resource Capacity** window is updated with the entered capacity.</span></span>
+8. <span data-ttu-id="935bc-134">Stäng fönstret.</span><span class="sxs-lookup"><span data-stu-id="935bc-134">Close the window.</span></span>
 
-## <a name="to-set-up-alternate-resource-costs"></a>Så här skapar du alternativa resurskostnader
-Förutom kostnaden som anges på resurskortet, kan du registrera alternativa kostnader för varje resurs. Om t.ex. en anställd har en annan timpenning för övertidsarbete kan du registrera en resurskostnad för denna övertidskostnad. Den alternativa kostnad som du skapar för resursen har företräde framför kostnaden på resurskortet när du använder resursen i resursjournalen.
+## <a name="to-set-up-alternate-resource-costs"></a><span data-ttu-id="935bc-135">Så här skapar du alternativa resurskostnader</span><span class="sxs-lookup"><span data-stu-id="935bc-135">To set up alternate resource costs</span></span>
+<span data-ttu-id="935bc-136">Förutom kostnaden som anges på resurskortet, kan du registrera alternativa kostnader för varje resurs.</span><span class="sxs-lookup"><span data-stu-id="935bc-136">In addition to the cost specified on the resource card, you can set up alternate costs for each resource.</span></span> <span data-ttu-id="935bc-137">Om t.ex. en anställd har en annan timpenning för övertidsarbete kan du registrera en resurskostnad för denna övertidskostnad.</span><span class="sxs-lookup"><span data-stu-id="935bc-137">For example, if you pay an employee a higher hourly rate for overtime, you can set up a resource cost for the overtime rate.</span></span> <span data-ttu-id="935bc-138">Den alternativa kostnad som du skapar för resursen har företräde framför kostnaden på resurskortet när du använder resursen i resursjournalen.</span><span class="sxs-lookup"><span data-stu-id="935bc-138">The alternate cost that you set up for the resource will override the cost on the resource card when you use the resource in the resource journal.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.  
-2. Välj den resurs för det som du vill skapa en eller flera alternativa kostnader för och välj sedan åtgärden **Kostnader**.  
-3. I fönstret **Resurskostnader** fyller du i fälten på en rad efter behov.  
-4. Upprepa steg 3 för varje alternativ kostadsresurs som du vill skapa.
+1. <span data-ttu-id="935bc-139">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="935bc-139">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="935bc-140">Välj den resurs för det som du vill skapa en eller flera alternativa kostnader för och välj sedan åtgärden **Kostnader**.</span><span class="sxs-lookup"><span data-stu-id="935bc-140">Select the resource for that you want to set up one or more alternate costs for, and then choose the **Costs** action.</span></span>  
+3. <span data-ttu-id="935bc-141">I fönstret **Resurskostnader** fyller du i fälten på en rad efter behov.</span><span class="sxs-lookup"><span data-stu-id="935bc-141">In the **Resource Costs** window, fill in the fields on a line as necessary.</span></span>  
+4. <span data-ttu-id="935bc-142">Upprepa steg 3 för varje alternativ kostadsresurs som du vill skapa.</span><span class="sxs-lookup"><span data-stu-id="935bc-142">Repeat step 3 for each alternate resource cost that you want to set up.</span></span>
 
-**Obs**. Om du vill skapa resurskostnader som gäller alla resurser och resursgrupper öppnar du fönstret **Resurskostnader** och fyller i alla fält.
+<span data-ttu-id="935bc-143">**Obs**.</span><span class="sxs-lookup"><span data-stu-id="935bc-143">**Note**.</span></span> <span data-ttu-id="935bc-144">Om du vill skapa resurskostnader som gäller alla resurser och resursgrupper öppnar du fönstret **Resurskostnader** och fyller i alla fält.</span><span class="sxs-lookup"><span data-stu-id="935bc-144">To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields.</span></span>
 
-## <a name="to-set-up-alternate-resource-prices"></a>Så här skapar du alternativa resurspriser  
-Förutom priset som anges på resurskortet, kan du registrera alternativa priser för varje resurs. Dessa alternativa priser kan vara villkorliga. De kan bero på om resursen används med ett särskilt projekt eller en särskild arbetstyp.
+## <a name="to-set-up-alternate-resource-prices"></a><span data-ttu-id="935bc-145">Så här skapar du alternativa resurspriser</span><span class="sxs-lookup"><span data-stu-id="935bc-145">To set up alternate resource prices</span></span>  
+<span data-ttu-id="935bc-146">Förutom priset som anges på resurskortet, kan du registrera alternativa priser för varje resurs.</span><span class="sxs-lookup"><span data-stu-id="935bc-146">In addition to price specified on the resource card, you can set up alternate prices for each resource.</span></span> <span data-ttu-id="935bc-147">Dessa alternativa priser kan vara villkorliga.</span><span class="sxs-lookup"><span data-stu-id="935bc-147">These alternate prices can be conditional.</span></span> <span data-ttu-id="935bc-148">De kan bero på om resursen används med ett särskilt projekt eller en särskild arbetstyp.</span><span class="sxs-lookup"><span data-stu-id="935bc-148">They can depend on whether the resource is used with a specific job or work type.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.
-2. Välj den resurs för det som du vill skapa en eller flera alternativa priser för och välj sedan åtgärden **Priser**.
-3. I fönstret **Resurspriser** fyller du i fälten på en rad efter behov.
-4. Upprepa steg 3 för varje alternativt resurspris som du vill skapa.
+1. <span data-ttu-id="935bc-149">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Resurser** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="935bc-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.</span></span>
+2. <span data-ttu-id="935bc-150">Välj den resurs för det som du vill skapa en eller flera alternativa priser för och välj sedan åtgärden **Priser**.</span><span class="sxs-lookup"><span data-stu-id="935bc-150">Select the resource for that you want to set up one or more alternate prices for, and then choose the **Prices** action.</span></span>
+3. <span data-ttu-id="935bc-151">I fönstret **Resurspriser** fyller du i fälten på en rad efter behov.</span><span class="sxs-lookup"><span data-stu-id="935bc-151">In the **Resource Prices** window, fill in the fields on a line as necessary.</span></span>
+4. <span data-ttu-id="935bc-152">Upprepa steg 3 för varje alternativt resurspris som du vill skapa.</span><span class="sxs-lookup"><span data-stu-id="935bc-152">Repeat step 3 for each alternate resource price that you want to set up.</span></span>
 
-## <a name="see-also"></a>Se även
-[Ange projekthantering](projects-setup-projects.md)  
-[Hantera projekt](projects-manage-projects.md)  
-[Finans](finance-setup.md)  
-[Hantera inköp](purchasing-manage-purchasing.md)         
-[Hantera försäljning](sales-manage-sales.md)      
-[Arbeta med Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="935bc-153">Se även</span><span class="sxs-lookup"><span data-stu-id="935bc-153">See Also</span></span>
+[<span data-ttu-id="935bc-154">Ange projekthantering</span><span class="sxs-lookup"><span data-stu-id="935bc-154">Set Up Project Management</span></span>](projects-setup-projects.md)  
+[<span data-ttu-id="935bc-155">Hantera projekt</span><span class="sxs-lookup"><span data-stu-id="935bc-155">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="935bc-156">Finans</span><span class="sxs-lookup"><span data-stu-id="935bc-156">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="935bc-157">[Hantera inköp](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="935bc-157">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="935bc-158">[Hantera försäljning](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="935bc-158">[Manage Sales](sales-manage-sales.md)    </span></span>  
+[<span data-ttu-id="935bc-159">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="935bc-159">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

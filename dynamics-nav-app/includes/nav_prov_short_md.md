@@ -1,1 +1,1 @@
-tillhandahållningsverktyg
+<span data-ttu-id="99ebc-101">tillhandahållningsverktyg</span><span class="sxs-lookup"><span data-stu-id="99ebc-101">provisioning tools</span></span>

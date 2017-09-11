@@ -15,22 +15,22 @@ ms.contentlocale: sv-se
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="prepare-closing-statements"></a>Förbereda årsbokslutsmeddelanden
-Det finns ett antal standardrapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporter.
+# <a name="prepare-closing-statements"></a><span data-ttu-id="12dbc-102">Förbereda årsbokslutsmeddelanden</span><span class="sxs-lookup"><span data-stu-id="12dbc-102">Prepare Closing Statements</span></span>
+<span data-ttu-id="12dbc-103">Det finns ett antal standardrapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporter.</span><span class="sxs-lookup"><span data-stu-id="12dbc-103">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
 
-I tabellen nedan beskrivs ett antal rapporter som kan vara användbara i den här processen, tillsammans med rapportnamnet.
+<span data-ttu-id="12dbc-104">I tabellen nedan beskrivs ett antal rapporter som kan vara användbara i den här processen, tillsammans med rapportnamnet.</span><span class="sxs-lookup"><span data-stu-id="12dbc-104">The following table describes a number of reports that may be useful in this process along with the report name.</span></span>
 
 
-|Om du vill     |Se den här rapporten       |
+|<span data-ttu-id="12dbc-105">Om du vill</span><span class="sxs-lookup"><span data-stu-id="12dbc-105">To</span></span>     |<span data-ttu-id="12dbc-106">Se den här rapporten</span><span class="sxs-lookup"><span data-stu-id="12dbc-106">See this report</span></span>       |
 |-------|----------------------|
-|skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton.|Råbalans|
-|få en översikt över kundfordringarna, med åldern på de utestående beloppen beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.|Kundfordringar - ålder|
-|få en översikt över leverantörsskulderna, med åldern på beloppen som ska betalas beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.|Lev.skulder - ålder|
-|jämföra råbalansen med en budget.|Råbalans/Budget|
-|skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton beräknade för de perioder du valt.|Råbalans per period|
-|skriva ut en kontouppställning för att analysera siffror för redovisningskonton eller jämföra faktiska redovisningstransaktioner med redovisningsbudgettransaktioner.|Kontouppställning|
-|kontrollera om kund- och leverantörsreskontratransaktioner stämmer överens med motsvarande redovisningstransaktioner.|Avstäm kund- och lev.konton Tillgång|
-Om du vill se en rapport väljer du ikonen **Sök efter sida eller rapport**, anger namnet som det visas i tabellen och väljer sedan relaterad länk.
-## <a name="see-also"></a>Se även
-[Avsluta år och perioder](year-close-years-periods.md)
+|<span data-ttu-id="12dbc-107">skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton.</span><span class="sxs-lookup"><span data-stu-id="12dbc-107">Print a trial balance report with balances and net changes for general ledger accounts.</span></span>|<span data-ttu-id="12dbc-108">Råbalans</span><span class="sxs-lookup"><span data-stu-id="12dbc-108">Trial Balance</span></span>|
+|<span data-ttu-id="12dbc-109">få en översikt över kundfordringarna, med åldern på de utestående beloppen beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.</span><span class="sxs-lookup"><span data-stu-id="12dbc-109">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span>|<span data-ttu-id="12dbc-110">Kundfordringar - ålder</span><span class="sxs-lookup"><span data-stu-id="12dbc-110">Aged Accounts Receivable</span></span>|
+|<span data-ttu-id="12dbc-111">få en översikt över leverantörsskulderna, med åldern på beloppen som ska betalas beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.</span><span class="sxs-lookup"><span data-stu-id="12dbc-111">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span>|<span data-ttu-id="12dbc-112">Lev.skulder - ålder</span><span class="sxs-lookup"><span data-stu-id="12dbc-112">Aged Accounts Payable</span></span>|
+|<span data-ttu-id="12dbc-113">jämföra råbalansen med en budget.</span><span class="sxs-lookup"><span data-stu-id="12dbc-113">Compare the trial balance with a budget.</span></span>|<span data-ttu-id="12dbc-114">Råbalans/Budget</span><span class="sxs-lookup"><span data-stu-id="12dbc-114">Trial Balance/Budget</span></span>|
+|<span data-ttu-id="12dbc-115">skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton beräknade för de perioder du valt.</span><span class="sxs-lookup"><span data-stu-id="12dbc-115">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span>|<span data-ttu-id="12dbc-116">Råbalans per period</span><span class="sxs-lookup"><span data-stu-id="12dbc-116">Trial Balance by Period</span></span>|
+|<span data-ttu-id="12dbc-117">skriva ut en kontouppställning för att analysera siffror för redovisningskonton eller jämföra faktiska redovisningstransaktioner med redovisningsbudgettransaktioner.</span><span class="sxs-lookup"><span data-stu-id="12dbc-117">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span>|<span data-ttu-id="12dbc-118">Kontouppställning</span><span class="sxs-lookup"><span data-stu-id="12dbc-118">Account Schedule</span></span>|
+|<span data-ttu-id="12dbc-119">kontrollera om kund- och leverantörsreskontratransaktioner stämmer överens med motsvarande redovisningstransaktioner.</span><span class="sxs-lookup"><span data-stu-id="12dbc-119">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span>|<span data-ttu-id="12dbc-120">Avstäm kund-</span><span class="sxs-lookup"><span data-stu-id="12dbc-120">Reconcile Cust.</span></span> <span data-ttu-id="12dbc-121">och lev.konton</span><span class="sxs-lookup"><span data-stu-id="12dbc-121">and Vend.</span></span> <span data-ttu-id="12dbc-122">Tillgång</span><span class="sxs-lookup"><span data-stu-id="12dbc-122">Accs</span></span>|
+<span data-ttu-id="12dbc-123">Om du vill se en rapport väljer du ikonen **Sök efter sida eller rapport**, anger namnet som det visas i tabellen och väljer sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="12dbc-123">To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.</span></span>
+## <a name="see-also"></a><span data-ttu-id="12dbc-124">Se även</span><span class="sxs-lookup"><span data-stu-id="12dbc-124">See Also</span></span>
+[<span data-ttu-id="12dbc-125">Avsluta år och perioder</span><span class="sxs-lookup"><span data-stu-id="12dbc-125">Close Years and Periods</span></span>](year-close-years-periods.md)
 

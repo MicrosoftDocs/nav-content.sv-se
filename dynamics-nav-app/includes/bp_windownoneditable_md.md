@@ -1,1 +1,1 @@
-Det går inte att ändra innehållet i fönstret.
+<span data-ttu-id="d1125-101">Det går inte att ändra innehållet i fönstret.</span><span class="sxs-lookup"><span data-stu-id="d1125-101">You cannot change the contents of this window.</span></span>

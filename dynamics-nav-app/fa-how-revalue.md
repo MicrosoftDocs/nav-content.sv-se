@@ -16,105 +16,105 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-revalue-fixed-assets"></a>Så här omvärderar du anläggningstillgångar.
-Omvärdering av anläggningstillgångar kan bestå av uppskrivning, nedskrivning, eller allmänna värdejusteringar.
+# <a name="how-to-revalue-fixed-assets"></a><span data-ttu-id="3c346-102">Så här omvärderar du anläggningstillgångar.</span><span class="sxs-lookup"><span data-stu-id="3c346-102">How to: Revalue Fixed Assets</span></span>
+<span data-ttu-id="3c346-103">Omvärdering av anläggningstillgångar kan bestå av uppskrivning, nedskrivning, eller allmänna värdejusteringar.</span><span class="sxs-lookup"><span data-stu-id="3c346-103">Revaluation of fixed assets can consist of appreciations, write-downs, or general value adjustments.</span></span>
 
-När värdet av en anläggningstillgång har ökat, bokför du en journalrad med ett högre belopp, en uppskrivning, till avskrivningsregeln. Det nya beloppet registreras som en uppskrivning enligt bokföringsinställningarna för anläggningstillgångar.
+<span data-ttu-id="3c346-104">När värdet av en anläggningstillgång har ökat, bokför du en journalrad med ett högre belopp, en uppskrivning, till avskrivningsregeln.</span><span class="sxs-lookup"><span data-stu-id="3c346-104">When the value of a fixed asset has increased, you post a journal line with a higher amount, an appreciation, to the depreciation book.</span></span> <span data-ttu-id="3c346-105">Det nya beloppet registreras som en uppskrivning enligt bokföringsinställningarna för anläggningstillgångar.</span><span class="sxs-lookup"><span data-stu-id="3c346-105">The new amount is recorded as an appreciation according to the fixed asset posting setup.</span></span>
 
-När värdet av en anläggningstillgång har minskat, bokför du en journalrad med ett lägre belopp, en nedskrivning, till avskrivningsregeln. Det nya beloppet registreras som en nedskrivning enligt bokföringsinställningarna för anläggningstillgångar.
+<span data-ttu-id="3c346-106">När värdet av en anläggningstillgång har minskat, bokför du en journalrad med ett lägre belopp, en nedskrivning, till avskrivningsregeln.</span><span class="sxs-lookup"><span data-stu-id="3c346-106">When the value of a fixed asset has decreased, you post a journal line with a lower amount, a write-down, to the depreciation book.</span></span> <span data-ttu-id="3c346-107">Det nya beloppet registreras som en nedskrivning enligt bokföringsinställningarna för anläggningstillgångar.</span><span class="sxs-lookup"><span data-stu-id="3c346-107">The new amount is recorded as a write-down according to the fixed asset posting setup.</span></span>
 
-Indexering används för att anpassa flera värden för anläggningstillgångar, t.ex. per allmänna prisändringar. Du kan använda batch-jobbet **Indexera anläggningstillgångar** när du vill ändra olika belopp, till exempel nedskrivnings- och uppskrivningsbelopp.
+<span data-ttu-id="3c346-108">Indexering används för att anpassa flera värden för anläggningstillgångar, t.ex. per allmänna prisändringar.</span><span class="sxs-lookup"><span data-stu-id="3c346-108">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="3c346-109">Du kan använda batch-jobbet **Indexera anläggningstillgångar** när du vill ändra olika belopp, till exempel nedskrivnings- och uppskrivningsbelopp.</span><span class="sxs-lookup"><span data-stu-id="3c346-109">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span>
 
-## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Att bokföra uppskrivning från en redovisningsjournal.  
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournaler för anl.tillg.** och välj sedan relaterad länk.  
-2. Skapa en första journalrad och fyll i fälten efter behov.
-3. Välj **Anskaffningskostnad** i fältet **uppskrivning**.
-4. Välj åtgärden **Infoga anl. motkonto**. En andra journalrad skapas för motkontot som ställs in för bokföring av uppskrivning.
+## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="3c346-110">Att bokföra uppskrivning från en redovisningsjournal.</span><span class="sxs-lookup"><span data-stu-id="3c346-110">To post an appreciation from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="3c346-111">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournaler för anl.tillg.** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3c346-111">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="3c346-112">Skapa en första journalrad och fyll i fälten efter behov.</span><span class="sxs-lookup"><span data-stu-id="3c346-112">Create an initial journal line and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="3c346-113">Välj **Anskaffningskostnad** i fältet **uppskrivning**.</span><span class="sxs-lookup"><span data-stu-id="3c346-113">In the **FA Posting Type** field, select **Appreciation**.</span></span>
+4. <span data-ttu-id="3c346-114">Välj åtgärden **Infoga anl. motkonto**.</span><span class="sxs-lookup"><span data-stu-id="3c346-114">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="3c346-115">En andra journalrad skapas för motkontot som ställs in för bokföring av uppskrivning.</span><span class="sxs-lookup"><span data-stu-id="3c346-115">A second journal line is created for the balancing account that is set up for appreciation posting.</span></span>
 
-    **Obs**: Steg 4 fungerar bara om du har ställt in följande: I fönstret **Anl. bokföringsmallkort** för den fasta anläggningstillgångens bokföringsmall, innehåller fältet **Uppskrivningskonto** redovisningsdebitkontot och fältet **Uppskrivningskontosaldo** innehåller det redovisningskonto där du vill bokföra mottransaktioner för uppskrivning. För mer information, se avsnittet "Att ställa in bokföringsmallar för anläggningstillgångar" i [Så här ställer du in allmän information för anläggningstillgångar](fa-how-setup-general.md).
-5. Välj åtgärden **Bokföra**.
+    <span data-ttu-id="3c346-116">**Obs**: Steg 4 fungerar bara om du har ställt in följande: I fönstret **Anl. bokföringsmallkort** för den fasta anläggningstillgångens bokföringsmall, innehåller fältet **Uppskrivningskonto** redovisningsdebitkontot och fältet **Uppskrivningskontosaldo** innehåller det redovisningskonto där du vill bokföra mottransaktioner för uppskrivning.</span><span class="sxs-lookup"><span data-stu-id="3c346-116">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Appreciation Account** field contains the general ledger debit account and the **Appreciation Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="3c346-117">För mer information, se avsnittet "Att ställa in bokföringsmallar för anläggningstillgångar" i [Så här ställer du in allmän information för anläggningstillgångar](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="3c346-117">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="3c346-118">Välj åtgärden **Bokföra**.</span><span class="sxs-lookup"><span data-stu-id="3c346-118">Choose the **Post** action.</span></span>
 
-## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Att bokföra en nedskrivning från en redovisningsjournalen för anläggningstillgångar.  
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournaler för anl.tillg.** och välj sedan relaterad länk.  
-2. Skapa en första journalrad och fyll i fälten efter behov.
-3. Välj **Anskaffningskostnad** i fältet **nedskrivning**.
-4. Välj åtgärden **Infoga anl. motkonto**. En andra journalrad skapas för motkontot som ställs in för bokföring av nedskrivning.
+## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="3c346-119">Att bokföra en nedskrivning från en redovisningsjournalen för anläggningstillgångar.</span><span class="sxs-lookup"><span data-stu-id="3c346-119">To post a write-down from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="3c346-120">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournaler för anl.tillg.** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3c346-120">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="3c346-121">Skapa en första journalrad och fyll i fälten efter behov.</span><span class="sxs-lookup"><span data-stu-id="3c346-121">Create an initial journal line, and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="3c346-122">Välj **Anskaffningskostnad** i fältet **nedskrivning**.</span><span class="sxs-lookup"><span data-stu-id="3c346-122">In the **FA Posting Type** field, select **Write-Down**.</span></span>
+4. <span data-ttu-id="3c346-123">Välj åtgärden **Infoga anl. motkonto**.</span><span class="sxs-lookup"><span data-stu-id="3c346-123">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="3c346-124">En andra journalrad skapas för motkontot som ställs in för bokföring av nedskrivning.</span><span class="sxs-lookup"><span data-stu-id="3c346-124">A second journal line is created for the balancing account that is set up for write-down posting.</span></span>
 
-    **Obs**: Steg 4 fungerar bara om du har ställt in följande: I fönstret **Anl. bokföringsmallkort** för den fasta anläggningstillgångens bokföringsmall, innehåller fältet **Nedskrivningskonto** redovisningskreditkontot och fältet **Nedskrivningskostnadskontot** innehåller det redovisningskonto där du vill bokföra mottransaktioner för nedskrivning. För mer information, se avsnittet "Att ställa in bokföringsmallar för anläggningstillgångar" i [Så här ställer du in allmän information för anläggningstillgångar](fa-how-setup-general.md).
-5. Välj åtgärden **Bokföra**.
+    <span data-ttu-id="3c346-125">**Obs**: Steg 4 fungerar bara om du har ställt in följande: I fönstret **Anl. bokföringsmallkort** för den fasta anläggningstillgångens bokföringsmall, innehåller fältet **Nedskrivningskonto** redovisningskreditkontot och fältet **Nedskrivningskostnadskontot** innehåller det redovisningskonto där du vill bokföra mottransaktioner för nedskrivning.</span><span class="sxs-lookup"><span data-stu-id="3c346-125">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Write-Down Account** field contains the general ledger credit account and the **Write-Down Expense Account** field contains the general ledger debit account to which you want to post balancing entries for write-downs.</span></span> <span data-ttu-id="3c346-126">För mer information, se avsnittet "Att ställa in bokföringsmallar för anläggningstillgångar" i [Så här ställer du in allmän information för anläggningstillgångar](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="3c346-126">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="3c346-127">Välj åtgärden **Bokföra**.</span><span class="sxs-lookup"><span data-stu-id="3c346-127">Choose the **Post** action.</span></span>
 
-## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Om du vill utföra allmän omvärdering av anläggningstillgångar  
-Indexering används för att anpassa flera värden för anläggningstillgångar, t.ex. per allmänna prisändringar. Du kan använda batch-jobbet **Indexera anläggningstillgångar** när du vill ändra olika belopp, till exempel nedskrivnings- och uppskrivningsbelopp. Kryssrutan **Tillåt indexering** i fönstret **Avskrivningsregel** måste väljas.
+## <a name="to-perform-general-revaluation-of-fixed-assets"></a><span data-ttu-id="3c346-128">Om du vill utföra allmän omvärdering av anläggningstillgångar</span><span class="sxs-lookup"><span data-stu-id="3c346-128">To perform general revaluation of fixed assets</span></span>  
+<span data-ttu-id="3c346-129">Indexering används för att anpassa flera värden för anläggningstillgångar, t.ex. per allmänna prisändringar.</span><span class="sxs-lookup"><span data-stu-id="3c346-129">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="3c346-130">Du kan använda batch-jobbet **Indexera anläggningstillgångar** när du vill ändra olika belopp, till exempel nedskrivnings- och uppskrivningsbelopp.</span><span class="sxs-lookup"><span data-stu-id="3c346-130">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span> <span data-ttu-id="3c346-131">Kryssrutan **Tillåt indexering** i fönstret **Avskrivningsregel** måste väljas.</span><span class="sxs-lookup"><span data-stu-id="3c346-131">The **Allow Indexation** check box in the **Depreciation Book** window must be selected.</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Indexera anläggningstillgångar** och välj sedan relaterad länk.  
-2. Fyll i fälten om det behövs.
-3. Välj **OK**.  
+1. <span data-ttu-id="3c346-132">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Indexera anläggningstillgångar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3c346-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Index Fixed Assets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="3c346-133">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="3c346-133">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="3c346-134">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="3c346-134">Choose the **OK** button.</span></span>  
 
-    Omvärderingrader skapas per dina inställningar i steg 2. Raderna skapas antingen i anläggningstillgångsjournalen eller i redovisningsjournalen för anläggningstillgångar beroende på dina mallar och batch-inställning i fönstret **Anl. journalinställningar**. Mer information finns i [Så här ställer du in allmän information för anläggningstillgångar](fa-how-setup-general.md).
+    <span data-ttu-id="3c346-135">Omvärderingrader skapas per dina inställningar i steg 2.</span><span class="sxs-lookup"><span data-stu-id="3c346-135">Revaluation lines are created per your settings in step 2.</span></span> <span data-ttu-id="3c346-136">Raderna skapas antingen i anläggningstillgångsjournalen eller i redovisningsjournalen för anläggningstillgångar beroende på dina mallar och batch-inställning i fönstret **Anl. journalinställningar**.</span><span class="sxs-lookup"><span data-stu-id="3c346-136">The lines are created in either the fixed asset journal or the fixed asset G/L journal, depending on your template and batch setup in the **FA Journal Setup** window.</span></span> <span data-ttu-id="3c346-137">Mer information finns i [Så här ställer du in allmän information för anläggningstillgångar](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="3c346-137">For more information, see [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
 
-4. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournaler för anl.tillg.** och välj sedan relaterad länk.  
-5. Markera journalen med de anläggningstillgångar som du vill omvärdera och välj sedan åtgärden **Transaktioner**.  
-6. Kontrollera skapade poster och välj sedan åtgärden **Bokför** för att bokföra journalen.
+4. <span data-ttu-id="3c346-138">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Redovisningsjournaler för anl.tillg.** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3c346-138">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="3c346-139">Markera journalen med de anläggningstillgångar som du vill omvärdera och välj sedan åtgärden **Transaktioner**.</span><span class="sxs-lookup"><span data-stu-id="3c346-139">Select the journal with the fixed assets that you want to revalue, and then choose the **Ledger Entries** action.</span></span>  
+6. <span data-ttu-id="3c346-140">Kontrollera skapade poster och välj sedan åtgärden **Bokför** för att bokföra journalen.</span><span class="sxs-lookup"><span data-stu-id="3c346-140">Check the created entries, and then choose the **Post** action to post the journal.</span></span>
 
-**Tips**: Om indexsiffrorna endast är avsedda för simulering kan du skapa en särskild avskrivningsregel där du kan lagra dem. På så sätt påverkar de här transaktionerna inte de övriga avskrivningsreglerna.
+<span data-ttu-id="3c346-141">**Tips**: Om indexsiffrorna endast är avsedda för simulering kan du skapa en särskild avskrivningsregel där du kan lagra dem.</span><span class="sxs-lookup"><span data-stu-id="3c346-141">**Tip**: If the index figures are for simulation purposes only, you can create a special depreciation book to store them in.</span></span> <span data-ttu-id="3c346-142">På så sätt påverkar de här transaktionerna inte de övriga avskrivningsreglerna.</span><span class="sxs-lookup"><span data-stu-id="3c346-142">Then these entries will not affect any of the other depreciation books.</span></span>
 
-## <a name="to-post-additional-acquisition-costs"></a>Att bokföra ytterligare anskaffningskostnader
-Du bokför ytterligare anskaffningskostnader för en anläggningstillgång på samma sätt som du bokför den ursprungliga anskaffningskostnaden, d.v.s.från en inköpsfaktura eller från en journal för anläggningstillgångar. Mer information finns i [Så här skaffar du anläggningstillgångar](fa-how-acquire.md).  
+## <a name="to-post-additional-acquisition-costs"></a><span data-ttu-id="3c346-143">Att bokföra ytterligare anskaffningskostnader</span><span class="sxs-lookup"><span data-stu-id="3c346-143">To post additional acquisition costs</span></span>
+<span data-ttu-id="3c346-144">Du bokför ytterligare anskaffningskostnader för en anläggningstillgång på samma sätt som du bokför den ursprungliga anskaffningskostnaden, d.v.s.från en inköpsfaktura eller från en journal för anläggningstillgångar.</span><span class="sxs-lookup"><span data-stu-id="3c346-144">You post additional acquisition cost for a fixed asset in the same way as you post the original acquisition cost: from a purchase invoice or from a fixed asset journal.</span></span> <span data-ttu-id="3c346-145">Mer information finns i [Så här skaffar du anläggningstillgångar](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="3c346-145">For more information, see [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>  
 
-Om avskrivningen redan har beräknats för anläggningstillgången markerar du kryssrutan **Avskr. Anskaffningskostnad** så att den tillkommande anskaffningskostnaden är mindre än det återanskaffningsvärde som avskrivs i proportion till det belopp som de tidigare anskaffade anläggningstillgången redan har avskrivits med. Detta garanterar att avskrivningsperioden inte ändras.  
+<span data-ttu-id="3c346-146">Om avskrivningen redan har beräknats för anläggningstillgången markerar du kryssrutan **Avskr. Anskaffningskostnad** så att den tillkommande anskaffningskostnaden är mindre än det återanskaffningsvärde som avskrivs i proportion till det belopp som de tidigare anskaffade anläggningstillgången redan har avskrivits med.</span><span class="sxs-lookup"><span data-stu-id="3c346-146">If depreciation has already been calculated for the fixed asset, select the **Depr. Acquisition Cost** check box to have the additional acquisition cost less the salvage value depreciated in proportion to the amount by which the previously acquired fixed asset has already been depreciated.</span></span> <span data-ttu-id="3c346-147">Detta garanterar att avskrivningsperioden inte ändras.</span><span class="sxs-lookup"><span data-stu-id="3c346-147">This ensures that the depreciation period is not changed.</span></span>  
 
-Avskrivningsprocentsatsen beräknas som:  
+<span data-ttu-id="3c346-148">Avskrivningsprocentsatsen beräknas som:</span><span class="sxs-lookup"><span data-stu-id="3c346-148">The depreciation percentage is calculated as:</span></span>  
 
-*P = (total avskrivning × 100) / avskrivningsbas*
+<span data-ttu-id="3c346-149">*P = (total avskrivning × 100) / avskrivningsbas*</span><span class="sxs-lookup"><span data-stu-id="3c346-149">*P = (total depreciation x 100) / depreciable basis*</span></span>
 
-*Avskrivningsbelopp = (P/100) × (extra anskaffningskostnad - återanskaffningsvärde)*  
+<span data-ttu-id="3c346-150">*Avskrivningsbelopp = (P/100) × (extra anskaffningskostnad - återanskaffningsvärde)*</span><span class="sxs-lookup"><span data-stu-id="3c346-150">*Depreciation amount = (P/100) x (extra acquisition cost - salvage value)*</span></span>  
 
-Kom ihåg att markera kryssrutan **Avskr. till anl. bokf.datum** på fakturan, redovisningsjournalen för anläggningstillgångar eller anläggningstillgångsjournalraderna så att avskrivningen beräknas från det senaste bokföringsdatumet för anläggningstillgången till bokföringsdatumet för den tillkommande anskaffningskostnaden.
+<span data-ttu-id="3c346-151">Kom ihåg att markera kryssrutan **Avskr. till anl. bokf.datum** på fakturan, redovisningsjournalen för anläggningstillgångar eller anläggningstillgångsjournalraderna så att avskrivningen beräknas från det senaste bokföringsdatumet för anläggningstillgången till bokföringsdatumet för den tillkommande anskaffningskostnaden.</span><span class="sxs-lookup"><span data-stu-id="3c346-151">Remember to select the **Depr. until FA Posting Date** check box on the invoice, the fixed asset G/L journal, or the fixed asset journal lines to ensure that depreciation is calculated from the last fixed asset posting date to the posting date of the additional acquisition cost.</span></span>
 
-### <a name="example---posting-additional-acquisition-costs"></a>Exempel – bokföra ytterligare anskaffningskostnader
-En maskin införskaffas den 1 augusti, 2000. Anskaffningskostnader är 4 800. Avskrivningsmetoden är linjär över fyra år.
+### <a name="example---posting-additional-acquisition-costs"></a><span data-ttu-id="3c346-152">Exempel – bokföra ytterligare anskaffningskostnader</span><span class="sxs-lookup"><span data-stu-id="3c346-152">Example - Posting Additional Acquisition Costs</span></span>
+<span data-ttu-id="3c346-153">En maskin införskaffas den 1 augusti, 2000.</span><span class="sxs-lookup"><span data-stu-id="3c346-153">A machine is purchased on August 1, 2000.</span></span> <span data-ttu-id="3c346-154">Anskaffningskostnader är 4 800.</span><span class="sxs-lookup"><span data-stu-id="3c346-154">The acquisition cost is 4,800.</span></span> <span data-ttu-id="3c346-155">Avskrivningsmetoden är linjär över fyra år.</span><span class="sxs-lookup"><span data-stu-id="3c346-155">The depreciation method is straight-line over four years.</span></span>
 
-Den 31 augusti, 2000 körs batch-jobbet **Beräkna avskrivning**. Avskrivningen beräknas som:
+<span data-ttu-id="3c346-156">Den 31 augusti, 2000 körs batch-jobbet **Beräkna avskrivning**.</span><span class="sxs-lookup"><span data-stu-id="3c346-156">On August 31, 2000, the **Calculate Depreciation** batch job is run.</span></span> <span data-ttu-id="3c346-157">Avskrivningen beräknas som:</span><span class="sxs-lookup"><span data-stu-id="3c346-157">Depreciation is calculated as:</span></span>
 
-*bokföringsvärde x antal avskrivningsdagar/totalt antal avskrivningsdagar = 4800 x 30 / 1440 = 100*  
+<span data-ttu-id="3c346-158">*bokföringsvärde x antal avskrivningsdagar/totalt antal avskrivningsdagar = 4800 x 30 / 1440 = 100*</span><span class="sxs-lookup"><span data-stu-id="3c346-158">*book value x number of depreciation days / total number of depreciation days = 4800 x 30 / 1440 = 100*</span></span>  
 
-Den 15 september, 2000 bokförs en faktura för ommålning av maskinen. Fakturabeloppet är 480.
+<span data-ttu-id="3c346-159">Den 15 september, 2000 bokförs en faktura för ommålning av maskinen.</span><span class="sxs-lookup"><span data-stu-id="3c346-159">On September 15, 2000, an invoice is posted for painting the machine.</span></span> <span data-ttu-id="3c346-160">Fakturabeloppet är 480.</span><span class="sxs-lookup"><span data-stu-id="3c346-160">The invoice amount is 480.</span></span>
 
-Om du har markerat kryssrutan **Avskr. till anl. bokf.datum** med ett "x" på fakturan innan du bokför transaktionen utförs följande beräkning:  
+<span data-ttu-id="3c346-161">Om du har markerat kryssrutan **Avskr. till anl. bokf.datum** med ett "x" på fakturan innan du bokför transaktionen utförs följande beräkning:</span><span class="sxs-lookup"><span data-stu-id="3c346-161">If you selected the **Depr. until FA Posting Date** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-15 avskrivningsdagar (från 00-09-01 till 00-09-15) beräknas så här:
+<span data-ttu-id="3c346-162">15 avskrivningsdagar (från 00-09-01 till 00-09-15) beräknas så här:</span><span class="sxs-lookup"><span data-stu-id="3c346-162">15 days of depreciation (from 09/01/00 to 09/15/00) is calculated as:</span></span>
 
-*bokföringsvärde x antal avskrivningsdagar/återstående antal avskrivningsdagar = (4800 - 100) x 15 / 1410 = 50*
+<span data-ttu-id="3c346-163">*bokföringsvärde x antal avskrivningsdagar/återstående antal avskrivningsdagar = (4800 - 100) x 15 / 1410 = 50*</span><span class="sxs-lookup"><span data-stu-id="3c346-163">*book value x number of depreciation days / remaining number of depreciation days = (4800 - 100) x 15 / 1410 = 50*</span></span>
 
-Om du har markerat kryssrutan **Avskr. anskaffningskostnad** med ett "x" på fakturan innan du bokför transaktionen utförs följande beräkning:  
+<span data-ttu-id="3c346-164">Om du har markerat kryssrutan **Avskr. anskaffningskostnad** med ett "x" på fakturan innan du bokför transaktionen utförs följande beräkning:</span><span class="sxs-lookup"><span data-stu-id="3c346-164">If you selected the **Depr. Acquisition Cost** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-*Den tillkommande anskaffningskostnaden avskrivs med ((150 x 100) / 4800) / 100 x 480 = 15*
+<span data-ttu-id="3c346-165">*Den tillkommande anskaffningskostnaden avskrivs med ((150 x 100) / 4800) / 100 x 480 = 15*</span><span class="sxs-lookup"><span data-stu-id="3c346-165">*The additional acquisition cost is depreciated by ((150 x 100) / 4800) / 100 x 480 = 15*</span></span>
 
-Avskrivningsbasen är nu *5280 = (4800 + 480)*och den ackumulerade avskrivningen är *165 = (100 + 50 + 15)* vilket motsvarar 45 avskrivningsdagar för den totala anskaffningskostnaden. Detta innebär att tillgången helt är avskriven inom den beräknade livslängden på fyra år.  
+<span data-ttu-id="3c346-166">Avskrivningsbasen är nu *5280 = (4800 + 480)*och den ackumulerade avskrivningen är *165 = (100 + 50 + 15)* vilket motsvarar 45 avskrivningsdagar för den totala anskaffningskostnaden.</span><span class="sxs-lookup"><span data-stu-id="3c346-166">The depreciable basis is now *5280 = (4800 + 480)*, and the accumulated depreciation is *165 = (100 + 50 + 15)*, corresponding to 45 days of depreciation of the total acquisition cost.</span></span> <span data-ttu-id="3c346-167">Detta innebär att tillgången helt är avskriven inom den beräknade livslängden på fyra år.</span><span class="sxs-lookup"><span data-stu-id="3c346-167">This means that the asset will be totally depreciated within the estimated lifetime of four years.</span></span>  
 
-När batch-jobbet **Beräkna avskrivning** körs på 09/30/00 används följande beräkning:  
+<span data-ttu-id="3c346-168">När batch-jobbet **Beräkna avskrivning** körs på 09/30/00 används följande beräkning:</span><span class="sxs-lookup"><span data-stu-id="3c346-168">When the **Calculate Depreciation** batch job is run on 09/30/00, the following calculation is made:</span></span>  
 
-*Återstående avskrivningstid är 3 år, 10 månader och 15 dagar = 1395 dagar*  
+<span data-ttu-id="3c346-169">*Återstående avskrivningstid är 3 år, 10 månader och 15 dagar = 1395 dagar*</span><span class="sxs-lookup"><span data-stu-id="3c346-169">*Remaining depreciable life is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Bokföringsvärdet är (5280 – 165) = 5115*  
+<span data-ttu-id="3c346-170">*Bokföringsvärdet är (5280 – 165) = 5115*</span><span class="sxs-lookup"><span data-stu-id="3c346-170">*Book value is (5280 - 165) = 5115*</span></span>  
 
-*Avskrivningsbeloppet för september 2000: 5115 x 15 / 1395 = 55,00*  
+<span data-ttu-id="3c346-171">*Avskrivningsbeloppet för september 2000: 5115 x 15 / 1395 = 55,00*</span><span class="sxs-lookup"><span data-stu-id="3c346-171">*Depreciation amount for September 2000: 5115 x 15 / 1395 = 55.00*</span></span>  
 
-*Summan av avskrivningen = 165 + 55 = 220*  
+<span data-ttu-id="3c346-172">*Summan av avskrivningen = 165 + 55 = 220*</span><span class="sxs-lookup"><span data-stu-id="3c346-172">*Total of depreciation = 165 + 55 = 220*</span></span>  
 
-Om du inte har markerat kryssrutan **Avskr. till anl. bokf.datum** förlorar tillgången 15 avskrivningsdagar eftersom batch-jobbet **Beräkna avskrivning** som körs 00-09-30 beräknar avskrivningen från 00-09-15 till 00-09-30. Detta innebär att följande beräkning utförs när batch-jobbet **Beräkna avskrivning** körs 00-09-30:  
+<span data-ttu-id="3c346-173">Om du inte har markerat kryssrutan **Avskr. till anl. bokf.datum** förlorar tillgången 15 avskrivningsdagar eftersom batch-jobbet **Beräkna avskrivning** som körs 00-09-30 beräknar avskrivningen från 00-09-15 till 00-09-30.</span><span class="sxs-lookup"><span data-stu-id="3c346-173">If you did not select the **Depr. until FA Posting Date** check box, the asset would loose 15 days of depreciation because the **Calculate Depreciation** batch job run on 09/30/00 would calculate depreciation from 09/15/00 to 09/30/00.</span></span> <span data-ttu-id="3c346-174">Detta innebär att följande beräkning utförs när batch-jobbet **Beräkna avskrivning** körs 00-09-30:</span><span class="sxs-lookup"><span data-stu-id="3c346-174">This means that when the **Calculate Depreciation** batch job is run on 09/30/00, the calculation is as follows:</span></span>  
 
-*Återstående livslängd är 3 år, 10 månader och 15 dagar = 1395 dagar*  
+<span data-ttu-id="3c346-175">*Återstående livslängd är 3 år, 10 månader och 15 dagar = 1395 dagar*</span><span class="sxs-lookup"><span data-stu-id="3c346-175">*Remaining life time is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Bokföringsvärdet är (4800 + 480 - 100 - 15) = 5165*
+<span data-ttu-id="3c346-176">*Bokföringsvärdet är (4800 + 480 - 100 - 15) = 5165*</span><span class="sxs-lookup"><span data-stu-id="3c346-176">*Book value is (4800 + 480 - 100 - 15) = 5165*</span></span>
 
-*Avskrivningsbeloppet för september 2000: 5165 x 15 / 1395 = 55,54*  
+<span data-ttu-id="3c346-177">*Avskrivningsbeloppet för september 2000: 5165 x 15 / 1395 = 55,54*</span><span class="sxs-lookup"><span data-stu-id="3c346-177">*Depreciation amount for September 2000: 5165 x 15 / 1395 = 55.54*</span></span>  
 
-*Summan av avskrivningen = 100 +15 + 55,54 = 170,54*
+<span data-ttu-id="3c346-178">*Summan av avskrivningen = 100 +15 + 55,54 = 170,54*</span><span class="sxs-lookup"><span data-stu-id="3c346-178">*Total of depreciation = 100 + 15 + 55.54 = 170.54*</span></span>
 
-## <a name="see-also"></a>Se även
-[Hantera anläggningstillgångar](fa-manage.md)  
-[Skapa anläggningstillgångar](fa-setup.md)  
-[Finans](finance-setup.md)  
-[Välkommen till Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="3c346-179">Se även</span><span class="sxs-lookup"><span data-stu-id="3c346-179">See Also</span></span>
+[<span data-ttu-id="3c346-180">Hantera anläggningstillgångar</span><span class="sxs-lookup"><span data-stu-id="3c346-180">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="3c346-181">Skapa anläggningstillgångar</span><span class="sxs-lookup"><span data-stu-id="3c346-181">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="3c346-182">Finans</span><span class="sxs-lookup"><span data-stu-id="3c346-182">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="3c346-183">Välkommen till Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="3c346-183">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

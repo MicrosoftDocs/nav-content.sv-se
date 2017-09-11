@@ -7,33 +7,33 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 4efaebd827fb18a5e3ef3e219c1062fdb3a09f8b
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 44ba987e5f2bab05a70d8cbef4b92565d392c234
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="create-contact-companies"></a>Skapa kontaktföretag
-Ditt företag träffar regelbundet potentiella kunder som vanligtvis utvecklas till framtida affärsrelationer. När en ny kontakt skapas måste den här informationen registreras så att kommunikationen kan fortsätta.
+# <a name="create-contact-companies"></a><span data-ttu-id="e9b40-102">Skapa kontaktföretag</span><span class="sxs-lookup"><span data-stu-id="e9b40-102">Create Contact Companies</span></span>
+<span data-ttu-id="e9b40-103">Ditt företag träffar regelbundet potentiella kunder som vanligtvis utvecklas till framtida affärsrelationer.</span><span class="sxs-lookup"><span data-stu-id="e9b40-103">Your company regularly meets prospective companies that usually develop into future business relationships.</span></span> <span data-ttu-id="e9b40-104">När en ny kontakt skapas måste den här informationen registreras så att kommunikationen kan fortsätta.</span><span class="sxs-lookup"><span data-stu-id="e9b40-104">When a new contact is made, this information needs to be recorded so that communication can continue.</span></span>
 
-Genom att ange så mycket data som möjligt om ett visst företag ser du till att kommunikationen blir effektiv. Om du till exempel anger relevant branschgrupp ser du till att dessa specifika företag får all relevant kommunikation.
+<span data-ttu-id="e9b40-105">Genom att ange så mycket data som möjligt om ett visst företag ser du till att kommunikationen blir effektiv.</span><span class="sxs-lookup"><span data-stu-id="e9b40-105">By assigning as much data as possible about a specific company ensures efficient communication.</span></span> <span data-ttu-id="e9b40-106">Om du till exempel anger relevant branschgrupp ser du till att dessa specifika företag får all relevant kommunikation.</span><span class="sxs-lookup"><span data-stu-id="e9b40-106">For example, assigning the relevant industry group, ensures that specific companies are included in any relevant communication.</span></span>
 
-Du kan också definiera vilken affärsrelation du har med en kontakt. En kontakt kan till exempel vara en potentiell kund, bank eller underleverantör.
+<span data-ttu-id="e9b40-107">Du kan också definiera vilken affärsrelation du har med en kontakt.</span><span class="sxs-lookup"><span data-stu-id="e9b40-107">You can also define the business relationship that you have with a contact.</span></span> <span data-ttu-id="e9b40-108">En kontakt kan till exempel vara en potentiell kund, bank eller underleverantör.</span><span class="sxs-lookup"><span data-stu-id="e9b40-108">For example, a contact could be a prospect, bank, or contractor.</span></span>
 
-I tabellen nedan beskrivs en rad uppgifter i ordningsföljd med länkar till de avsnitt där de beskrivs. Uppgifterna anges i den ordning de vanligen utförs.
+<span data-ttu-id="e9b40-109">I tabellen nedan beskrivs en rad uppgifter i ordningsföljd med länkar till de avsnitt där de beskrivs.</span><span class="sxs-lookup"><span data-stu-id="e9b40-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span> <span data-ttu-id="e9b40-110">Uppgifterna anges i den ordning de vanligen utförs.</span><span class="sxs-lookup"><span data-stu-id="e9b40-110">These tasks are listed in the order in which they are generally performed.</span></span>
 
-|Om du vill |Gå till |
+|<span data-ttu-id="e9b40-111">Om du vill</span><span class="sxs-lookup"><span data-stu-id="e9b40-111">To</span></span> |<span data-ttu-id="e9b40-112">Gå till</span><span class="sxs-lookup"><span data-stu-id="e9b40-112">See</span></span> |
 |---|----|
-|Skapa en kontakt för ett nytt företag, antingen från noll eller från en kund, en leverantör eller ett bankkonto.|[Så här skapar du kontaktföretag](marketing-how-create-contact-companies.md)|
-|Synkronisera information i kontakter med vanlig information hos kunder, leverantörer och bankkonton.|[Synkronisera kontakter med kunder, leverantörer och bankkonton](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
-|Beskriv affärsrelationen med en företagskontakt.|[Skapa affärsrelationer på kontaktföretag](marketing-business-relations.md)|
-|Placera ett kontaktföretag i rätt branschgrupp, t.ex. Detaljhandel.|[Skapa branschgrupper på kontaktföretag](marketing-industry-groups.md)|
-|Ange utskicksgrupper som kan användas för att identifiera grupper av kontakter som ska få samma information.|[Skapa utskicksgrupper på kontaktföretag](marketing-mailing-groups.md)|
-|Ange en alternativ adress för en kontakt.|[Så här tilldelar du alternativa adresser till en kontakt](marketing-how-assign-alternative-address.md)|
-|Tilldela webbadresser (sökmotorer och webbplatser) till dina kontakter för att ange var på Internet du tänker söka information om dem.|[Så här skapar du webbadresser på kontakter](marketing-web-sources.md)|
+|<span data-ttu-id="e9b40-113">Skapa en kontakt för ett nytt företag, antingen från noll eller från en kund, en leverantör eller ett bankkonto.</span><span class="sxs-lookup"><span data-stu-id="e9b40-113">Set up a contact for a new company, either from scratch or from a customer, vendor, or bank account.</span></span>|[<span data-ttu-id="e9b40-114">Så här skapar du kontaktföretag</span><span class="sxs-lookup"><span data-stu-id="e9b40-114">How to: Create Contact Companies</span></span>](marketing-how-create-contact-companies.md)|
+|<span data-ttu-id="e9b40-115">Synkronisera information i kontakter med vanlig information hos kunder, leverantörer och bankkonton.</span><span class="sxs-lookup"><span data-stu-id="e9b40-115">Synchronize information in contacts with common information in customers, vendors, and bank accounts.</span></span>|[<span data-ttu-id="e9b40-116">Synkronisera kontakter med kunder, leverantörer och bankkonton</span><span class="sxs-lookup"><span data-stu-id="e9b40-116">Synchronizing Contacts With Customers, Vendors, and Bank Accounts</span></span>](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
+|<span data-ttu-id="e9b40-117">Beskriv affärsrelationen med en företagskontakt.</span><span class="sxs-lookup"><span data-stu-id="e9b40-117">Describe the business relationship of a company contact.</span></span>|[<span data-ttu-id="e9b40-118">Skapa affärsrelationer på kontaktföretag</span><span class="sxs-lookup"><span data-stu-id="e9b40-118">Set Up Business Relations on Contacts Companies</span></span>](marketing-business-relations.md)|
+|<span data-ttu-id="e9b40-119">Placera ett kontaktföretag i rätt branschgrupp, t.ex. Detaljhandel.</span><span class="sxs-lookup"><span data-stu-id="e9b40-119">Place a contact company in the appropriate industry group, for example, retail.</span></span>|[<span data-ttu-id="e9b40-120">Skapa branschgrupper på kontaktföretag</span><span class="sxs-lookup"><span data-stu-id="e9b40-120">Set Up Industry Groups on Contact Companies</span></span>](marketing-industry-groups.md)|
+|<span data-ttu-id="e9b40-121">Ange utskicksgrupper som kan användas för att identifiera grupper av kontakter som ska få samma information.</span><span class="sxs-lookup"><span data-stu-id="e9b40-121">Set up the mailing groups that you can use to identify groups of contacts that you want to receive the same information.</span></span>|[<span data-ttu-id="e9b40-122">Skapa utskicksgrupper på kontaktföretag</span><span class="sxs-lookup"><span data-stu-id="e9b40-122">Set Up Mailing Groups on Contact Companies</span></span>](marketing-mailing-groups.md)|
+|<span data-ttu-id="e9b40-123">Ange en alternativ adress för en kontakt.</span><span class="sxs-lookup"><span data-stu-id="e9b40-123">Set up an alternative address for a contact.</span></span>|[<span data-ttu-id="e9b40-124">Så här tilldelar du alternativa adresser till en kontakt</span><span class="sxs-lookup"><span data-stu-id="e9b40-124">How to: Assign Alternative Addresses to a Contact</span></span>](marketing-how-assign-alternative-address.md)|
+|<span data-ttu-id="e9b40-125">Tilldela webbadresser (sökmotorer och webbplatser) till dina kontakter för att ange var på Internet du tänker söka information om dem.</span><span class="sxs-lookup"><span data-stu-id="e9b40-125">Assign Web sources (search engines and Web sites) to your contacts to indicate where on the Internet you intend to search for information about the contacts.</span></span>|[<span data-ttu-id="e9b40-126">Så här skapar du webbadresser på kontakter</span><span class="sxs-lookup"><span data-stu-id="e9b40-126">Set Up Web Sources on Contacts</span></span>](marketing-web-sources.md)|
 
-##<a name="see-also"></a>Se även
-[Skapa kontaktpersoner](marketing-create-contact-persons.md)
+##<a name="see-also"></a><span data-ttu-id="e9b40-127">Se även</span><span class="sxs-lookup"><span data-stu-id="e9b40-127">See Also</span></span>
+[<span data-ttu-id="e9b40-128">Skapa kontaktpersoner</span><span class="sxs-lookup"><span data-stu-id="e9b40-128">Create Contact Persons</span></span>](marketing-create-contact-persons.md)
 

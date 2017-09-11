@@ -1,1 +1,1 @@
-Snabbstartstjänster
+<span data-ttu-id="62c84-101">Snabbstartstjänster</span><span class="sxs-lookup"><span data-stu-id="62c84-101">RapidStart Services</span></span>

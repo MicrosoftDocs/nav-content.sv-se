@@ -7,38 +7,38 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ea22e27e3dd5a5698a37113cb1df3e408e544ddd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 56ff3a7579888b398ed357eda5c76d4d1c73d801
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a>Synkronisera kontakter med kunder, leverantörer och bankkonton
-Om några av kontakterna också är kund-, leverantörs- och/eller bankkonton kan du synkronisera deras kontaktinformation med relaterade kund-, leverantörs- och bankkonton. Synkroniseringen gör information som är gemensam mellan kontakter och kunder, leverantörer eller bankkonton densamma.  
+# <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a><span data-ttu-id="255aa-102">Synkronisera kontakter med kunder, leverantörer och bankkonton</span><span class="sxs-lookup"><span data-stu-id="255aa-102">Synchronizing Contacts With Customers, Vendors, and Bank Accounts</span></span>
+<span data-ttu-id="255aa-103">Om några av kontakterna också är kund-, leverantörs- och/eller bankkonton kan du synkronisera deras kontaktinformation med relaterade kund-, leverantörs- och bankkonton.</span><span class="sxs-lookup"><span data-stu-id="255aa-103">If some of your contacts are also customers, vendors, or bank accounts, you can synchronize the contact information with the related customer, vendor, or bank account.</span></span> <span data-ttu-id="255aa-104">Synkroniseringen gör information som är gemensam mellan kontakter och kunder, leverantörer eller bankkonton densamma.</span><span class="sxs-lookup"><span data-stu-id="255aa-104">Synchronization makes information that is common between contacts and customers, vendors, or bank account the same.</span></span>  
 
-Innan du kan synkronisera kontakterna med kund-, leverantörs- och/eller bankkonton måste du ange en affärsrelationskod för dessa i fönstret **Marknadsföringsinställningar**. Mer information finns i [Ställ in Marknadsföring och Kontakthantering](marketing-setup-marketing.md).
+<span data-ttu-id="255aa-105">Innan du kan synkronisera kontakterna med kund-, leverantörs- och/eller bankkonton måste du ange en affärsrelationskod för dessa i fönstret **Marknadsföringsinställningar**.</span><span class="sxs-lookup"><span data-stu-id="255aa-105">Before you can synchronize your contacts with customers, vendors, or bank accounts, you must specify a business relation code for customers, vendors, and bank accounts in the **Marketing Setup** window.</span></span> <span data-ttu-id="255aa-106">Mer information finns i [Ställ in Marknadsföring och Kontakthantering](marketing-setup-marketing.md).</span><span class="sxs-lookup"><span data-stu-id="255aa-106">For more information, see [Set Up Marketing and Contact Management](marketing-setup-marketing.md).</span></span>
 
-## <a name="different-ways-to-synchronize-contacts-with-customers-vendors-and-bank-accounts"></a>Olika sätt att synkronisera kontakter med kunder, leverantörer och bankkonton
-Du kan synkronisera kontakterna med kunder, leverantörer eller bankkonton på tre olika sätt:
+## <a name="different-ways-to-synchronize-contacts-with-customers-vendors-and-bank-accounts"></a><span data-ttu-id="255aa-107">Olika sätt att synkronisera kontakter med kunder, leverantörer och bankkonton</span><span class="sxs-lookup"><span data-stu-id="255aa-107">Different Ways to Synchronize Contacts with Customers, Vendors and Bank Accounts</span></span>
+<span data-ttu-id="255aa-108">Du kan synkronisera kontakterna med kunder, leverantörer eller bankkonton på tre olika sätt:</span><span class="sxs-lookup"><span data-stu-id="255aa-108">You can synchronize your contacts with customers, vendors, or bank accounts by three methods:</span></span>
 
-* Länka kontakterna till befintliga kunder, leverantörer eller bankkonton från kontaktkortet. Mer information finns i [Så här länkar du kontakter med kunder, leverantörer och bankkonton](marketing-how-link-contact.md).
-* Skapa kunder, leverantörer och bankkonton från kontakten. Mer information finns i [Skapa en företagskontakt från kund, leverantör eller bankkonto från en kontakt](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
-*  Skapa kontakter från kunder, leverantörer eller bankkonton. Mer information finns i [Skapa en företagskontakt från kund, leverantör eller bankkonto](marketing-how-create-contact-companies.md).
+* <span data-ttu-id="255aa-109">Länka kontakterna till befintliga kunder, leverantörer eller bankkonton från kontaktkortet.</span><span class="sxs-lookup"><span data-stu-id="255aa-109">Link contacts with existing customers, vendors, or bank accounts from the contact card.</span></span> <span data-ttu-id="255aa-110">Mer information finns i [Så här länkar du kontakter med kunder, leverantörer och bankkonton](marketing-how-link-contact.md).</span><span class="sxs-lookup"><span data-stu-id="255aa-110">For more information, see [How to: Link Contacts With Customers, Vendors, and Bank Accounts](marketing-how-link-contact.md).</span></span>
+* <span data-ttu-id="255aa-111">Skapa kunder, leverantörer och bankkonton från kontakten.</span><span class="sxs-lookup"><span data-stu-id="255aa-111">Create customers, vendors, or bank accounts from the contact.</span></span> <span data-ttu-id="255aa-112">Mer information finns i [Skapa en företagskontakt från kund, leverantör eller bankkonto från en kontakt](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span><span class="sxs-lookup"><span data-stu-id="255aa-112">For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span></span>
+*  <span data-ttu-id="255aa-113">Skapa kontakter från kunder, leverantörer eller bankkonton.</span><span class="sxs-lookup"><span data-stu-id="255aa-113">Create contacts from customers, vendors or bank accounts.</span></span> <span data-ttu-id="255aa-114">Mer information finns i [Skapa en företagskontakt från kund, leverantör eller bankkonto](marketing-how-create-contact-companies.md).</span><span class="sxs-lookup"><span data-stu-id="255aa-114">For more information, see [Create a Company Contact From a Customer, Vendor, or Bank Account](marketing-how-create-contact-companies.md).</span></span>
 
-## <a name="consequences-of-synchronization"></a>Konsekvenser för synkroniseringen
-När kontaken har synkroniserats med kund-, leverantörs- eller bankkontot:
+## <a name="consequences-of-synchronization"></a><span data-ttu-id="255aa-115">Konsekvenser för synkroniseringen</span><span class="sxs-lookup"><span data-stu-id="255aa-115">Consequences of Synchronization</span></span>
+<span data-ttu-id="255aa-116">När kontaken har synkroniserats med kund-, leverantörs- eller bankkontot:</span><span class="sxs-lookup"><span data-stu-id="255aa-116">When the contact is synchronized with the customer, vendor, bank account:</span></span>
 
-* Du behöver bara uppdatera uppgifterna på ett ställe. Om du till exempel ändrar telefonnumret på kontakten uppdateras telefonnumret med samma ändring på kund-, leverantörs- eller bankkontot.
-* Om du har angett nummerserie för kontakter när du skapar kund-, leverantörs- eller bankkontokort, skapas automatiskt ett kontaktkort för kunder, leverantörer eller bankkonton.
-* Du kan skapa förs.offerter och försäljningsorder, inköpsofferter och inköpsorder från kontakten.
-*  Dina interaktioner kan registreras när du utför vissa åtgärder som att skriva ut order eller avropsorder, skapa försäljningsserviceorder, skicka e-post osv.
-* Om du raderar en kontakt som är länkad till en kund, leverantör eller bank är det bara kontakten som tas bort från programmet. Kunden, leverantören eller bankkontot återstår.
-* Om du raderar en kontakt som är länkad till en kund, leverantör eller ett bankkonto är det bara kontakten som återstår.
+* <span data-ttu-id="255aa-117">Du behöver bara uppdatera uppgifterna på ett ställe.</span><span class="sxs-lookup"><span data-stu-id="255aa-117">You only have to update information in one place.</span></span> <span data-ttu-id="255aa-118">Om du till exempel ändrar telefonnumret på kontakten uppdateras telefonnumret med samma ändring på kund-, leverantörs- eller bankkontot.</span><span class="sxs-lookup"><span data-stu-id="255aa-118">For example, if you modify the phone number on the contact, the phone number is automatically updated with the same modification on the customer, the vendor, or the bank account.</span></span>
+* <span data-ttu-id="255aa-119">Om du har angett nummerserie för kontakter när du skapar kund-, leverantörs- eller bankkontokort, skapas automatiskt ett kontaktkort för kunder, leverantörer eller bankkonton.</span><span class="sxs-lookup"><span data-stu-id="255aa-119">If you have specified a number series for contacts, when you create a customer card, a vendor card, or a bank account card, a contact card is automatically created for the customer, vendor or bank account.</span></span>
+* <span data-ttu-id="255aa-120">Du kan skapa förs.offerter och försäljningsorder, inköpsofferter och inköpsorder från kontakten.</span><span class="sxs-lookup"><span data-stu-id="255aa-120">You can create sales quotes and orders, and purchase quotes and orders from the contact.</span></span>
+*  <span data-ttu-id="255aa-121">Dina interaktioner kan registreras när du utför vissa åtgärder som att skriva ut order eller avropsorder, skapa försäljningsserviceorder, skicka e-post osv.</span><span class="sxs-lookup"><span data-stu-id="255aa-121">You can have your interactions recorded when you perform actions such as printing orders, blanket orders, creating sales service orders, sending e-mails, and so on.</span></span>
+* <span data-ttu-id="255aa-122">Om du raderar en kontakt som är länkad till en kund, leverantör eller bank är det bara kontakten som tas bort från programmet.</span><span class="sxs-lookup"><span data-stu-id="255aa-122">If you delete a contact linked to a customer, vendor or bank account, only the contact is removed.</span></span> <span data-ttu-id="255aa-123">Kunden, leverantören eller bankkontot återstår.</span><span class="sxs-lookup"><span data-stu-id="255aa-123">The customer, vendor, or bank account remains.</span></span>
+* <span data-ttu-id="255aa-124">Om du raderar en kontakt som är länkad till en kund, leverantör eller ett bankkonto är det bara kontakten som återstår.</span><span class="sxs-lookup"><span data-stu-id="255aa-124">If you delete a customer, vendor, bank account linked to a contact, the contact remains.</span></span>
 
-**Obs!** Vissa detaljer, t.ex fakturering och bokföringsdetaljer, visas inte på kontaktkortet. Följaktligen kan du behöva lägga till dem manuellt på kund-, leverantörs- och bankkontokort, när du skapar kontakter som kunder, leverantörer eller bankkonton.
+<span data-ttu-id="255aa-125">**Obs!** Vissa detaljer, t.ex fakturering och bokföringsdetaljer, visas inte på kontaktkortet.</span><span class="sxs-lookup"><span data-stu-id="255aa-125">**Note**: Some details, such as invoicing and posting details, do not appear on the contact card.</span></span> <span data-ttu-id="255aa-126">Följaktligen kan du behöva lägga till dem manuellt på kund-, leverantörs- och bankkontokort, när du skapar kontakter som kunder, leverantörer eller bankkonton.</span><span class="sxs-lookup"><span data-stu-id="255aa-126">Therefore, you may want to add them manually on the customer card, vendor card, or bank account card when you create contacts as customers, vendors or bank accounts.</span></span>
 
-##<a name="see-also"></a>Se även
-[Hantera kontakter](marketing-contacts.md)
+##<a name="see-also"></a><span data-ttu-id="255aa-127">Se även</span><span class="sxs-lookup"><span data-stu-id="255aa-127">See Also</span></span>
+[<span data-ttu-id="255aa-128">Hantera kontakter</span><span class="sxs-lookup"><span data-stu-id="255aa-128">Manage Contacts</span></span>](marketing-contacts.md)
 

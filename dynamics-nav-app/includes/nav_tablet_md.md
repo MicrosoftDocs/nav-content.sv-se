@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-surfplatteklient
+<span data-ttu-id="6c8e6-101">Microsoft Dynamics NAV-surfplatteklient</span><span class="sxs-lookup"><span data-stu-id="6c8e6-101">Microsoft Dynamics NAV Tablet client</span></span>

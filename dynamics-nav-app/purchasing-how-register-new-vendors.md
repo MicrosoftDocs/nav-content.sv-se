@@ -7,46 +7,46 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bfd82d43cb42a9447292b9f4ef3cc49ca2ce4f53
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: be40ca24dce8d1f8c010290b8f1ee7813d5b8139
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-register-new-vendors"></a>Så här registrerar du nya leverantörer
-Leverantörer erbjuder produkter som du säljer. Varje leverantör som du har köpt av måste registreras som ett leverantörskort.
+# <a name="how-to-register-new-vendors"></a><span data-ttu-id="69195-102">Så här registrerar du nya leverantörer</span><span class="sxs-lookup"><span data-stu-id="69195-102">How to: Register New Vendors</span></span>
+<span data-ttu-id="69195-103">Leverantörer erbjuder produkter som du säljer.</span><span class="sxs-lookup"><span data-stu-id="69195-103">Vendors provide the products that you sell.</span></span> <span data-ttu-id="69195-104">Varje leverantör som du har köpt av måste registreras som ett leverantörskort.</span><span class="sxs-lookup"><span data-stu-id="69195-104">Each vendor that you purchase from must be registered as a vendor card.</span></span>
 
-Innan du kan registrera nya leverantörer, måste du lägga upp olika inköpskoder som du kan välja mellan, när du fyller i leverantörskort. När alla obligatoriska huvuddata skapats kan du konfigurera leverantören ytterligare, till exempel genom att prioritera leverantören i betalningssyfte och upprätta en lista över artiklar som leverantören och andra leverantörer kan tillhandahålla. En annan grupp av inställningsuppgifter för leverantörer är att lägga in dina avtal om inköpspris, rabatter och betalning. Mer information finns i [Konfigurera inköp](purchasing-setup-purchasing.md).
+<span data-ttu-id="69195-105">Innan du kan registrera nya leverantörer, måste du lägga upp olika inköpskoder som du kan välja mellan, när du fyller i leverantörskort.</span><span class="sxs-lookup"><span data-stu-id="69195-105">Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards.</span></span> <span data-ttu-id="69195-106">När alla obligatoriska huvuddata skapats kan du konfigurera leverantören ytterligare, till exempel genom att prioritera leverantören i betalningssyfte och upprätta en lista över artiklar som leverantören och andra leverantörer kan tillhandahålla.</span><span class="sxs-lookup"><span data-stu-id="69195-106">When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply.</span></span> <span data-ttu-id="69195-107">En annan grupp av inställningsuppgifter för leverantörer är att lägga in dina avtal om inköpspris, rabatter och betalning.</span><span class="sxs-lookup"><span data-stu-id="69195-107">Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods.</span></span> <span data-ttu-id="69195-108">Mer information finns i [Konfigurera inköp](purchasing-setup-purchasing.md).</span><span class="sxs-lookup"><span data-stu-id="69195-108">For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).</span></span>
 
-Leverantörskort innehåller den information som behövs för att köpa produkter från leverantören. Mer information finns i [Så här bokför du inköp](purchasing-how-record-purchases.md), [Så här registrerar du nya produkter](inventory-how-register-new-products.md).
+<span data-ttu-id="69195-109">Leverantörskort innehåller den information som behövs för att köpa produkter från leverantören.</span><span class="sxs-lookup"><span data-stu-id="69195-109">Vendor cards hold the information that is required to buy products from the vendor.</span></span> <span data-ttu-id="69195-110">Mer information finns i [Så här bokför du inköp](purchasing-how-record-purchases.md), [Så här registrerar du nya produkter](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="69195-110">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register new Products](inventory-how-register-new-products.md).</span></span>
 
-**Obs!** Om leverantörsmallar finns för olika leverantörstyper, visas ett fönster när du skapar ett nytt leverantörskort där du kan välja en lämplig mall. Om endast en leverantörsmall finns, då använder nya leverantörskort alltid den mallen.
+<span data-ttu-id="69195-111">**Obs!** Om leverantörsmallar finns för olika leverantörstyper, visas ett fönster när du skapar ett nytt leverantörskort där du kan välja en lämplig mall.</span><span class="sxs-lookup"><span data-stu-id="69195-111">**Note**: If vendor templates exist for different vendor types, then a window appears when you create a new vendor card from where you can select an appropriate template.</span></span> <span data-ttu-id="69195-112">Om endast en leverantörsmall finns, då använder nya leverantörskort alltid den mallen.</span><span class="sxs-lookup"><span data-stu-id="69195-112">If only one vendor template exists, then new vendor cards always use that template.</span></span>
 
-## <a name="to-create-a-new-vendor-card"></a>Skapa ett nytt leverantörskort.
-1. Välj **Leverantörer** på startsidan för att öppna listan över befintliga leverantörer.  
-2. I fönstret **Leverantörer** väljer du **Ny**.
+## <a name="to-create-a-new-vendor-card"></a><span data-ttu-id="69195-113">Skapa ett nytt leverantörskort.</span><span class="sxs-lookup"><span data-stu-id="69195-113">To create a new vendor card</span></span>
+1. <span data-ttu-id="69195-114">Välj **Leverantörer** på startsidan för att öppna listan över befintliga leverantörer.</span><span class="sxs-lookup"><span data-stu-id="69195-114">On the Home page, choose **Vendors** to open the list of existing vendors.</span></span>  
+2. <span data-ttu-id="69195-115">I fönstret **Leverantörer** väljer du **Ny**.</span><span class="sxs-lookup"><span data-stu-id="69195-115">In the **Vendors** window, Choose **New**.</span></span>
 
-    Om fler än en leverantörsmall finns, öppnas ett fönster där du kan välja leverantörsmall. I detta fall, följ nästa två steg.
-3. Välj den mall som du vill använda för den nya leverantörskortet i fönstret **Välj en mall för en ny leverantör**.
-4. Välj **OK**. Ett nytt leverantörskort öppnas med några ifyllda fält med information från mallen.
-5. Fortsätt att fylla i eller ändra fält på leverantörskortet vid behov. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+    <span data-ttu-id="69195-116">Om fler än en leverantörsmall finns, öppnas ett fönster där du kan välja leverantörsmall.</span><span class="sxs-lookup"><span data-stu-id="69195-116">If more than one vendor template exists, then a window opens from which you can select a vendor template.</span></span> <span data-ttu-id="69195-117">I detta fall, följ nästa två steg.</span><span class="sxs-lookup"><span data-stu-id="69195-117">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="69195-118">Välj den mall som du vill använda för den nya leverantörskortet i fönstret **Välj en mall för en ny leverantör**.</span><span class="sxs-lookup"><span data-stu-id="69195-118">In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.</span></span>
+4. <span data-ttu-id="69195-119">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="69195-119">Choose the **OK** button.</span></span> <span data-ttu-id="69195-120">Ett nytt leverantörskort öppnas med några ifyllda fält med information från mallen.</span><span class="sxs-lookup"><span data-stu-id="69195-120">A new vendor card opens with some fields filled with information from the template.</span></span>
+5. <span data-ttu-id="69195-121">Fortsätt att fylla i eller ändra fält på leverantörskortet vid behov.</span><span class="sxs-lookup"><span data-stu-id="69195-121">Proceed to fill or change fields on the vendor card as necessary.</span></span> <span data-ttu-id="69195-122">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="69195-122">Choose a field to read a short description of the field or link to more information.</span></span>
 
-Leverantören är nu registrerad, och leverantörskortet är klart att användas i inköpsdokument.
+<span data-ttu-id="69195-123">Leverantören är nu registrerad, och leverantörskortet är klart att användas i inköpsdokument.</span><span class="sxs-lookup"><span data-stu-id="69195-123">The vendor is now registered, and the vendor card is ready to be used on purchase documents.</span></span>
 
-Om du vill använda detta leverantörskort som en mall när du skapar nya leverantörskort, så fortsätt med att spara den som en leverantörsmall. Mer information finns i följande avsnitt:
+<span data-ttu-id="69195-124">Om du vill använda detta leverantörskort som en mall när du skapar nya leverantörskort, så fortsätt med att spara den som en leverantörsmall.</span><span class="sxs-lookup"><span data-stu-id="69195-124">If you want to use this vendor card as a template when you create new vendor cards, you can save it as a vendor template.</span></span> <span data-ttu-id="69195-125">Mer information finns i följande avsnitt:</span><span class="sxs-lookup"><span data-stu-id="69195-125">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-vendor-card-as-a-template"></a>Om du vill spara leverantörskortet som en mall
-1. I fönstret **leverantörskort** väljer du åtgärden **Spara som mall**. Det **leverantörsmall** fönstret öppnas uppvisar leverantörskortet som mall.
-2. Fyll i fälten om det behövs. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
-3. Om du vill återanvända dimensioner i mallar väljer du fönstret **Dimensioner**. Fönstret **Dimensionsmallar** öppnas och visar de dimensionskoder som ställts in för leverantören.
-4. Ändra eller ange dimensionskoder som ska kopplas till nya leverantörskort som skapas med hjälp av mallen.
-5. Välj **OK** när du har slutfört den nya leverantörsmallen. Leverantörsmallen läggs till listan över leverantörsmallar, så att du kan använda det för att skapa nya leverantörskort.
+## <a name="to-save-the-vendor-card-as-a-template"></a><span data-ttu-id="69195-126">Om du vill spara leverantörskortet som en mall</span><span class="sxs-lookup"><span data-stu-id="69195-126">To save the vendor card as a template</span></span>
+1. <span data-ttu-id="69195-127">I fönstret **leverantörskort** väljer du åtgärden **Spara som mall**.</span><span class="sxs-lookup"><span data-stu-id="69195-127">In the **Vendor Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="69195-128">Det **leverantörsmall** fönstret öppnas uppvisar leverantörskortet som mall.</span><span class="sxs-lookup"><span data-stu-id="69195-128">The **Vendor Template** window opens showing the vendor card as a template.</span></span>
+2. <span data-ttu-id="69195-129">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="69195-129">Fill in the fields as necessary.</span></span> <span data-ttu-id="69195-130">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="69195-130">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="69195-131">Om du vill återanvända dimensioner i mallar väljer du fönstret **Dimensioner**.</span><span class="sxs-lookup"><span data-stu-id="69195-131">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="69195-132">Fönstret **Dimensionsmallar** öppnas och visar de dimensionskoder som ställts in för leverantören.</span><span class="sxs-lookup"><span data-stu-id="69195-132">The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.</span></span>
+4. <span data-ttu-id="69195-133">Ändra eller ange dimensionskoder som ska kopplas till nya leverantörskort som skapas med hjälp av mallen.</span><span class="sxs-lookup"><span data-stu-id="69195-133">Edit or enter dimension codes that will apply to new vendor cards created by using the template.</span></span>
+5. <span data-ttu-id="69195-134">Välj **OK** när du har slutfört den nya leverantörsmallen.</span><span class="sxs-lookup"><span data-stu-id="69195-134">When you have completed the new vendor template, choose the **OK** button.</span></span> <span data-ttu-id="69195-135">Leverantörsmallen läggs till listan över leverantörsmallar, så att du kan använda det för att skapa nya leverantörskort.</span><span class="sxs-lookup"><span data-stu-id="69195-135">The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.</span></span>
 
-## <a name="see-also"></a>Se även
-[Hantera inköp](purchasing-manage-purchasing.md)  
-[Så här registrerar du inköp](purchasing-how-record-purchases.md)   
-[Arbeta med Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="69195-136">Se även</span><span class="sxs-lookup"><span data-stu-id="69195-136">See Also</span></span>
+[<span data-ttu-id="69195-137">Hantera inköp</span><span class="sxs-lookup"><span data-stu-id="69195-137">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="69195-138">[Så här registrerar du inköp](purchasing-how-record-purchases.md) </span><span class="sxs-lookup"><span data-stu-id="69195-138">[How to: Record Purchases](purchasing-how-record-purchases.md) </span></span>  
+[<span data-ttu-id="69195-139">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="69195-139">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

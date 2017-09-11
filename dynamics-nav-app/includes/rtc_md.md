@@ -1,1 +1,1 @@
-Rollbaserad klient
+<span data-ttu-id="56c24-101">Rollbaserad klient</span><span class="sxs-lookup"><span data-stu-id="56c24-101">RoleTailored client</span></span>

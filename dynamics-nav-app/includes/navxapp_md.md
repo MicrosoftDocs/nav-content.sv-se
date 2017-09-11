@@ -1,1 +1,1 @@
-NAV-tillägg
+<span data-ttu-id="766da-101">NAV-tillägg</span><span class="sxs-lookup"><span data-stu-id="766da-101">NAV extension</span></span>

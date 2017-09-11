@@ -1,1 +1,1 @@
-DynamicsNAV100
+<span data-ttu-id="be959-101">DynamicsNAV100</span><span class="sxs-lookup"><span data-stu-id="be959-101">DynamicsNAV100</span></span>

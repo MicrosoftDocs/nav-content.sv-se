@@ -7,80 +7,80 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 00f316dd3032d41239a75c0f40e6db6dc54601fe
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 0b65de9444851e6d7812a68740b1b60d922fef8a
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="processing-sales-opportunities"></a>Behandlar försäljningsmöjligheter
-När du har skapat en affärsmöjlighet, finns det flera funktioner för att hantera affärsmöjligheten och flytta den igenom till färdigställande.
+# <a name="processing-sales-opportunities"></a><span data-ttu-id="15c54-102">Behandlar försäljningsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="15c54-102">Processing Sales Opportunities</span></span>
+<span data-ttu-id="15c54-103">När du har skapat en affärsmöjlighet, finns det flera funktioner för att hantera affärsmöjligheten och flytta den igenom till färdigställande.</span><span class="sxs-lookup"><span data-stu-id="15c54-103">After you create an opportunity, there are several features for managing the opportunity and moving it through to completion.</span></span>
 
-## <a name="view-opportunities"></a>Visa affärsmöjligheter.
-De befintliga försäljningsmöjligheterna finns i fönstret **Affärsmöjlighetslista**. Det finns andra sätt att komma åt det här fönstret för att bearbeta affärsmöjligheter:
+## <a name="view-opportunities"></a><span data-ttu-id="15c54-104">Visa affärsmöjligheter.</span><span class="sxs-lookup"><span data-stu-id="15c54-104">View opportunities</span></span>
+<span data-ttu-id="15c54-105">De befintliga försäljningsmöjligheterna finns i fönstret **Affärsmöjlighetslista**.</span><span class="sxs-lookup"><span data-stu-id="15c54-105">The existing sale opportunities are available from the **Opportunity List** window.</span></span> <span data-ttu-id="15c54-106">Det finns andra sätt att komma åt det här fönstret för att bearbeta affärsmöjligheter:</span><span class="sxs-lookup"><span data-stu-id="15c54-106">There are different ways to access this window for processing sales opportunities:</span></span>
 
-|Visa affärsmöjligheter för |Genom att |
+|<span data-ttu-id="15c54-107">Visa affärsmöjligheter för</span><span class="sxs-lookup"><span data-stu-id="15c54-107">To view opportunities for</span></span> |<span data-ttu-id="15c54-108">Genom att</span><span class="sxs-lookup"><span data-stu-id="15c54-108">Then</span></span> |
 |--------------------------|-----|
-|Alla säljare och kontakter|Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Affärsmöjlighetslista** och välj sedan relaterad länk.|
-|En viss säljare|Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Säljare** och välj sedan relaterad länk. Välj säljare, välj åtgärden **Affärsmöjligheter** och välj sedan åtgärden **Lista**.|
-|En viss kontakt|Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Kontakter** och välj sedan relaterad länk. Välj kontakt från listan, välj åtgärden **Affärsmöjligheter**.|
+|<span data-ttu-id="15c54-109">Alla säljare och kontakter</span><span class="sxs-lookup"><span data-stu-id="15c54-109">All salespeople and contacts</span></span>|<span data-ttu-id="15c54-110">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Affärsmöjlighetslista** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="15c54-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Opportunity List**, and then choose the related link.</span></span>|
+|<span data-ttu-id="15c54-111">En viss säljare</span><span class="sxs-lookup"><span data-stu-id="15c54-111">A specific sales person</span></span>|<span data-ttu-id="15c54-112">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Säljare** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="15c54-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span> <span data-ttu-id="15c54-113">Välj säljare, välj åtgärden **Affärsmöjligheter** och välj sedan åtgärden **Lista**.</span><span class="sxs-lookup"><span data-stu-id="15c54-113">Select the salesperson, choose the **Opportunities** action, and then choose the **List** action.</span></span>|
+|<span data-ttu-id="15c54-114">En viss kontakt</span><span class="sxs-lookup"><span data-stu-id="15c54-114">A specific contact</span></span>|<span data-ttu-id="15c54-115">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Kontakter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="15c54-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span> <span data-ttu-id="15c54-116">Välj kontakt från listan, välj åtgärden **Affärsmöjligheter**.</span><span class="sxs-lookup"><span data-stu-id="15c54-116">Select the contact from the list, and then choose the **Opportunities** action.</span></span>|
 
-Var och en av dessa uppgifter öppnar fönstret **Affärsmöjlighetslista**.
+<span data-ttu-id="15c54-117">Var och en av dessa uppgifter öppnar fönstret **Affärsmöjlighetslista**.</span><span class="sxs-lookup"><span data-stu-id="15c54-117">Each of these tasks opens the **Opportunity List** window.</span></span>
 
-## <a name="close-opportunities"></a>Avsluta affärsmöjligheter
-Du kan avsluta affärsmöjligheter när en förhandling är över. När du avslutar en affärsmöjlighet kan du ange om den har vunnits eller förlorats och anledningen till att avsluta den. Om du vill ange en orsak måste du lägga upp koder för avslutade affärsmöjligheter.
+## <a name="close-opportunities"></a><span data-ttu-id="15c54-118">Avsluta affärsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="15c54-118">Close opportunities</span></span>
+<span data-ttu-id="15c54-119">Du kan avsluta affärsmöjligheter när en förhandling är över.</span><span class="sxs-lookup"><span data-stu-id="15c54-119">You can close opportunities when the negotiations are over.</span></span> <span data-ttu-id="15c54-120">När du avslutar en affärsmöjlighet kan du ange om den har vunnits eller förlorats och anledningen till att avsluta den.</span><span class="sxs-lookup"><span data-stu-id="15c54-120">When closing an opportunity, you can specify whether it was won or lost, and the reasons for closing it.</span></span> <span data-ttu-id="15c54-121">Om du vill ange en orsak måste du lägga upp koder för avslutade affärsmöjligheter.</span><span class="sxs-lookup"><span data-stu-id="15c54-121">To specify a reason, you must set up closed opportunity codes.</span></span>
 
-1. I fönstret **Affärsmöjlighetslista** väljer du affärsmöjlighet och väljer sedan åtgärden **Avsluta**. Fönstret **Avsluta affärsmöjlighet** öppnas.
-2. Fyll i relevanta fält och välj sedan knappen **OK**.
+1. <span data-ttu-id="15c54-122">I fönstret **Affärsmöjlighetslista** väljer du affärsmöjlighet och väljer sedan åtgärden **Avsluta**.</span><span class="sxs-lookup"><span data-stu-id="15c54-122">In the **Opportunity List** window, select the opportunity, and the choose the **Close** action.</span></span> <span data-ttu-id="15c54-123">Fönstret **Avsluta affärsmöjlighet** öppnas.</span><span class="sxs-lookup"><span data-stu-id="15c54-123">The **Close Opportunity** window opens.</span></span>
+2. <span data-ttu-id="15c54-124">Fyll i relevanta fält och välj sedan knappen **OK**.</span><span class="sxs-lookup"><span data-stu-id="15c54-124">Fill in the relevant fields, and then choose the **OK** button.</span></span>
 
-  Fälten **Avslutskod affärsmöjlighet** och **Avslutsdatum** är obligatoriska fält och måste fyllas i innan du kan välja knappen **OK**.
+  <span data-ttu-id="15c54-125">Fälten **Avslutskod affärsmöjlighet** och **Avslutsdatum** är obligatoriska fält och måste fyllas i innan du kan välja knappen **OK**.</span><span class="sxs-lookup"><span data-stu-id="15c54-125">The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.</span></span>
 
-  I fältet **Avslutskod affärsmöjlighet** kan du välja från en av de befintliga avslutskoder affärsmöjligheter eller lägga till en ny kod. Om du vill lägga till en ny kod väljer du **Välj från fullständig lista** i listrutan och väljer sedan **ny**. På den nya tomma raden fyller du i fälten **Kod**, **Typ** och **Beskrivning** och väljer sedan knappen **OK**.
+  <span data-ttu-id="15c54-126">I fältet **Avslutskod affärsmöjlighet** kan du välja från en av de befintliga avslutskoder affärsmöjligheter eller lägga till en ny kod.</span><span class="sxs-lookup"><span data-stu-id="15c54-126">In the **Close Opportunity Code** field, you can choose from one of the existing close opportunity codes or add a new code.</span></span> <span data-ttu-id="15c54-127">Om du vill lägga till en ny kod väljer du **Välj från fullständig lista** i listrutan och väljer sedan **ny**.</span><span class="sxs-lookup"><span data-stu-id="15c54-127">To add a new code, from the drop-down list, choose **Select from full list**, and then choose **new**.</span></span> <span data-ttu-id="15c54-128">På den nya tomma raden fyller du i fälten **Kod**, **Typ** och **Beskrivning** och väljer sedan knappen **OK**.</span><span class="sxs-lookup"><span data-stu-id="15c54-128">On the new blank line, fill in the **Code**, **Type**, and **Description** fields, and then choose the **OK** button.</span></span>
 
-## <a name="create-quotes-for-opportunities"></a>Skapa offerter för affärsmöjligheter
-Du kan skapa försäljningsofferter för kontakter som inte är registrerade som kunder.
+## <a name="create-quotes-for-opportunities"></a><span data-ttu-id="15c54-129">Skapa offerter för affärsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="15c54-129">Create quotes for opportunities</span></span>
+<span data-ttu-id="15c54-130">Du kan skapa försäljningsofferter för kontakter som inte är registrerade som kunder.</span><span class="sxs-lookup"><span data-stu-id="15c54-130">You can create sales quotes for contacts that are not recorded as customers.</span></span>
 
-1. I fönstret **Affärsmöjlighetslista** väljer du affärsmöjlighet och väljer sedan åtgärden **Skapa försäljningsoffert**. Fönstret **Försäljningsoffert** visas.
-2. Fyll i relevanta fält.
+1. <span data-ttu-id="15c54-131">I fönstret **Affärsmöjlighetslista** väljer du affärsmöjlighet och väljer sedan åtgärden **Skapa försäljningsoffert**.</span><span class="sxs-lookup"><span data-stu-id="15c54-131">In the **Opportunity List** window, select the opportunity, and then choose the **Assign Sales Quote** action.</span></span> <span data-ttu-id="15c54-132">Fönstret **Försäljningsoffert** visas.</span><span class="sxs-lookup"><span data-stu-id="15c54-132">The **Sales Quote** window opens.</span></span>
+2. <span data-ttu-id="15c54-133">Fyll i relevanta fält.</span><span class="sxs-lookup"><span data-stu-id="15c54-133">Fill in the relevant fields.</span></span>
 
-## <a name="create-sales-orders-for-opportunities"></a>Skapa försäljningsorder för affärsmöjligheter
-Du kan skapa order från förs.offerter som du har skapat för affärsmöjligheter. Innan du kan skapa försäljningsorder till kontakterna måste du ska kontakten som en kund. Mer information finns i [Skapa en företagskontakt från kund, leverantör eller bankkonto från en kontakt](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
+## <a name="create-sales-orders-for-opportunities"></a><span data-ttu-id="15c54-134">Skapa försäljningsorder för affärsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="15c54-134">Create sales orders for opportunities</span></span>
+<span data-ttu-id="15c54-135">Du kan skapa order från förs.offerter som du har skapat för affärsmöjligheter.</span><span class="sxs-lookup"><span data-stu-id="15c54-135">You can make sales orders from the sales quotes that you have created for your opportunities.</span></span> <span data-ttu-id="15c54-136">Innan du kan skapa försäljningsorder till kontakterna måste du ska kontakten som en kund.</span><span class="sxs-lookup"><span data-stu-id="15c54-136">Before you can create sales orders for your contacts, you must create the contact as a customer.</span></span> <span data-ttu-id="15c54-137">Mer information finns i [Skapa en företagskontakt från kund, leverantör eller bankkonto från en kontakt](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span><span class="sxs-lookup"><span data-stu-id="15c54-137">For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span></span>
 
-1. Sök efter den affärsmöjligheten som du har skapat en försäljningsoffert för i fönstret **Affärsmöjlighetslista**.
-2. Välj åtgärden Skapa försäljningsoffert. Fönstret **Förs.offert** öppnas och visar den förs.offert som du har tilldelat affärsmöjligheten.
-3. Fyll i de extra fälten och välj sedan åtgärden **Skapa order**.
+1. <span data-ttu-id="15c54-138">Sök efter den affärsmöjligheten som du har skapat en försäljningsoffert för i fönstret **Affärsmöjlighetslista**.</span><span class="sxs-lookup"><span data-stu-id="15c54-138">In the **Opportunity List** window, find the opportunity that you have created a sales quote for.</span></span>
+2. <span data-ttu-id="15c54-139">Välj åtgärden Skapa försäljningsoffert.</span><span class="sxs-lookup"><span data-stu-id="15c54-139">Choose the Assign Sales Quote actions.</span></span> <span data-ttu-id="15c54-140">Fönstret **Förs.offert** öppnas och visar den förs.offert som du har tilldelat affärsmöjligheten.</span><span class="sxs-lookup"><span data-stu-id="15c54-140">The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.</span></span>
+3. <span data-ttu-id="15c54-141">Fyll i de extra fälten och välj sedan åtgärden **Skapa order**.</span><span class="sxs-lookup"><span data-stu-id="15c54-141">Fill in the additional fields, and then choose the **Make Order** action.</span></span>
 
-När du hanterar affärsmöjligheter kan du behöva skapa en offert för den kontakt som affärsmöjligheten är kopplad till.
+<span data-ttu-id="15c54-142">När du hanterar affärsmöjligheter kan du behöva skapa en offert för den kontakt som affärsmöjligheten är kopplad till.</span><span class="sxs-lookup"><span data-stu-id="15c54-142">When handling sales opportunities, you may need to create a quote for the contact that the opportunity is linked to.</span></span>
 
-## <a name="delete-opportunities"></a>Ta bort affärsmöjligheter
-Du kan ta bort affärsmöjligheter när du till exempel har tagit hem en affär. Du kan bara ta bort avslutade affärsmöjligheter. Det finns två sätt att ta bort avslutade affärsmöjligheter. Du kan ta bort enskilda avslutade affärsmöjligheter från fönstret **Affärsmöjlighetslista** eller så kan du köra batch-jobbet **Ta bort avslutade affärsmöjligheter** för att ta bort flera affärsmöjligheter baserat på angivet kriterium.
+## <a name="delete-opportunities"></a><span data-ttu-id="15c54-143">Ta bort affärsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="15c54-143">Delete opportunities</span></span>
+<span data-ttu-id="15c54-144">Du kan ta bort affärsmöjligheter när du till exempel har tagit hem en affär.</span><span class="sxs-lookup"><span data-stu-id="15c54-144">You can delete opportunities, for example, after you have concluded a deal.</span></span> <span data-ttu-id="15c54-145">Du kan bara ta bort avslutade affärsmöjligheter.</span><span class="sxs-lookup"><span data-stu-id="15c54-145">However, you can only delete closed opportunities.</span></span> <span data-ttu-id="15c54-146">Det finns två sätt att ta bort avslutade affärsmöjligheter.</span><span class="sxs-lookup"><span data-stu-id="15c54-146">There are two ways to delete closed opportunities.</span></span> <span data-ttu-id="15c54-147">Du kan ta bort enskilda avslutade affärsmöjligheter från fönstret **Affärsmöjlighetslista** eller så kan du köra batch-jobbet **Ta bort avslutade affärsmöjligheter** för att ta bort flera affärsmöjligheter baserat på angivet kriterium.</span><span class="sxs-lookup"><span data-stu-id="15c54-147">You can delete individual closed opportunities from the **Opportunity List** window or you can run the **Delete Closed Opportunities** batch job to delete multiple opportunities based on a specified criteria.</span></span>
 
-Om du vill ta bort avslutade affärsmöjligheter från fönstret **Affärsmöjlighetslista** väljer du affärsmöjligheten och sedan åtgärden **Ta bort**.
+<span data-ttu-id="15c54-148">Om du vill ta bort avslutade affärsmöjligheter från fönstret **Affärsmöjlighetslista** väljer du affärsmöjligheten och sedan åtgärden **Ta bort**.</span><span class="sxs-lookup"><span data-stu-id="15c54-148">To delete closed opportunities from the **Opportunity List** window, select the opportunity, and then choose the **Delete** action.</span></span>
 
-Gör följande steg om du vill ta bort avslutade affärsmöjligheter med batch-jobbet **Ta bort avslutade affärsmöjligheter**:
+<span data-ttu-id="15c54-149">Gör följande steg om du vill ta bort avslutade affärsmöjligheter med batch-jobbet **Ta bort avslutade affärsmöjligheter**:</span><span class="sxs-lookup"><span data-stu-id="15c54-149">To delete closed opportunities by using the **Delete Closed Opportunities** batch job, follow these steps:</span></span>
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Ta bort affärsmöjligheter** och välj sedan relaterad länk.
-2. I avsnittet **Affärsmöjlighet** ställer du in de filter som anger den avslutade affärsmöjligheten som ska tas bort.
-3. Välj **OK**.
+1. <span data-ttu-id="15c54-150">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Ta bort affärsmöjligheter** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="15c54-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities**, and then choose the related link.</span></span>
+2. <span data-ttu-id="15c54-151">I avsnittet **Affärsmöjlighet** ställer du in de filter som anger den avslutade affärsmöjligheten som ska tas bort.</span><span class="sxs-lookup"><span data-stu-id="15c54-151">In the **Opportunity** section, set up the filters that specify the closed opportunities to delete.</span></span>
+3. <span data-ttu-id="15c54-152">Välj **OK**.</span><span class="sxs-lookup"><span data-stu-id="15c54-152">Choose the **OK** button.</span></span>
 
-När du har tagit bort en affärsmöjlighet tas den bort från fönstret **Affärsmöjlighetslista**.
+<span data-ttu-id="15c54-153">När du har tagit bort en affärsmöjlighet tas den bort från fönstret **Affärsmöjlighetslista**.</span><span class="sxs-lookup"><span data-stu-id="15c54-153">After you have deleted an opportunity, it is removed it from the **Opportunity List** window.</span></span>
 
-## <a name="move-an-opportunity-through-sales-cycle-stages"></a>Flytta en Affärsmöjlighet via försäljningscykeletapper
-Om en affärsmöjlighet följer en försäljningscykel, kan du flytta den framåt eller bakåt via de olika etapperna, till exempel att flytta nästa eller föregående etapp och även hoppa över en etapp.
+## <a name="move-an-opportunity-through-sales-cycle-stages"></a><span data-ttu-id="15c54-154">Flytta en Affärsmöjlighet via försäljningscykeletapper</span><span class="sxs-lookup"><span data-stu-id="15c54-154">Move an opportunity through sales cycle stages</span></span>
+<span data-ttu-id="15c54-155">Om en affärsmöjlighet följer en försäljningscykel, kan du flytta den framåt eller bakåt via de olika etapperna, till exempel att flytta nästa eller föregående etapp och även hoppa över en etapp.</span><span class="sxs-lookup"><span data-stu-id="15c54-155">If an opportunity follows a sales cycle, you can move it forward or back through the different stages, such as moving the the next or previous stage, and even skipping a stage.</span></span>
 
-1. I fönstret **Affärsmöjlighetslista**, välj åtgärden **Uppdatera**. **Uppdatera affärsmöjlighet** visas.
-2. Använd fältet **Åtgärdstyp** för att flytta affärsmöjligheten via försäljningscykeletapperna:
-  * **Nästa** flyttar affärsmöjligheten en etapp.
-  * **Hoppa över** flyttar affärsmöjligheten eftersänder en eller flera etapper i försäljningscykeln, som du anger i fältet **Presentation**. Du kan endast hoppa över etapper som har ställts in att tillåta fältet om du vill tillåta överhoppning.
-  * **Föregående** flyttar affärsmöjligheten tillbaka en etapp.
-  * **Hoppa** flyttar affärsmöjligheten tillbaka en eller flera etapper i försäljningscykeln, som du anger i fältet **Presentation**.
-  * **Uppdatera** låter dig ändra information (t.ex. ändra utvärderingen av deras chanser att lyckas och uppskattade värden) utan att flytta till en annan etapp.
-3. Fyll i de andra fälten efter behov och välj sedan knappen **OK**.
+1. <span data-ttu-id="15c54-156">I fönstret **Affärsmöjlighetslista**, välj åtgärden **Uppdatera**.</span><span class="sxs-lookup"><span data-stu-id="15c54-156">In the **Opportunity List** window, choose the **Update** action.</span></span> <span data-ttu-id="15c54-157">**Uppdatera affärsmöjlighet** visas.</span><span class="sxs-lookup"><span data-stu-id="15c54-157">The **Update Opportunity** opens,</span></span>
+2. <span data-ttu-id="15c54-158">Använd fältet **Åtgärdstyp** för att flytta affärsmöjligheten via försäljningscykeletapperna:</span><span class="sxs-lookup"><span data-stu-id="15c54-158">Use the **Action Type** field to move the opportunity through the sales cycle stages:</span></span>
+  * <span data-ttu-id="15c54-159">**Nästa** flyttar affärsmöjligheten en etapp.</span><span class="sxs-lookup"><span data-stu-id="15c54-159">**Next** moves the opportunity forward one stage.</span></span>
+  * <span data-ttu-id="15c54-160">**Hoppa över** flyttar affärsmöjligheten eftersänder en eller flera etapper i försäljningscykeln, som du anger i fältet **Presentation**.</span><span class="sxs-lookup"><span data-stu-id="15c54-160">**Skip** moves the opportunity forward one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span> <span data-ttu-id="15c54-161">Du kan endast hoppa över etapper som har ställts in att tillåta fältet om du vill tillåta överhoppning.</span><span class="sxs-lookup"><span data-stu-id="15c54-161">You can only skip stages that have been set up to allow skipping.</span></span>
+  * <span data-ttu-id="15c54-162">**Föregående** flyttar affärsmöjligheten tillbaka en etapp.</span><span class="sxs-lookup"><span data-stu-id="15c54-162">**Previous** moves the opportunity back one stage.</span></span>
+  * <span data-ttu-id="15c54-163">**Hoppa** flyttar affärsmöjligheten tillbaka en eller flera etapper i försäljningscykeln, som du anger i fältet **Presentation**.</span><span class="sxs-lookup"><span data-stu-id="15c54-163">**Jump** moves the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span>
+  * <span data-ttu-id="15c54-164">**Uppdatera** låter dig ändra information (t.ex. ändra utvärderingen av deras chanser att lyckas och uppskattade värden) utan att flytta till en annan etapp.</span><span class="sxs-lookup"><span data-stu-id="15c54-164">**Update** enables you to change information (such as to modify your evaluation of their chances of success and estimated values) without moving to another stage.</span></span>
+3. <span data-ttu-id="15c54-165">Fyll i de andra fälten efter behov och välj sedan knappen **OK**.</span><span class="sxs-lookup"><span data-stu-id="15c54-165">Fill in the other fields as needed, and then choose the **OK** button.</span></span>
 
-##<a name="see-also"></a>Se även  
-[Hantera försäljning](sales-manage-sales.md)  
-[Skapa och hantera kontakter](marketing-contacts.md)  
-[Arbeta med Dynamics NAV](ui-work-product.md)
+##<a name="see-also"></a><span data-ttu-id="15c54-166">Se även</span><span class="sxs-lookup"><span data-stu-id="15c54-166">See Also</span></span>  
+[<span data-ttu-id="15c54-167">Hantera försäljning</span><span class="sxs-lookup"><span data-stu-id="15c54-167">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="15c54-168">Skapa och hantera kontakter</span><span class="sxs-lookup"><span data-stu-id="15c54-168">Create and Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="15c54-169">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="15c54-169">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="payment-methods"></a>Betalningssätt
-Betalningssätt används för att definiera hur en faktura ska betalas. Du kan definiera så många betalningssätt som du vill. Exempel på betalningssätt kan vara BANK, KONTANTER, CHECK eller KONTO.
-Betalningssätt länkas till leverantörer för att ange hur en faktura från den aktuella leverantören måste betalas.
+# <a name="payment-methods"></a><span data-ttu-id="7b790-102">Betalningssätt</span><span class="sxs-lookup"><span data-stu-id="7b790-102">Payment Methods</span></span>
+<span data-ttu-id="7b790-103">Betalningssätt används för att definiera hur en faktura ska betalas.</span><span class="sxs-lookup"><span data-stu-id="7b790-103">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="7b790-104">Du kan definiera så många betalningssätt som du vill.</span><span class="sxs-lookup"><span data-stu-id="7b790-104">You can set up any number of payment methods.</span></span> <span data-ttu-id="7b790-105">Exempel på betalningssätt kan vara BANK, KONTANTER, CHECK eller KONTO.</span><span class="sxs-lookup"><span data-stu-id="7b790-105">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
+<span data-ttu-id="7b790-106">Betalningssätt länkas till leverantörer för att ange hur en faktura från den aktuella leverantören måste betalas.</span><span class="sxs-lookup"><span data-stu-id="7b790-106">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
 
-## <a name="see-also"></a>Se även
-[Finans](finance-setup.md)  
+## <a name="see-also"></a><span data-ttu-id="7b790-107">Se även</span><span class="sxs-lookup"><span data-stu-id="7b790-107">See Also</span></span>
+[<span data-ttu-id="7b790-108">Finans</span><span class="sxs-lookup"><span data-stu-id="7b790-108">Finance</span></span>](finance-setup.md)  
 
