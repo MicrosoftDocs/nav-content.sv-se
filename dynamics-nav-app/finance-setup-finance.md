@@ -1,38 +1,50 @@
 ---
-title: Konfigurera Centrala finansiella processer
+title: Konfigurera finansiella processer
+description: "Få mer information om uppgifterna för att ställa in Finance i ditt företag som passar alla behov av redovisning, granskning eller bokföring."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/23/2017
 
 ---
+# <a name="setting-up-finance"></a>Ställa in ekonomi
+För att komma igång snabbare innehåller [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] standardkonfigurationer för de flesta ekonomiska processer. Om du behöver ändra konfigurationen så att de passar din verksamhet kan du fortsätta direkt. T.ex. från startsidan kan du använda en assisterad konfigurationsguide som hjälper dig att konfigurera momsatsen för din plats.  
 
-#<a name="set-up-core-financial-processes"></a>Konfigurera Centrala finansiella processer
-Dynamics NAV inkluderar standardkonfigurationen av de flesta finansiella processer, men du kan ändra konfigurationen så att dessa passar din verksamhet.
-Från Start kan du använda en assisterad installation som hjälper dig att konfigurera omsättningsskatt beroende på t.ex. lagerställe. Andra aspekter av finansinställningshantering som du måste konfigurera själv beror på om du t.ex. vill använda dimensioner.  
+Det finns dock några saker som du måste konfigurera själv. Om du till exempel vill använda dimensioner som grund för business intelligence.  
 
 I följande tabell beskrivs en serie uppgifter, med länkar till de avsnitt där de beskrivs.
 
-| Om du vill                                                                  | Gå till                      |
-|---------------------------------------------------------------------|--------------------------|
-|Välj hur du vill hantera leverantörsbetalningar.|[Betalningssätt](finance-setup-payment-methods.md)|
-|Ställa in räkenskapsperioder|[Så här öppnar du ett nytt räkenskapsår](finance-setup-how-open-new-fiscal-year.md)|
-|Skapa ytterligare valutor om du har internationell handel.|[Skapa valutor](finance-setup-setup-currencies.md)|
-|Lägga till dimensioner för rikare business intelligence.|[Ställa in dimensioner](finance-setup-setup-dimensions.md)|
-|Lägga till nya konton i den befintliga kontoplanen.|[Skapa kontoplanen](finance-setup-setup-chart-accounts.md)|
+| Till | Gå till |
+| --- | --- |
+| Välj hur du betalar leverantörerna. |[Definiera betalningssätt](finance-payment-methods.md) |
+| Ange bokföringsmallar mappar enheter som t.ex. kunder, leverantörer, artiklar, resurser och försäljning och inköpsdokument till redovisningskonton. |[Ställa in bokföringsmallar](finance-posting-groups.md)|
+|Ställ in en tolerans genom vilken systemet stänger en faktura, även om betalningen, inklusive rabatt, inte helt täcker fakturabeloppet.|[Så här: arbeta med betalningstoleranser och kassarabattstolerans](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Ställa in räkenskapsperioder. |[Så här öppnar du ett nytt räkenskapsår](finance-how-open-new-fiscal-year.md) |
+| Definiera hur du rapporterar belopp för moms som du har lagrat för försäljning till skattemyndigheterna. |[Så här: rapportera moms till skattemyndigheterna](finance-how-report-vat.md)|
+| Ange funktioner för försäljning och inköp till att hantera betalningar i utländsk valuta.|[Så här aktiverar du koppling av kundreskontratransaktioner till olika valutor](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Lägga till nya konton i den befintliga kontoplanen. |[Ställa in kontoplanen](finance-setup-chart-accounts.md) |
+| Ställa in business intelligence (BI)-diagram för att analysera betalningen. |[Ställa in analysvy för kassaflöde](finance-setup-cash-flow-analyses.md) |
+|Aktivera fakturering av en kund som inte har angetts i systemet.|[Så här skapar du kontantkunder](finance-how-to-set-up-cash-customers.md)|
+| Ställa in Intrastat-rapporten och skicka rapporten till en myndighet | [Så här: Skapa och rapportera Intrastat](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Se även
+[Ekonomi](finance.md)  
+[Hantera bankkonton](bank-manage-bank-accounts.md)  
+[Arbeta med dimensioner](finance-dimensions.md)  
+[Importera verksamhetsdata från andra finanssystem](upload-data.md)  
+[Analysera kassaflödet i företaget](finance-analyze-cash-flow.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Se även
-[Hantera bankkonton](bank-manage-bank-accounts.md)    
-[Dimensioner](finance-setup-dimensions.md)  
+##
 

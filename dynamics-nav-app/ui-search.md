@@ -8,19 +8,23 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f5e529fe09859432e96c1171bf56f2fb9c7db052
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 85904d4cbe69b82eb79963d4afadfe6db2b7c3f1
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="using-search-for-page-or-report"></a>Använda Sök efter sida eller rapport
-Du kan söka efter valfri sida, rapport eller vy med ikonen **Sök efter sida eller rapport** längst upp till höger i adressfältet.
-När du börjar skriva tecken visar en listruta namnen som innehåller tecknen du skriver. Listrutan ändras allt eftersom du skriver fler tecken, och du kan välja rätt sida från listan när den visas. Den andra kolumnen i listrutan visar sökvägarna till de sidor som hittas.
+Du kan söka sidor och rapporter genom att välja fältet **Sök efter sida eller rapport** längst upp till höger i adressfältet.
 
-**Obs**! **Sök efter sida eller rapport** söker inte via data som till exempel kundnamn, adresser eller transaktioner. Om du vill söka efter data kan du använda sökningen som hör till sidan, denna illustreras med förstoringsglassymbolen som är placerad högst upp till höger på sidan. För information om att använda denna typ av sökning, se [Ange villkor i filter](ui-enter-criteria-filters.md).
+Om du använder [!INCLUDE[d365fin](includes/d365fin_md.md)] i en webbläsare, leta efter ikonen **Sök efter sidan eller rapporten** i stället.
+
+När du börjar skriva tecken visar en listruta namnen som innehåller tecknen du skriver. Listrutan ändras allt eftersom du skriver fler tecken, och du kan välja rätt sida från listan när den visas. Den andra kolumnen i listrutan visar sökvägarna till de sidor som hittas. Det finns också en länk som låter dig söka efter hjälpavsnitt för de tecken som du skrev in.
+
+> [!NOTE]  
+>   Funktionen **Sök efter sida eller rapport** söker inte via data som till exempel kundnamn, adresser eller transaktioner. Du kan i stället söka efter data på listsidor genom att välja förstoringsglassymbolen i det högra hörnet av listhuvudet. Sökningen gäller endast för den lista som visas. Mer information finns i [Ange villkor i filter](ui-enter-criteria-filters.md).  
 
 ## <a name="see-also"></a>Se även
 [Arbeta med Dynamics NAV](ui-work-product.md)

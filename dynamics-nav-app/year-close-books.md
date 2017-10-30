@@ -1,21 +1,24 @@
 ---
-title: "Avsluta böcker"
+title: "Översikt över aktiviteterna som avslutar böckerna"
+description: "Mer information om hur du avslutar böckerna för ett räkenskapsår eller en period och vad som händer när du avslutar i slutet av året."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ad75bfd18936df07e0fe9dcc5ed6bb94360ea965
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-books"></a>Avsluta böcker
+# <a name="closing-the-books"></a>Avsluta böckerna
 När du försäkrat dig om att alla dina räkenskaper är uppdaterade och du fördelat kostnader och intäkter, kan du avsluta böckerna för ett räkenskapsår eller en period.
 
 Du måste inte avsluta ett år, men när du gör det blir det enklare att arbeta i systemet eftersom du kommer att kunna utnyttja de praktiska filtreringsalternativ som finns tillgängliga. Du behöver inte heller oroa dig för att förlora detaljer om transaktioner när du avslutar eftersom alla detaljer behålls även när du har avslutat ett år.
@@ -25,14 +28,12 @@ Processen för att avsluta boken innehåller dessa huvuduppgifter:
 
 1. Avsluta bokföringsperioden.
 
-    Ett räkenskapsår defineras som en eller flera öppna perioder som definieras på sidan **Bokföringsperioder**. Ett typiskt räkenskapsår består av 12 perioder på vardera en månad, men du kan välja att definiera det enligt någon annan metod.
+    Ett räkenskapsår defineras som en eller flera öppna perioder som definieras i fönstret **Bokföringsperioder**. Ett typiskt räkenskapsår består av 12 perioder på vardera en månad, men du kan välja att definiera det enligt någon annan metod.
 
     Mer information finns [Så här avslutar du bokföringsperioder](year-close-account-periods.md).
-
 2. Registrera transaktioner från föregående år.
 
     När du avslutar ett räkenskapsår måste du ange ett antal administrativa transaktioner (till exempel förutbetalda och upplupna poster). Dessa transaktioner kallas justeringstransaktioner. Det finns inga särskilda regler för bokföring av dessa transaktioner och de (liksom andra transaktioner) har en markering i fältet **Föregående års transaktion** om de bokförs på ett datum i ett avslutat räkenskapsår. Även om ett räkenskapsår har avslutats kan du fortfarande bokföra redovisningstransaktioner på året.
-
 3. Föra över saldon från resultaträkningskontona till balansräkningen.
 
     När ett räkenskapsår har avslutats och alla transaktioner från föregående år har bokförts, måste resultaträkningskontona avslutas och nettoresultatet föras över till ett konto under eget kapital i balansräkningen. Använd batch-jobbet Avslut av resultaträkningar för detta ändamål. Batch-jobbet bearbetar alla redovisningskonton av typen Resultaträkning och skapar transaktioner som återför deras saldon. Dessa transaktioner placeras i en journal från vilken de kan bokföras. De bokförs inte automatiskt med batch-jobbet utom när en alternativ rapporteringsvaluta används. När en alternativ rapporteringsvaluta används bokförs de direkt i redovisningen.
@@ -52,5 +53,6 @@ Sedan genereras en årsavslutstransaktion, men transaktionen bokförs inte autom
 Du kan bokföra i ett föregående räkenskapsår även efter att resultatkontona har avslutats om du kör batch-jobbet Avslut av resultatkonton igen efteråt.
 
 ## <a name="see-also"></a>Se även
-[Så här öppnar du ett nytt räkenskapsår](finance-setup-how-open-new-fiscal-year.md)
+[Så här öppnar du ett nytt räkenskapsår](finance-how-open-new-fiscal-year.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

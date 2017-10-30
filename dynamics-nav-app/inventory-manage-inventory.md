@@ -1,43 +1,59 @@
 ---
 title: Hantera lager
+description: Beskriver hur du hanterar fysiska varor som du handlar med, till exempel hantering av lager i distributionslagret.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7f6ce99476a459e7c7d29a9224b5b992271a8b56
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: warehouse, stock
+ms.date: 09/08/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8b79bfd187b04e378180d699aa880e21cf8410c9
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
-# <a name="manage-inventory"></a>Hantera lager
-För varje fysisk produkt som du handlar i måste du skapa ett artikelkort av typen Lagersaldo. Artiklar som du erbjuder till kunder men inte håller i lager kan du registrera som ej lagerförd artikel, som du kan omvandla till lagerartiklar vid behov. Du kan öka eller minska kvantiteten för en artikel i lager, genom att bokföra direkt till artikeltransaktionerna, till exempel efter en fysisk inventering eller, om du inte vill registrera inköp.
+# <a name="inventory"></a>Lagersaldo
+För varje fysisk produkt som du handlar i måste du skapa ett artikelkort av typen **Lager**. Artiklar som du erbjuder till kunder men inte håller i lager kan du registrera som ej lagerförd artikel, som du kan omvandla till lagerartiklar vid behov. Du kan öka eller minska kvantiteten för en artikel i lager, genom att bokföra direkt till artikeltransaktionerna, till exempel efter en fysisk inventering eller, om du inte vill registrera inköp.
 
-Lagerökningar och lagerminskningar registreras även naturligtvis när du bokför inköps- och försäljningsdokument. Mer information finns i [Så här bokför du inköp](purchasing-how-record-purchases.md), [Så här säljer du produkter](sales-how-sell-products.md) och [Så här fakturerar du försäljning](sales-how-invoice-sales.md).
+Lagerökningar och lagerminskningar registreras även naturligtvis när du bokför inköps- och försäljningsdokument. Mer information finns i [Så här bokför du inköp](purchasing-how-record-purchases.md), [Så här säljer du produkter](sales-how-sell-products.md) och [Så här fakturerar du försäljning](sales-how-invoice-sales.md). Överföringar mellan lagerställen ändrar lagrets kvantiteter över företagets distributionslager.   
 
-För att öka en översikt av artiklar och för att söka efter dem kan du kategorisera artiklar och ge dem attribut för att söka och sortera förbi.   
+För att öka en översikt av artiklar och för att söka efter dem kan du kategorisera artiklar och ge dem attribut för att söka och sortera förbi.
 
-**Obs!** I Dynamics NAV refereras en produkt till termen “item”.
+> [!NOTE]
+> Den fysiska hanteringen av artiklar kallas lageraktiviteter. Mer information finns i [Lagerhantering](warehouse-manage-warehouse.md).
 
-|Om du vill |Gå till |
+## <a name="inventory-reconciliation"></a>Lageravstämning
+När du bokför lagertransaktioner, till exempel försäljningsutleveranser, inköpsfakturor eller lagerjusteringar, registreras de ändrade artikelkostnaderna i artikelvärdesposter. För att återspegla denna förändring i lagervärde i din bokföring kommer lagerkostnaderna automatiskt att bokföras på relaterade lagerkonton i redovisningen. För varje lagertransaktion som bokförs, bokförs lämpliga värden på lagerkontot, justeringskontot och KSV-kontot i redovisningen. Mer information finns i [Så här kan du Stämma av lagerkostnader med redovisningen](finance-how-to-post-inventory-costs-to-the-general-ledger.md).
+
+Även om lagerkostnaderna automatiskt bokförs i redovisningen måste du fortsatt säkerställa att varukostnader skickas vidare till relaterade avgående försäljningstransaktioner, i synnerhet när varorna säljs innan du har fakturerat inköpet av varorna. I programmet kallas detta för Kostnadsjustering. Artikelkostnader justeras automatiskt när du bokför artikeltransaktioner, men du kan också justera projektartikelkostnader manuellt. Mer information finns i [Så här justerar du artikelkostnader](inventory-how-adjust-item-costs.md).
+
+|Till |Gå till |
 |---|----|
-|Skapa artikelkort för varje lagerartikel som du handlar med.|[Så här registrerar du nya produkter](inventory-how-register-new-products.md)|
-|Att hålla en översikt över artiklar och hjälpa dig att hitta och sortera artiklar genom att ordna dem i kategorier.|[Så här kategoriserar du artiklar](inventory-how-categorize-items.md)|  
+|Skapa artikelkort för lagerartiklar som du handlar med.|[Så här registrerar du nya objekt](inventory-how-register-new-items.md)|
+|Strukturera de överordnade artiklar som du säljer som satser som består av komponenter som du monterar till order eller lager.|[Så här arbetar du med strukturer](inventory-how-work-BOMs.md)|
+|Att hålla en översikt över artiklar och hjälpa dig att hitta och sortera artiklar genom att ordna dem i kategorier.|[Så här kategoriserar du artiklar](inventory-how-categorize-items.md)|
 |Tilldela artikelattribut med olika värdetyper till artiklarna för att hjälpa dig att sortera och hitta artiklar.|[Så här arbetar du med Artikelattribut](inventory-how-work-item-attributes.md)|
 |Skapa artikelkort för vissa artiklar som du erbjuder till kunder, men inte håller i lager.|[Så här arbetar du med Ej lagerförda artiklar](inventory-how-work-nonstock-items.md)|
-|Uppskatta eller skriv av värdet av en eller flera artiklar i lager genom att bokföra deras faktiska, beräknade värde.|[Så här omvärderar du lager](inventory-how-revalue-inventory.md)|
-|Justera artikelkostnader, antingen automatiskt eller manuellt, för att vidarebefordra kostnadsförändringar från ingående transaktioner till deras relaterade utgående transaktioner.|[Så här justerar du artikelkostnader](inventory-how-adjust-item-costs.md)|
-|Återspegla lagervärdeändringar i företagets redovisning genom att bokföra lagerkostnader, antingen automatiskt eller manuellt, till de relaterade lagerkontona i redovisningen.|[Så här kan du bokföra lagerkostnader i redovisningen](inventory-how-post-inventory-cost-gl.md)|
+|Utför en fysisk inventering, göra negativa eller positiva justeringar och ändra information, till exempel plats eller partinumret i artikeltransaktionerna.|[Så här: Inventera, justera och gruppera lager](inventory-how-count-adjust-reclassify.md)|
+|Visa tillgängligheten av artiklar per lagerställe, per period, per försäljning eller per inköpshändelse eller per deras användning av monterings- eller produktionsstrukturer.|[Så här visar du artikeldisposition](inventory-how-availability-overview.md)|
+|Överför lagerartiklar mellan lagerställen med överföringsorder, för att hantera lageraktiviteter, eller med artikelgrupperingsjournalen.|[Så här överför du lager mellan olika lagerställen](inventory-how-transfer-between-locations.md)|
+|Reservera lager eller inkommande artiklar för försäljningsorder, inköpsorder, serviceorder, monteringsorder eller produktionsorder.|[Så här reserverar du artiklar](inventory-how-to-reserve-items.md)|
+|Tilldela serienummer/partinummer till några ankommande eller avgående dokument- eller journalrader, till exempel för att spåra objekt vid återkallning.|[Så här arbetar du med serienummer och partinummer](inventory-how-work-item-tracking.md)|
+|Sök var serie- eller partinummer har använts i dess försörjningskedja, till exempel i återkallningssituationer.|[Så här kan du spåra artiklar med artikelspårningar](inventory-how-to-trace-item-tracked-items.md)|
+|Hantera affärsverksamheten på försäljningskontor, inköpsavdelningar eller planeringskontor på flera platser.|[Så här: Arbeta med ansvarsenheter](inventory-responsibility-centers.md)|
 
 ## <a name="see-also"></a>Se även  
-[Hantera inköp](purchasing-manage-purchasing.md)  
-[Hantera försäljning](sales-manage-sales.md)  
-[Arbeta med Dynamics NAV](ui-work-product.md)  
-[Över affärsområden](ui-across-business-areas.md)
+[Inköp](purchasing-manage-purchasing.md)  
+[Försäljning](sales-manage-sales.md)    
+[Arbeta med [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
+[Allmänna affärsfunktioner](ui-across-business-areas.md)
+
+##
 

@@ -1,66 +1,72 @@
 ---
-title: "Så här arbetar du med Ej lagerförda artiklar"
+title: "Skapa och hantera ej lagerförda artiklar"
+description: Beskriver hur du byter icke inventeringsbara artiklar eller artiklar som inte finns kvar i lagret.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/29/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2b49d95904732dcf091fd060a96006fdcb477ec1
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: non-inventoriable
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: dd1497d0727935d4954f826eceb303761850dada
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # Så här arbetar du med Ej lagerförda artiklar
 Du kan erbjuda vissa artiklar till dina kunder för deras bekvämlighet, som du inte vill hålla i lager, tills du börjar sälja dem. När du vill börja hålla sådana artiklar i lager, kan du konvertera dem till vanliga artikelkort på två sätt.
 
-- Från en ej lagerförd artikel skapar du ett nytt lagerkort baserat på en mall.
-- Från en försäljningsorderrad med ett tomt fält **Artikel** väljer du en ej lagerförd artikel. När du bokför försäljningen, skapas ett artikelkort automatiskt för den ej lagerförda artikeln.
+* Från en ej lagerförd artikel skapar du ett nytt lagerkort baserat på en mall.
+* Från en försäljningsorderrad av typen **Artikel** med ett tomt fält **Nr* väljer du en ej lagerförd artikel. Ett artikelkort automatiskt för den ej lagerförda artikeln.
 
-**Obs**: Du kan inte välja en ej lagerförd artikel från fönstret **Försäljningsfaktura**. Du kan välja en ej lagerförd artikel från fönstret **Försäljningsoffert** men den ej lagerförda artikeln kommer inte att omvandlas till en vanlig artikel när du använder funktionen **Gör beställning**.
+> [!NOTE]  
+>   Du kan inte välja en ej lagerförd artikel från fönstret **Försäljningsfaktura**. Du kan välja en ej lagerförd artikel från fönstret **Försäljningsoffert** men den ej lagerförda artikeln kommer inte att omvandlas till en vanlig artikel när du använder funktionen **Gör beställning**.
 
 En ej lagerförd artikel har vanligtvis artikelnumret från den leverantör som levererar den. Om du vill aktivera konvertering av ett kort för en ej lagerförd artikel till ett vanligt artikelkort måste du först ställa in hur leverantörens artikelnumrering konverteras till din egen artikelnumrering.   
 
 ## Så här skapar du en ej lagerförd artikel
 Kort för ej lagerförd artikel har mycket mindre information än normala artikelkort, eftersom du bara använder dem för att erbjuda på offerter och på andra sätt. Därför måste de konverteras till normala artikelkort, innan du kan bokföra försäljningstransaktioner för dem.
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Ej lagerförda artiklar** och välj sedan relaterad länk.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Ej lagerförda artiklar**, och välj sedan relaterad länk.
 2. Välj åtgärden **Ny**.
-2. Fyll i fälten om det behövs. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+3. Fyll i fälten om det behövs. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## Så här ställer du in hur ej lagerförda artikelnummer konverteras till ditt eget nummer  
+## Så här ställer du in hur ej lagerförda artikelnummer konverteras till ditt eget nummer
 Om du vill aktivera konvertering av ett kort för en ej lagerförd artikel till ett vanligt artikelkort måste du först ställa in hur leverantörens artikelnumrering konverteras till dit eget nummerformat.
 
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Inställning av ej lagerförda artiklar** och välj sedan relaterad länk.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Inställningar för ej lagerförda artiklar**, och välj sedan relaterad länk.
 2. Fyll i fälten om det behövs.
 
 ## Om du vill omvandla en ej lagerförd artikel till en normal artikel
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Ej lagerförda artiklar** och välj sedan relaterad länk.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Ej lagerförda artiklar**, och välj sedan relaterad länk.
 2. Öppna kortet för den ej lagerförda artikeln som du vill konvertera till en normalt artikel.
 3. I fönstret **Ej lagerförd artikelkort** väljer du åtgärden **Skapa artikel**.
 
-Ett nytt artikelkort förifyllt med information från den ej lagerförda artikeln och en relevant artikelmall skapas. Du kan sedan ange eller redigera fält på det nya artikelkortet vid behov. Mer information finns i [Så här registrerar du nya produkter](inventory-how-register-new-products.md).
+Ett nytt artikelkort förifyllt med information från den ej lagerförda artikeln och en relevant artikelmall skapas. Du kan sedan ange eller redigera fält på det nya artikelkortet vid behov. Mer information finns i [Så här registrerar du nya artiklar](inventory-how-register-new-items.md).
 
 ## Om du vill sälja en ej lagerförd artikel och konvertera den till en normal artikel
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäljningsorder** och välj sedan relaterad länk.
-2. Välj åtgärden **Ny**. Fyll i övriga fält på snabbfliken **Allmänt** som för alla andra försäljningsorder.
-3. På en ny försäljningsrad lämnar du fältet **Artikel** tomt, väljer **Rad**, **Funktioner** och väljer sedan **Ej lagerförd artikel**.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäljningsorder** och välj sedan relaterad länk.
+2. Välj åtgärden **Ny**. Fyll i övriga fält på snabbfliken **Allmänt** som för alla andra försäljningsorder. Mer information finns i [Så här säljer du produkter](sales-how-sell-products.md).
+3. På en ny försäljningsrad i fältet **Typ** väljer du **Artikel**, men lämnar **Nr.** tomt.
+4. Välj åtgärden **Rad** och välj sedan åtgärden **Välj Ej lagerförda artiklar**.
 
-    Den ej lagerförda artikeln omvandlas till en normal artikel Ett nytt artikelkort förifyllt med information från den ej lagerförda artikeln och en relevant artikelmall skapas.
-4. Markera den ej lagerförda artikel som du vill visa i fönstret **Ej lagerförda artiklar** och klicka på **OK**.
-5. När försäljningsordern är slutförd väljer du åtgärden **Bokföra**.
+    Den ej lagerförda artikeln omvandlas till en normal artikel. Ett nytt artikelkort förifyllt med information från den ej lagerförda artikeln och en relevant artikelmall skapas.
+5. Markera den ej lagerförda artikel som du vill visa i fönstret **Ej lagerförda artiklar** och klicka på **OK**.
+6. När försäljningsordern är slutförd väljer du åtgärden **Bokföra**.
 
-Du kan sedan ange eller redigera fält på det nya artikelkortet vid behov. Mer information finns i [Så här registrerar du nya produkter](inventory-how-register-new-products.md).
+Du kan sedan ange eller redigera fält på det nya artikelkortet vid behov. Mer information finns i [Så här registrerar du nya artiklar](inventory-how-register-new-items.md).
 
-**Obs!**: En korsreferenspost för artikel skapas automatiskt för den leverantör som levererar artikeln mellan leverantörens artikelnummer och det nya artikelnumret.
+> [!NOTE]  
+>   En korsreferenspost för artikel skapas automatiskt för den leverantör som levererar artikeln mellan leverantörens artikelnummer och det nya artikelnumret.
 
 ## Se även
-[Så här registrerar du nya produkter](inventory-how-register-new-products.md)  
-[Hantera lager](inventory-manage-inventory.md)  
-[Arbeta med Dynamics NAV](ui-work-product.md)
+[Så här registrerar du nya objekt](inventory-how-register-new-items.md)  
+[Så här skapar du specialorder](sales-how-to-create-special-orders.md)|  
+[Lagersaldo](inventory-manage-inventory.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

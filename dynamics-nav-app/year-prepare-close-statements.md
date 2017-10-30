@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c9e938b4ce2b136b4a2abb72d1d9cc8a9b78bbf8
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 2943acdfca4580245d1210ce0d17526e357ca478
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="prepare-closing-statements"></a>Förbereda årsbokslutsmeddelanden
@@ -29,7 +29,7 @@ I tabellen nedan beskrivs ett antal rapporter som kan vara användbara i den hä
 |jämföra råbalansen med en budget.|Råbalans/Budget|
 |skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton beräknade för de perioder du valt.|Råbalans per period|
 |skriva ut en kontouppställning för att analysera siffror för redovisningskonton eller jämföra faktiska redovisningstransaktioner med redovisningsbudgettransaktioner.|Kontouppställning|
-|kontrollera om kund- och leverantörsreskontratransaktioner stämmer överens med motsvarande redovisningstransaktioner.|Avstäm kund- och lev.konton Tillgång|
+|kontrollera om kund- och leverantörsreskontratransaktioner stämmer överens med motsvarande redovisningstransaktioner.|Stäm av kund- och lev.konton|
 Om du vill se en rapport väljer du ikonen **Sök efter sida eller rapport**, anger namnet som det visas i tabellen och väljer sedan relaterad länk.
 ## <a name="see-also"></a>Se även
 [Avsluta år och perioder](year-close-years-periods.md)

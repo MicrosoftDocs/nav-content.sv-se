@@ -1,1 +1,1 @@
-Klient för Microsoft Dynamics NAV Windows
+Microsoft Dynamics NAV Windows-klient

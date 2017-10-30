@@ -1,21 +1,24 @@
 ---
-title: Interaktioner och segment
+title: "Följa upp segment och relaterade interaktioner"
+description: "Lär dig mer om att skapa segment för att definiera kontaktgrupper och ange interaktioner för segment."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>Interaktioner och segment
+# <a name="managing-interactions-for-segments"></a>Hantera interaktioner för segment
 Fönstret **Segment** är en typ av formulär där du kan:
 
 * Skapa segment.
@@ -40,12 +43,12 @@ I fönstret **Segment** när du väljer **Logg**, registrerar programmet interak
 
 I fönstret **Segmentlogg** kan du skapa ett nytt segment som innehåller ett uppföljningssegment med samma kontakter som det loggade segmentet.
 
-
-##<a name="see-also"></a>Se även
+## <a name="see-also"></a>Se även
 [Så här skapar du segment](marketing-how-create-segment.md)  
 [Så här skapar du interaktioner för segment](marketing-how-create-interactions.md)  
 [Hantera segment](marketing-segments.md)  
 [Inspelningsinteraktioner med kontakter](marketing-interactions.md)  
 [Hantera Försäljningsmöjligheter](marketing-manage-sales-opportunities.md)  
-[Skapa och hantera kontakter](marketing-contacts.md)
+[Skapa och hantera kontakter](marketing-contacts.md)  
+[Arbeta med Dynamics NAV](ui-work-product.md)
 

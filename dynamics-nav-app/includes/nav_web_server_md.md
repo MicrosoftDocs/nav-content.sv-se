@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-webbserverkomponenter
+Webbserverkomponenter i Microsoft Dynamics NAV

@@ -1,38 +1,44 @@
 ---
-title: "Så här granskar och kopplar du betalningar manuellt efter automatisk koppling"
+title: "Kontrollera automatiskt tillämpade betalningar och koppla betalningar manuellt"
+description: "När betalningen kopplas automatiskt, kan du granska alla poster för en betalning och manuellt återställa dem som använts felaktigt."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 556a0f74a7407d247008e2d74420803123056eff
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 336dd02d1f29e5f80209961eae164a6faeaf65bc
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-review-or-apply-payments-manually-after-automatic-application"></a>Så här granskar och kopplar du betalningar manuellt efter automatisk koppling
 För varje journalrad som representerar en betalning i fönstret **Betalningsavstämningsjournal** kan du öppna fönstret **Betalningskoppling** för att visa alla öppna kandidattransaktioner för betalningen och för att visa detaljerad information för varje transaktion om datamatchningen som en betalningskoppling baseras på. Här kan du koppla manuellt betalningar eller koppla om betalningar som kopplades automatiskt till fel transaktion. Mer information om automatisk koppling finns i [Så här stämmer du av betalningar genom att använda automatisk koppling](receivables-how-reconcile-payments-auto-application.md).
 
-**Viktigt!** När bankkontot som du stämmer av betalningar för ställs in för lokal valuta kommer fönstret **Betalningskoppling** att visa alla öppna transaktioner i lokal valuta, inklusive öppna transaktioner för dokument som fakturerats ursprungligen i utländsk valuta. Betalningar som kopplas till transaktioner med konverterade valutor kan därför bokföras med olika belopp än på originaldokumentet på grund av de eventuellt olika valutakurserna som används av banken och Dynamics NAV.
+> [!IMPORTANT]  
+>   När bankkontot som du stämmer av betalningar för ställs in för lokal valuta kommer fönstret **Betalningskoppling** att visa alla öppna transaktioner i lokal valuta, inklusive öppna transaktioner för dokument som fakturerats ursprungligen i utländsk valuta. Betalningar som kopplas till transaktioner med konverterade valutor kan därför bokföras med olika belopp än på originaldokumentet på grund av de eventuellt olika valutakurserna som används av banken och [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-Därför bör du söka efter utländska valutakoder i fältet **Valutakod**i fönstret **Betalningskoppling** för att kontrollera om kopplingar baseras på konverterade valutor. Om du vill granska originaldokumentets belopp i utländsk valuta och se den använda valutakursen väljer du **Kopplas till löpnr.** och sedan på snabbmenyn, väljer du knappen Specificera för att öppna fönstret **Kundreskontratransaktioner** eller **Lev.reskontratransaktioner**.
+Därför bör du söka efter utländska valutakoder i fältet **Valutakod**i fönstret **Betalningskoppling** för att kontrollera om kopplingar baseras på konverterade valutor. Om du vill förhandsgranska belopp i det ursprungliga dokumentet i utländsk valuta och för att se den valutakursen som används, välj fältet **Kopplas till löpnr.** och sedan, på snabbmenyn, väljer du knappen för att öppna fönstren **Kundreskontratransaktioner** eller **Lev.reskontratransaktioner**.
 
-Vinst-och-förlustjusteringar som krävs på grund av valutakonverteringar hanteras inte automatiskt i Dynamics NAV.
+Vinst-och-förlustjusteringar som krävs på grund av valutakonverteringar hanteras inte automatiskt i [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-**Obs!** Du kan inte koppla transaktioner till ett annat tecken än tecknet på betalningen. Om du till exempel vill stänga både en kreditnota med negativt tecken och dess relaterade faktura med positivt tecken måste du först koppla kreditnotan till fakturan och sedan koppla betalningen till fakturan med det reducerade återstående beloppet.
+> [!NOTE]  
+>   Du kan inte koppla transaktioner till ett annat tecken än tecknet på betalningen. Om du till exempel vill stänga både en kreditnota med negativt tecken och dess relaterade faktura med positivt tecken måste du först koppla kreditnotan till fakturan och sedan koppla betalningen till fakturan med det reducerade återstående beloppet.
 
-**Varning!** Om du använder kassarabatter och om betalningsdatumet infaller före betalningens förfallodatum kommer fältet **Återstående belopp inkl. rabatt** i fönstret **Betalningskoppling** att användas för matchning. Annars kommer värdet i fältet **Återstående belopp** att användas. Om betalningen skickades med ett rabatterat belopp efter betalningens förfallodatum eller om hela beloppet betalades men en kassarabatt har lämnats kommer beloppet inte att matchas.
+> [!WARNING]  
+>   Om du använder kassarabatter och om betalningsdatumet infaller före betalningens förfallodatum kommer fältet **Återstående belopp inkl. rabatt** i fönstret **Betalningskoppling** att användas för matchning. Annars kommer värdet i fältet **Återstående belopp** att användas. Om betalningen skickades med ett rabatterat belopp efter betalningens förfallodatum eller om hela beloppet betalades men en kassarabatt har lämnats kommer beloppet inte att matchas.
 
-**Obs!** Du kan bara koppla en betalning till ett konto. Om du vill dela kopplingen på flera öppna transaktioner, till exempel för att koppla en klumpsummabetalning måste de öppna transaktionerna vara för samma konto. Mer information finns i moment 7 och 8 i proceduren i det här avsnittet.
+> [!NOTE]  
+>   Du kan bara koppla en betalning till ett konto. Om du vill dela kopplingen på flera öppna transaktioner, till exempel för att koppla en klumpsummabetalning måste de öppna transaktionerna vara för samma konto. Mer information finns i moment 7 och 8 i proceduren i det här avsnittet.
 
 ## <a name="to-review-or-apply-payments-after-automatic-application"></a>Så här granskar och kopplar du betalningar efter automatisk koppling
-1. Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Betalningsavstämningsjournaler** och välj sedan relaterad länk.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Betalningsavstämningsjournaler** och välj sedan relaterad länk.
 2. Öppna betalningsavstämningsjournalen för ett bankkonto som du vill stämma av betalningar för. Mer information finns i [Så här stämmer du av betalningar genom att använda automatisk koppling](receivables-how-reconcile-payments-auto-application.md).
 3. I fönstret **Betalningsavstämningsjournal** väljer du en betalning som du vill granska eller manuellt koppla till en eller flera öppna transaktioner, och väljer sedan åtgärden**Koppla manuellt**.
 4. Välj kryssrutan **Kopplat** på raden för den öppna transaktion som du vill koppla betalningen till.
@@ -46,5 +52,6 @@ Fönstret **Betalningskoppling** stängs och i fönstret **Betalningsavstämning
 
 ## <a name="see-also"></a>Se även
 [Hantera kundreskontra](receivables-manage-receivables.md)  
-[Hantera försäljning](sales-manage-sales.md)
+[Försäljning](sales-manage-sales.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

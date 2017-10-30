@@ -1,21 +1,23 @@
 ---
-title: "Så här försäkrar du anläggningstillgångar."
+title: "Försäkra anläggningstillgångar"
+Description: "Du kan tilldela försäkringsbrev för en anläggningstillgång som representeras av ett försäkringskort."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a3a59bc091042f72775b56fdd5bbe37ffa1a6d80
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: policy, coverage
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4e6733454a56396daa4bbbc817e1bbcde9dec46
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-insure-fixed-assets"></a>Så här försäkrar du anläggningstillgångar.
 En försäkringsbrev för en anläggningstillgång representeras av ett försäkringskort. Du kan koppla en anläggningstillgång till en försäkringspolicy eller flera anläggningstillgångar till en försäkringspolicy.
 
@@ -25,7 +27,8 @@ Dessutom kan du tilldela en anläggningstillgång till en försäkringspolicy oc
 
 Om kryssrutan **Automatisk försäkringsbokf.** i fönstret **Anläggningstillgånginställningar** inte har markerats, kommer bokföring av anskaffning från anläggningstillgångsjournalen att skapa rader i fönstret **Försäkringsjournal** som du sedan måste posta manuellt.
 
-**Varning**: Om du inte markerar kryssrutan **Automatisk försäkringsbokf.** i fönstret **Anläggningstillgånginställningar** när en försäkringsjournal ska baseras på en journalmall utan en nummerserie. Det är därför att de infogade verifikationsnumren från anläggningstillgångjournalraden annars kommer i konflikt med försäkringsjournalens nummerserie. För mer information om journalmallar och journaler, se [Så här ställer du in allmän information om anläggningstillgångar](fa-how-setup-general.md).
+> [!WARNING]  
+>   Om du inte markerar kryssrutan **Automatisk försäkringsbokf.** i fönstret **Anläggningstillgånginställningar** när en försäkringsjournal ska baseras på en journalmall utan en nummerserie. Det är därför att de infogade verifikationsnumren från anläggningstillgångjournalraden annars kommer i konflikt med försäkringsjournalens nummerserie. För mer information om journalmallar och journaler, se [Så här ställer du in allmän information om anläggningstillgångar](fa-how-setup-general.md).
 
 När du har fördelat en fast anläggningstillgång till en försäkringpolicy, markeras kryssrutan **Försäkrad** på anläggningstillgångskortet. När du säljer anläggningstillgången avmarkeras kryssrutan automatiskt.
 
@@ -34,82 +37,85 @@ En försäkringpolicy för en anläggningstillgång måste representeras av ett 
 
 När du får information om ändringar av försäkringsbeloppet måste du ange den nya informationen i fönstret **Försäkringskort** så att försäkringsbrevet analyseras korrekt.  
 
-1. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäkring** och välj sedan relaterad länk.
-2. Välj åtgärden **Ny** för att skapa ett nytt kort för en försäkringspolicy. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäkring** och välj sedan relaterad länk.
+2. Välj åtgärden **Ny** för att skapa ett nytt kort för en försäkringspolicy. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. Alternativt markerar du försäkringspolicym som du vill ändra och väljer sedan åtgärden **Redigera**.
 
 ## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a>För att koppla en anläggningstillgång till ett försäkringsbrev genom att bokföra från försäkringsjournalen
-Du tilldelar en anläggningstillgång till ett försäkringsbrev genom att bokföra från försäkringstransaktionerna.
+Du tilldelar en anläggningstillgång till ett försäkringsbrev genom att bokföra från försäkringstransaktionerna.  
 
-Efterföljande procedur beskriver hur du skapar en försäkringsjournalrad manuellt. Om kryssrutan **Automatisk försäkringsbokf.** är markerad i fönstret **Anl.inställningar** skapas försäkringsjournalrader automatiskt, när du bokför anskaffningskostnaden. I så fall är allt du måste göra att bokföra journalen.
+Efterföljande procedur beskriver hur du skapar en försäkringsjournalrad manuellt. Om kryssrutan **Automatisk försäkringsbokf.** är markerad i fönstret **Anl.inställningar** skapas försäkringsjournalrader automatiskt, när du bokför anskaffningskostnaden. I så fall är allt du måste göra att bokföra journalen.  
 
-1. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäkringsjournaler** och välj sedan relaterad länk.
-2. Öppna den relevanta journalen och fyll i journalraderna som behövs.
-3. För att skapa flera anläggningstillgångar till ett försäkringsbrev skapar du journalrader med samma värdet i fältet **Försäkringsnr.** och andra värden i **Anl.nr.** .
-4. Välj åtgärden **Bokföra**.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäkringsjournaler** och välj sedan relaterad länk.  
+2. Öppna den relevanta journalen och fyll i journalraderna som behövs.  
+3. För att skapa flera anläggningstillgångar till ett försäkringsbrev skapar du journalrader med samma värdet i fältet**Försäkringsnr.** och olika värden i fältet **Anl.nr**.  
+4. Välj åtgärden **Bokföra**.  
 
-**Obs!**: Transaktionerna från en försäkringsjournal bokförs endast i försäkringstransaktionerna.  
+    > [!NOTE]  
+>   Transaktionerna från en försäkringsjournal bokförs endast i försäkringstransaktionerna.  
 
 ## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a>Om du vill uppdatera försäkringvärdet för en anläggningstillgång
-Du kan använda batch-jobbet **Indexera försäkring** när du vill uppdatera värdet för den anläggningstillgång som är försäkrad.
+Du kan använda batch-jobbet **Indexera försäkring** när du vill uppdatera värdet för den anläggningstillgång som är försäkrad.  
 
-1. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Indexera försäkring** och välj sedan relaterad länk.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Indexförsäkring** och välj sedan relaterad länk.
 2. Fyll i fälten om det behövs.
 
-    **Obs!**: I fältet **Indextal** anger du en minskning av 5 %, till exempel som 95, medan du anger en ökning med 2 % som 102.  
-3.  Välj **OK**.  
+    > [!NOTE]  
+>   I fältet **Indextal** anger du en minskning av 5 %, till exempel som 95, medan du anger en ökning med 2 % som 102.  
+3. Välj **OK**.  
 
-    Batch-jobbet beräknar det nya beloppet som en procentsats av det totala försäkringsvärdet i fönstret **Försäkringsstatistik** och en rad i försäkringsjournalen skapas.  
-4. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäkringsjournaler** och välj sedan relaterad länk.
-5. Öppna relevant försäkringsjournal, granska de skapade värdena och bokför dem i försäkringstransaktionerna.
+   Batch-jobbet beräknar det nya beloppet som en procentsats av det totala försäkringsvärdet i fönstret **Försäkringsstatistik** och en rad i försäkringsjournalen skapas.  
+4. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäkringsjournaler** och välj sedan relaterad länk.  
+5. Öppna relevant försäkringsjournal, granska de skapade värdena och bokför dem i försäkringstransaktionerna.  
 
 ## <a name="to-monitor-insurance-coverage"></a>Att bevaka försäkringsskydd
-Dynamics NAV ger dedikerade rapporter och statistikfönster för användning vid analys av försäkringsbrev och om anläggningstillgångarna är över- eller underförsäkrade.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] ger dedikerade rapporter och statistikfönster för användning vid analys av försäkringsbrev och om anläggningstillgångarna är över- eller underförsäkrade.  
 
-### <a name="overview-of-insurance-policies"></a>Översikt över försäkringsbrev  
-Om du vill ha en översikt över försäkringsbreven kan du förhandsgranska eller skriva ut rapporten **Försäkringslista** som visar alla försäkringsbrev och de viktigaste fälten på försäkringskortet visas.  
+### <a name="overview-of-insurance-policies"></a>Översikt över försäkringsbrev
+Få en översikt över försäkringsbreven genom att skriva ut rapporten **Försäkringslista** rapport. Rapporten visar alla försäkringsbrev och de viktigaste fälten på försäkringskortet visas.  
 
 ### <a name="insurance-coverage"></a>Försäkringsskydd
-Om du vill se vilka försäkringsbrev som täcker varje tillgång och till vilket belopp kan du förhandsgranska eller skriva ut rapporten **Försäkring med totalvärde**.
+Om du vill se vilka försäkringsbrev som täcker varje tillgång och till vilket belopp kan du förhandsgranska eller skriva ut rapporten **Försäkring med totalvärde**.  
 
 ### <a name="overunder-coverage"></a>Över-/underförsäkringsskydd
-Du kan kontrollera om anläggningstillgångar är över- eller underförsäkrade på följande sätt:
-- Fönstret **Försäkringsstatistik** visas. Ett positivt belopp i fältet **Över-/underförsäkrad** innebär att anläggningstillgången är överförsäkrad. Ett negativt belopp innebär att den är underförsäkrad.
-- Fönstret **Anl.statistik** visas. Välj fältet **Totalt försäkrat värde** för att visa fönstret **Försäkringstransaktioner**.  
-- Rapporten **Över/underförsäkringsskydd**.  
-- Rapporten **Försäkringsanalys**.
+Du kan kontrollera om anläggningstillgångar är över- eller underförsäkrade på följande sätt:  
+
+* Fönstret **Försäkringsstatistik** visas. Ett positivt belopp i fältet **Över-/underförsäkrad** innebär att anläggningstillgången är överförsäkrad. Ett negativt belopp innebär att den är underförsäkrad.  
+* Fönstret **Anl.statistik** visas. Välj fältet **Totalt försäkrat värde** för att visa fönstret **Försäkringstransaktioner**.  
+* Rapporten **Över/underförsäkringsskydd**.  
+* Rapporten **Försäkringsanalys**.  
 
 ### <a name="uninsured-fixed-assets"></a>Oförsäkrade anläggningstillgångar
-Om du vill kontrollera att du inte har glömt att koppla en anläggningstillgång till ett försäkringsbrev kan du skriva ut eller förhandsgranska rapporten **Försäkring – oförsäkrade anl.**. Den här rapporten visar de individuella anläggningstillgångar för vilka belopp inte har bokförts till försäkringstransaktionerna.
+Om du vill kontrollera att du inte har glömt att koppla en anläggningstillgång till ett försäkringsbrev kan du skriva ut eller förhandsgranska rapporten **Försäkring – oförsäkrade anl.**. Den här rapporten visar de individuella anläggningstillgångar för vilka belopp inte har bokförts till försäkringstransaktionerna.  
 
 ## <a name="to-view-insurance-coverage-ledger-entries"></a>Så här visar du försäkringstransaktioner
 Du kan visa de transaktioner som du har skapat i försäkringstransaktionerna.  
 
-1. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäkring** och välj sedan relaterad länk.  
-2. Välj aktuellt försäkringsbrev och klicka på åtgärden **Försäkringstransaktioner.**.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäkring** och välj sedan relaterad länk.  
+2. Välj aktuellt försäkringsbrev och klicka på åtgärden **Försäkringstransaktioner.**.  
 
 ## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a>Så här visar du det försäkrade totalvärdet för en anläggningstillgång:
-Ett dedikerat matrisfönster visar försäkringsbeloppet som registreras för varje försäkringsbrev för varje anläggningstillgång som ett resultat av försäkringsrelaterade belopp som du har bokfört.
+Ett dedikerat matrisfönster visar försäkringsbeloppet som registreras för varje försäkringsbrev för varje anläggningstillgång som ett resultat av försäkringsrelaterade belopp som du har bokfört.  
 
-1. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäkring** och välj sedan relaterad länk.  
-2. Välj aktuellt försäkringsbrev och klicka på åtgärden **Försäkrat totalvärde per anl.**.
-3. Fyll i fälten om det behövs  
-4. väljer du åtgärden **Visa matris**.  
-5. Välj ett värde i matrisen för att visa de underliggande försäkringstransaktionerna.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäkring** och välj sedan relaterad länk.  
+2. Välj aktuellt försäkringsbrev och klicka på åtgärden **Försäkrat totalvärde per anl.**.  
+3. Fyll i fälten om det behövs.  
+4. Välj åtgärden **Visa matris**.  
+5. Välj ett värde i matrisen för att visa de underliggande försäkringstransaktionerna.  
 
-## <a name="to-correct-insurance-coverage-entries"></a>Så här rättar du försäkringstransaktioner  
+## <a name="to-correct-insurance-coverage-entries"></a>Så här rättar du försäkringstransaktioner
 Om en anläggningstillgång har kopplats till fel försäkringsbrev, kan du rätta detta genom att skapa två omklassificeringsposter från försäkringsjournalen.  
 
-1. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Försäkringsjournaler** och välj sedan relaterad länk.
-2. Skapa en journalrad för anläggningstillgången och det korrekta försäkringsbrevet där värdet i fältet **Belopp** är positivt.
+1. Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Försäkringsjournaler** och välj sedan relaterad länk.  
+2. Skapa en journalrad för anläggningstillgången och det korrekta försäkringsbrevet där värdet i fältet **Belopp** är positivt.  
 3. Skapa en annan journalrad för anläggningstillgången och det felaktiga försäkringsbrevet där värdet i fältet **Belopp** är negativt.  
-4. Välj åtgärden **Bokföra**.
+4. Välj åtgärden **Bokföra**.  
 
-Anläggningstillgången kommer att frigöras från det felaktiga försäkringsbrevet på en andra rad och istället kopplas till korrekt försäkringsbrev på den första raden.
+Anläggningstillgången kommer att frigöras från det felaktiga försäkringsbrevet på en andra rad och istället kopplas till korrekt försäkringsbrev på den första raden.  
 
 ## <a name="see-also"></a>Se även
-[Hantera anläggningstillgångar](fa-manage.md)  
-[Skapa anläggningstillgångar](fa-setup.md)  
-[Finans](finance-setup.md)  
-[Välkommen till Dynamics NAV](across-get-started.md)
+[Anläggningstillgångar](fa-manage.md)  
+[Ställa in anläggningstillgångar](fa-setup.md)  
+[Ekonomi](finance.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

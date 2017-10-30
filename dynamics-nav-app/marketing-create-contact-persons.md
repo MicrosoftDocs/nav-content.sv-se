@@ -1,21 +1,24 @@
 ---
 title: Skapa kontaktpersoner
+description: "Beskriver uppgiften om du vill skapa ett kontaktkort för en person, t.ex. en potentiell kund eller leverantör som bidrar till att definiera relationen och skräddarsy kommunikationen."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6fa08f83276d9da91f22215e578d98199cf4e3
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 34dc16ae3c6f9f6b11abca2480c7bcae9a0a3cab
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="create-contact-persons"></a>Skapa kontaktpersoner
+# <a name="creating-contact-persons"></a>Skapa kontaktpersoner
 Du skapar en kontakt genom att skapa ett kontaktkort för personen. Du kan skapa kontaktpersoner utifrån befintliga kontaktföretag eller skapa oberoende kontaktpersoner.
 
 När du till exempel har träffat ett prospektföretag, träffar du deras inköpare. Du skapar då ett kontaktkort för den här personen så att kommunikationen kan skräddarsys.
@@ -24,16 +27,18 @@ Du kanske också behöver få några publikationer om produkterna översatta och
 
 Om du registrerar så många uppgifter som möjligt om en kontaktperson kan alla grupper i företaget hitta relevant information.
 
-I tabellen nedan beskrivs en rad uppgifter i ordningsföljd med länkar till de avsnitt där de beskrivs. Uppgifterna anges i den ordning de vanligen utförs.
+I följande tabell beskrivs en serie uppgifter, med länkar till de avsnitt där de beskrivs. 
 
-|Om du vill |Gå till |
-|---|----|
-|Ange information om en kontaktperson.|[Så här skapar du kontaktperson](marketing-how-create-contact-persons.md)|
-|Ange en alternativ adress för en kontakt.|[Så här tilldelar du alternativa adresser](marketing-how-assign-alternative-address.md)|
-|Beskriv affärsrelationen med en företagskontakt.|[Konfigurera arbetsansvar för kontakter](marketing-job-responsibilities.md)|
-|Beskriv kontakternas befattningsnivå.|[Skapa befattningsnivåer för kontaktpersoner](marketing-organizational-levels.md)|
-|Tilldela utskicksgrupper till dina kontakter.|[Tilldela utskicksgrupp till en kontakt](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)|
+| Till | Gå till |
+| --- | --- |
+| Ange information om en kontaktperson. |[Så här skapar du kontaktpersoner](marketing-how-create-contact-persons.md) |
+| Ange en alternativ adress för en kontakt. |[Så här tilldelar du alternativa adresser](marketing-how-assign-alternate-address.md) |
+| Beskriv affärsrelationen med en företagskontakt. |[Så här: Konfigurera arbetsansvar för kontakter](marketing-job-responsibilities.md) |
+| Beskriv kontakternas befattningsnivå. |[Så här: Skapa befattningsnivåer för kontaktpersoner](marketing-organizational-levels.md) |
+| Tilldela utskicksgrupper till dina kontakter |[Tilldela utskicksgrupp till en kontakt](marketing-mailing-groups.md) |
 
-##<a name="see-also"></a>Se även
-[Skapa kontaktföretag](marketing-create-contact-companies.md)
+## <a name="see-also"></a>Se även
+[Skapa kontaktföretag](marketing-create-contact-companies.md)  
+[Skapa och hantera kontakter]()  
+[Arbeta med Dynamics NAV](ui-work-product.md)
 

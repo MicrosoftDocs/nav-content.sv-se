@@ -1,41 +1,42 @@
 ---
-title: "Över affärsområden"
+title: "Använda allmänna funktioner över affärsområden"
+description: "Lär dig om funktioner som används över affärsområden i Dynamics NAV."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: d21481962689ec0258208ad920e441ee795167dd
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: feature overview, functionality
+ms.date: 08/21/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: e311caa515f057320f43692d639490b41f8ae6d3
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="across-business-areas"></a>Över affärsområden
-
-Dynamics NAV ger en dedikerad funktion för vanliga affärsområden, till exempel ekonomiinställning och försäljning. Som stöd för affärsområdesspecifika uppgifter kan du använda en mängd allmänna affärsfunktioner som **Nummerserier** och **Tillägg** som finns i dessa områden.
+# <a name="general-business-functionality"></a>Allmänna affärsfunktioner
+[!INCLUDE[d365fin](includes/d365fin_md.md)] ger en dedikerad funktion för vanliga affärsområden, till exempel ekonomi och försäljning. Och för att stödja områdesspecifika affärsuppgifter kan du använda olika allmänna affärsfunktioner som t.ex. att definiera extratext för dokumentrader och organisera kopplade uppgifter i arbetsflöden.
 
 I tabellen nedan anges dessa allmänna affärsområden med länkar till avsnitten där de beskrivs.
 
-|Om du vill   |Gå till   |
-|-----|------|
-|Tilldela unika ID-koder till poster som redovisningskonton, kund- och leverantörskonton, fakturor och dokument. Ett adekvat numreringssystem gör också företaget mer hanterbart och enkelt att analysera, och kan minska antalet fel som uppstår vid datainmatning.|[Skapa nummerserier](ui-create-number-series.md)|
-|Skapa standardtextkoder så att du kan utöka standardtexten genom att lägga till extra rader, och skapa villkor för hur extraraderna kan användas.|[Så här definierar du extratexter](ui-how-define-ext-text.md)|
-|Ändra Dynamics NAV genom att installera tillägg som lägger till funktioner, ändrar beteende eller ger dig tillgång till nya onlinetjänster.|[Anpassa Dynamics NAV med hjälp av tillägg](ui-extensions.md)|
-|Lär dig att arbeta med redovisningsjournaler som används till att bokföra på redovisningskonton och andra konton, till exempel bank-, kund-, leverantörs- och anläggningstillgångskonton.|[Hantera redovisningsjournaler](ui-work-general-journals.md)|
-|Förmedla innehållet i affärsdokument snabbt till dina affärspartners, till exempel betalningsinformationen på försäljningsdokument till kunder.|[Så här skickar du dokument som e-post](ui-how-send-documents-email.md)|
-|fördela en transaktion i en redovisningsjournal på olika konton när du bokför journalen.|[Så här använder du fördelningsnycklar i redovisningsjournaler](ui-how-use-allocation-keys-general-journals.md)|
-|Du kan schemalägga en rapport att köras vid ett visst datum och tider.|[Så här schemalägger du en rapportkörning](ui-schedule-report.md)|
-|Hantera andra typer av rapportlayouter.|[Hantera rapportlayouter](ui-manage-report-layouts.md)|
-|Begära och bevilja godkännande för att skapa eller ändra vissa dokument och kort.|[Använda arbetsflöden för godkännande](across-how-use-approval-workflows.md)|
-|Registrera externa dokument i Dynamics NAV inklusive bifogade filer och sedan manuellt skapa relaterade dokument eller konvertera filerna automatiskt till elektroniska dokument.|[Hantera Inkommande dokument](across-income-documents.md)|
+| Till | Gå till |
+| --- | --- |
+| Skapa standardtextkoder så att du kan utöka standardtexten genom att lägga till extra rader, och skapa villkor för hur extraraderna kan användas. |[Så här definierar du extratexter](ui-how-define-ext-text.md) |
+| Lär dig att arbeta med redovisningsjournaler som används till att bokföra på redovisningskonton och andra konton, till exempel bank-, kund-, leverantörs- och anläggningstillgångskonton. |[Arbeta med redovisningsjournaler](ui-work-general-journals.md) |
+| Förmedla innehållet i affärsdokument snabbt till dina affärspartners, till exempel betalningsinformationen på försäljningsdokument till kunder. |[Så här skickar du dokument som e-post](ui-how-send-documents-email.md) |
+| Du kan schemalägga en rapport att köras vid ett visst datum och tider. |[Så här schemalägger du en rapportkörning](ui-work-report.md#ScheduleReport) |
+| Hantera andra typer av rapportlayouter. |[Hantera rapportlayouter](ui-manage-report-layouts.md) |
+| Spåra användares aktiviteter.|[Logga ändringar i Dynamics NAV](across-log-changes.md)|
+|Tilldela behörigheter till användare, ändra behörighetsgrupper och gruppera användare per behörigheter.|[Så här hanterar du användare och behörigheter](ui-how-users-permissions.md)|
+| Ändra [!INCLUDE[d365fin](includes/d365fin_md.md)] genom att installera tillägg som lägger till funktioner, ändrar beteende eller ger dig tillgång till nya onlinetjänster. |[Anpassa [!INCLUDE[d365fin](includes/d365fin_md.md)] med tillägg](ui-extensions.md) |
+|Konfigurera och använd arbetsflöden som kopplar uppgifter som ska utföras av olika användare eller i systemet, till exempel automatisk bokföring. Begära och bevilja godkännande för att skapa eller bokföra dokument är vanliga arbetsflödessteg.|[Arbetsflöde](across-workflow.md)|
+|Registrera externa dokument i Dynamics NAV, inklusive bifogade filer och sedan manuellt skapa relaterade dokument eller konvertera filerna automatiskt till elektroniska dokument.|[Inkommande dokument](across-income-documents.md)|
+| Ställ in datautbytesdefinitioner för att skicka och ta emot elektroniska dokument. |[Utbyta data elektroniskt](across-data-exchange.md). |
 
 ## <a name="see-also"></a>Se även
-[Arbeta med Dynamics NAV](ui-work-product.md)
-
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

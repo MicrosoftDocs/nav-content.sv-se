@@ -1,79 +1,76 @@
 ---
-title: "Så här gör du erbjudanden"
+title: "Skapa ett försäljningserbjudande till en kund"
+description: "Beskriver hur du skapar ett försäljningserbjudande eller begäran om förslag (Offertförfrågan) för att registrera ditt erbjudande till kunden att sälja produkter under vissa villkor."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: e126c755a9121c3a91f3af72f3f1ae14702a4701
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: rfq
+ms.date: 08/08/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 21611abbb658ddcd4e422269db9677bca3ea4f35
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-make-offers"></a>Så här gör du erbjudanden
 Du kan skapa en försäljningsoffert för att erbjuda en kund att sälja vissa produkter till vissa leverans- och betalningsvillkor. Du kan skicka försäljningsofferten till kunden för att meddela erbjudandet. Du kan e-posta dokument som en PDF-bilaga. Du kan också välja e-postbrödtexten förifylld med en sammanfattning av offerten. Mer information finns i [Så här skickar du dokument via e-post](ui-how-send-documents-email.md).
 
 Medan du förhandlar med kunden kan du ändra och skicka försäljningsofferten så mycket som behövs. När kunden accepterar offerten omvandlar du försäljningsofferten till en försäljningsfaktura eller försäljningsorder som du bearbetar försäljningen. Mer information finns i [Så här fakturerar du försäljning](sales-how-invoice-sales.md), [Så här säljer du produkter](sales-how-sell-products.md).
 
-Produkter kan vara både lagerartiklar och tjänster. Mer information finns i [Så här registrerar du nya produkter](inventory-how-register-new-products.md). Försäljningsoffertprocessen är samma för båda produkttyper.
-
-**Obs!** I Dynamics NAV refereras en produkt med termen “item”.
-
-Du kan fylla i kundfälten på försäljningsofferten på två sätt, beroende på om kunden redan har registrerats.
+Du kan fylla i kundfälten på försäljningsofferten på två sätt, beroende på om kunden redan har registrerats. Se steg 2 och 3 i följande procedur.
 
 ## <a name="to-create-a-sales-quote"></a>Så här skapar du en försäljningsoffert
-1. Välj åtgärden **Försäljningsoffert** på startsidan.  
+Välj åtgärden **Försäljningsoffert** på startsidan.  
 2. Ange namnet på en befintlig kund i fältet **Kund**.
 
-    Andra fält i fönstret **Försäljningsoffert** fylls nu i med standardinformation om den valda kunden. Om kunden inte är registrerad, gör så här:
-
+   Andra fält i fönstret **Försäljningsoffert** innehåller standardinformation om den valda kunden. Om kunden inte är registrerad, gör så här:
 3. Ange namnet på en ny kund i fältet **Kund**.
 4. Välj knappen **ja** i dialogrutan om registrering av den nya kunden.
 5. Välj en mall det nya kundkortet ska baseras på i fönstret **Välj en mall för en ny kund** och välj sedan knappen **OK**.
-6. Ett nytt kundkort öppnas med förifylld information från den markerade kundmallen. Fältet **Namn** förifylls med nya kundens namn som du har angett på försäljningsfakturan.
-7. Fortsätt att fylla de återstående fälten på kundkortet. Mer information finns i [Så här registrerar du nya kunder](sales-how-register-new-customers.md).  
-8. Välj **OK** för att gå tillbaka till fönstret **Försäljningsoffert**, när du har slutfört kundkortet.
+6. Ett nytt kundkort visar information från den markerade kundmallen. Fyll i resterande fält. Mer information finns i [Så här registrerar du nya kunder](sales-how-register-new-customers.md).  
+7. Välj **OK** för att gå tillbaka till fönstret **Försäljningsoffert**, när du har slutfört kundkortet.
 
-    Flera fält i Försäljningsofferten är nu ifyllda med information som du har angett på det nya kundkortet.
-9. I fönstret **Försäljningsoffert** fyller du i de återstående fälten efter behov. Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.
+   Flera fält i Försäljningsofferten är nu ifyllda med information som du har angett på det nya kundkortet.  
+8. I fönstret **Försäljningsoffert** fyller du i de återstående fälten efter behov. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-    Du är nu redo att fylla i Försäljningsoffertraderna med lagerförda artiklar eller tjänster som du vill erbjuda till kunden.
+Du är nu klar att fylla i försäljningsorderraderna för produkter som du säljer till kunden eller för en transaktion med den kund som du vill registrera en post i ett redovisningskonto.   
 
-    **Obs!** Om du har ställt in återkommande försäljningsrader för kunden, till exempel en månatlig återanskaffningsorder, kan du infoga de här raderna på offerten, genom att välja åtgärden **Hämta återkommande försäljningsrader**.
-10. På snabbfliken **rader** i fältet **Artikelnr.** anger du ett nummer för en lagerartikel eller tjänst.
-11. Skriv det antal artiklar som ska erbjudas i fältet **Antal**.
+Om du har ställt in återkommande försäljningsrader för kunden, till exempel en månatlig återanskaffningsorder, kan du infoga de här raderna på ordern, genom att välja åtgärden **Hämta återkommande försäljningsrader**.  
+9. På snabbfliken **rader** i fältet **typ** väljer du vilken typ av produkt, kostnad eller transaktion som du vill bokföra för kunden med försäljningsraden.
+10. I fältet **Nr.** väljer du en post som ska bokföras enligt värdet i fältet **typ**.
 
-    **Obs!** För artiklar av typen Tjänst är kvantiteten en tidsenhet, till exempel timmar, enligt fältet **Enhetskod** på raden.
+ Du lämnar fältet **Nr.** tomt i följande fall: om raden gäller en kommentar. Skriv kommentaren fältet **beskrivning**.
+ -Om raden är för en ej lagerförd artikel. Välj åtgärd **markera ej lagerförda artiklar**. Mer information finns i [Så här arbetar du med ej lagerförd artikel](inventory-how-work-nonstock-items.md).
 
-    Fältet **Radbelopp** uppdateras och visar värdet i fältet **Enhetspris** multiplicerat med värdet i fältet **Kvantitet**.
+11. I fältet **antal** anger du hur många enheter av produkt, kostnad eller transaktion som registreras på raden för kunden.
 
-    Pris- och radbeloppen visas med eller utan omsättningsskatt beroende på vad du valde i fältet **Priser inkl. omsättningsskatt** på kundkortet.
-12. Ange ett värde i procent, om du vill bevilja kunden en rabatt på produkten i fältet **Radrabatt %**. Värdet i fältet **Radbelopp** uppdateras i enlighet därmed.
+    Värdet i fältet **Radbelopp** beräknas som *enhetspris* x *antal*.  
 
-    **Obs!** Om du har ställt in särskild artikelpriser på snabbfliken **Försäljningspriser och försäljningsradrabatter** på kund- eller artikelkortet uppdateras priset och beloppet på offertraden automatiskt om de överenskomna priskriterierna uppfylls. Mer information finns i [Registrera försäljningspris, rabatt och betalningsavtal](sales-how-record-sales-price-discount-payment-agreements.md).
-13. Ange en text i fältet **Beskrivning** på en tom rad för att lägga till en kommentar om offertraden som kunden kan se på den utskrivna offerten.  
-14. Upprepa moment 10 till 13 för varje artikel som du vill att erbjuda kunden.
+    Pris- och radbeloppen visas med eller utan omsättningsskatt beroende på vad du valde i fältet **Priser inkl. moms** på kundkortet.  
+12. Om du vill ge en rabatt kan du ange ett procenttal i fältet **radrabatt %**. Värdet i fältet **Radbelopp** uppdateras i enlighet därmed.  
 
-    Summorna under raderna beräknas automatiskt när du skapar eller ändrar rader.
-15. I fältet **Fakturarabatt** anger du ett belopp som ska dras från värdet som visas i fältet **Totalt inkl. moms**.
+    Om du har ställt in särskild artikelpriser på snabbfliken **Försäljningspriser och försäljningsradrabatter** på kund- eller artikelkortet uppdateras priset och beloppet på försäljningsraden automatiskt om de överenskomna priskriterierna uppfylls. Mer information finns i [Registrera försäljningspris, rabatt och betalningsavtal](sales-how-record-sales-price-discount-payment-agreements.md).  
+13. Upprepa moment 9 till 12 för varje produkt som du vill att erbjuda kunden.  
 
-    **Obs!** Om du har ställt in fakturarabatter för kunden, då infogas det angivna procentsatsvärdet automatiskt i fältet **Fakturarabatt %** om kriteriet uppfylls, och det relaterade beloppet infogas i fältet **Rabattbelopp exkl. moms**. Mer information finns i [Registrera försäljningspris, rabatt och betalningsavtal](sales-how-record-sales-price-discount-payment-agreements.md).
-16. När försäljningsoffertraderna slutförda väljer du åtgärden **E-posta** eller **Skriva ut**.
+    Summorna under raderna beräknas automatiskt när du skapar eller ändrar rader.  
+14. I fältet **Fakturarabatt** anger du ett belopp som ska dras från värdet som visas i fältet **Totalt inkl. moms**.
 
-    Om du markerade **E-post** bifogas en PDF-fil automatiskt till ett e-postmeddelande till kunden. Du kan ställa in e-postmeddelandet till att innehålla en sammanfattning av offerten. Mer information finns i [Så här skickar du dokument via e-post](ui-how-send-documents-email.md).
+    Om du har ställt in fakturarabatter för kunden, då infogas det angivna procentsatsvärdet automatiskt i fältet **Fakturarabatt %** om kriteriet uppfylls, och det relaterade beloppet infogas i fältet **Inv. Rabattbelopp exkl. moms**. Mer information finns i [Registrera försäljningspris, rabatt och betalningsavtal](sales-how-record-sales-price-discount-payment-agreements.md).
+15. När försäljningsoffertraderna slutförda väljer du åtgärden **Skicka med e-post**.
+16. I fönstret **Skicka e-post** fyller du i återstående fält och granskar den inbäddade försäljningsofferten. Mer information finns i [Så här skickar du dokument via e-post](ui-how-send-documents-email.md).
 17. Om kunden accepterar offerten väljer du åtgärden **Gör faktura** eller **Gör order**.
 
-Försäljningsofferten tas bort från databasen. En försäljningsfaktura eller försäljningsorder har skapats baserat på informationen i försäljningsofferten där du kan bearbeta försäljningen. I fältet **Offertnr.** på försäljningsfakturan eller försäljningsordern kan du ange numret på försäljningsofferten som den har skapats från. Mer information finns i [Så här fakturerar du försäljning](sales-how-invoice-sales.md), [Så här säljer du produkter](sales-how-sell-products.md).
+Försäljningsofferten tas bort från databasen. En försäljningsfaktura eller försäljningsorder har skapats baserat på informationen i försäljningsofferten där du kan bearbeta försäljningen. I fältet **Offertnr** på försäljningsfakturan eller försäljningsordern kan du ange numret på försäljningsofferten som den har skapats från. Mer information finns i [Så här fakturerar du försäljning](sales-how-invoice-sales.md), [Så här säljer du produkter](sales-how-sell-products.md).
 
-## <a name="see-also"></a>Se även  
-[Hantera försäljning](sales-manage-sales.md)  
-[Ställa in försäljning](sales-setup-sales.md)  
+## <a name="see-also"></a>Se även
+[Försäljning](sales-manage-sales.md)  
+[Konfigurera försäljning](sales-setup-sales.md)  
 [Så här skickar du dokument som e-post](ui-how-send-documents-email.md)  
-[Arbeta med Dynamics NAV](ui-work-product.md)
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Provisioneringsverktyg för Windows Azure
+Provisioneringsverktyg för Microsoft Azure i Microsoft Dynamics NAV

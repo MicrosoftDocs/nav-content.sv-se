@@ -1,38 +1,40 @@
 ---
-title: "Konfigurera inköp"
+title: "Översikt över arbetsuppgifter för att ställa in inköp"
+description: "Beskriver uppgifterna för att definiera företagets inköppolicyer och registrerar inköpsprocesserna."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b70e775b4fb5fe716279e5f475f7be214f49f65e
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement, supply, vendor order
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 46de426a91eb46ec40ce95592ae12e4adda3f9f6
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-purchasing"></a>Konfigurera inköp
+# <a name="setting-up-purchasing"></a>Ställa in inköp
 Innan du kan hantera inköpsprocesser måste du konfigurera reglerna och värdena som definierar företagets inköpspolicyer.
 
-Först måste du ställa in de allmänna inställningarna, till exempel vilka inköpsdokument som är obligatoriska och hur deras värden ska bokföras. Dessa allmänna inställningar görs vanligtvis bara en gång, under den initiala implementeringen.
+Du måste ställa in de allmänna inställningarna, till exempel vilka inköpsdokument som är obligatoriska och hur deras värden ska bokföras. Dessa allmänna inställningar görs vanligtvis bara en gång, under den initiala implementeringen.
 
-En separat serie uppgifter för att skapa huvuddata för leverantören är att lägga in leverantörens rabatt- och prisavtal i fönster som är länkade till leverantörskorten.
+En separat serie uppgifter relaterade till att registrera nya leverantörer är att registrera alla specialpriser eller rabattavtal som du har med varje leverantör.
 
-Den periodiska aktiviteten för att skapa leverantörskort till nya leverantörer finns i avsnittet Hantera inköp. Mer information finns i [Så här registrerar du nya leverantörer](purchasing-how-register-new-vendors.md).
+Finansrelaterade inköp, till exempel betalningssätt och valutor, beskrivs i avsnittet Finans. Mer information finns i [Konfigurera ekonomi](finance-setup-finance.md).
 
-Finansrelaterade inköp, till exempel betalningssätt och valutor, beskrivs i avsnittet Finans. Mer information finns i [Konfigurera Finans](finance-setup-setup-finance-setup.md).
-
-|Om du vill |Gå till |
-|---|----|
-|Ange de olika rabatter och alternativa priser som leverantörerna beviljar beroende på artikel, kvantitet och/eller datum.|[Registrera inköpspris, rabatt och betalningsavtal](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|Prioritera leverantörer.|[Så här prioriterar du leverantörer](purchasing-how-prioritize-vendors.md)|
-|Konfigurera inköpare.|[Så här skapar du inköpare](purchasing-how-setup-purchasers.md)|
+| Om du vill | Gå till |
+| --- | --- |
+| Skapa ett leverantörskort för varje leverantör som du har köpt av|[Så här registrerar du nya leverantörer](purchasing-how-register-new-vendors.md) |
+| Ange de olika rabatterna och specialpriserna som leverantörerna beviljar dig beroende på artikel, kvantitet och/eller datum |[Så här registrerar du inköpspris, rabatt och betalningsavtal](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| Prioritera leverantörer |[Så här prioriterar du leverantörer](purchasing-how-prioritize-vendors.md) |
+| Konfigurera inköpare |[Så här skapar du inköpare](purchasing-how-setup-purchasers.md) |
 
 ## <a name="see-also"></a>Se även
-[Hantera inköp](purchasing-manage-purchasing.md)
+[Inköp](purchasing-manage-purchasing.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

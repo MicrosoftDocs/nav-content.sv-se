@@ -1,25 +1,28 @@
 ---
-title: "Så här lägger du till kontakter i segment"
+title: Definiera kontakter i ett segment
+description: "När du har skapat ett segment kan du kan lägga till kontakter i segmentet, exempelvis som en del av en marknadsföringskampanj där du riktar dig mot vissa kunder."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bf44103fef00d3fb96de8f7770f07383e10e265c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f77963080e3bd01b0854e45396174801a92e30b9
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-add-contacts-to-segments"></a>Så här lägger du till kontakter i segment
 När du har skapat ett segment och angett grundläggande information om det kan du lägga till kontakter i segmentet. Det kan du göra genom att manuellt fylla i raderna i fönstret **Segment** men det är enklare och går snabbare att använda åtgärden **Lägg till kontakter**.
 
 ## <a name="to-add-a-contact-to-a-segment"></a>Så här lägger du till kontakter i ett segment
-1. Välj åtgärden **Aktiva segment** på startsidan. Eller välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Segment** och välj sedan relaterad länk.  
+1. Välj åtgärden **Aktiva segment** på startsidan. Eller välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Segment** och välj sedan relaterad länk.  
 2. Markera segmentet och välj sedan åtgärden **Lägg till kontakter**. Fönstret för batch-jobbet **Lägg till kontakter** öppnas.
 3. I avsnittet **Kontakt** anger du filter för att ange den information som ska användas när du väljer särskilda kontakter.
 
@@ -40,17 +43,18 @@ Du kan förfina ett segment så många gånger som du vill. Klicka på **Gå til
 Du kan visa en lista över de segmentkriterier som har använts genom att klicka på avsnittet **Allmänt** och välja fältet **Antal kriteriumåtgärder**.
 
 ## <a name="to-reduce-the-number-of-contacts"></a>Om du vill minska antalet kontakter
-När du har valt kontakter i ett segment kanske du vill ta bort några av dem. Du kan göra detta genom att manuellt ta bort dem från raderna i fönstret **Segment**, men det går enklare och snabbare att ange vilka kontakter som ska tas bort med funktionen **Reducera kontakter** och vilka som ska behållas med funktionen **Förfina urval**.
+När du har valt kontakter i ett segment kanske du vill ta bort några av dem. Du kan göra detta genom att manuellt ta bort dem från raderna i fönstret Segment, men det går enklare och snabbare att ange vilka kontakter som ska tas bort med funktionen Reducera kontakter och vilka som ska behållas med funktionen Förfina urval.
 
 1. Öppna segmentet.
-2. Välj **kontakter**, och välj sedan åtgärden **minska kontakter**. Fönstret **Ta bort kontakter - reducera** visas.
+2. Välj kontakter, och välj sedan åtgärden **Minska kontakter**. Fönstret **Ta bort kontakter - reducera** visas.
 3. I avsnittet **Kontakt** anger du filter för att ange den information som ska användas för att välja de kontakter som ska tas bort från segmentet.
 4. Lägg till ytterligare filter vid behov och välj sedan knappen **OK**.
 
 Du kan reducera ett segment så många gånger som du vill. Klicka på åtgärden **Gå tillbaka** om du har förfinat ett segment av misstag och vill gå tillbaka till föregående steg.
 
-##<a name="see-also"></a>Se även
+## <a name="see-also"></a>Se även
 [Så här skapar du segment](marketing-how-create-segment.md)   
 [Hantera segment](marketing-segments.md)  
 [Hantera Försäljningsmöjligheter](marketing-manage-sales-opportunities.md)  
+[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

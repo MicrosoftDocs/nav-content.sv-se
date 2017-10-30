@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ba67e7e09f4375cbdbf53f401fd0f3d83450c9ec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5a072d9b0984adf8bf4ab89fb26d658cb13f50f0
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -27,9 +27,9 @@ Du kan använda en av standardinställninglayouterna för kontouppställningen, 
 Det betyder att du kan skapa så många anpassade finansiella rapporter som du önskar. Du kan använda fönstret **Kontouppställning** för att definiera kontouppställningar.  
 
 ## <a name="account-categories-and-account-schedules"></a>Kontokategorier och kontouppställningar
-Du kan använda kontokategorier för att ändra layout på din redovisning. När du har upprättat din kontokategorier i fönstret **Redovisningskontokategorier** och du väljer åtgärden **Skapa kontouppställningar** uppdateras de underliggande kontouppställningarna för de centrala ekonomiska rapporterna. nästa gång du kör någon av dessa rapporter, till exempel kontoavstämning kommer nya summor och underposter att läggas till, baserat på ändringarna. Mer information finns i [Redovisning och kontoplan](finance-setup-general-ledger.md).    
+Du kan använda kontokategorier för att ändra layout på din redovisning. När du har upprättat din kontokategorier i fönstret **Redovisningskontokategorier** och du väljer åtgärden **Skapa kontouppställningar** uppdateras de underliggande kontouppställningarna för de centrala ekonomiska rapporterna. nästa gång du kör någon av dessa rapporter, till exempel kontoavstämning kommer nya summor och underposter att läggas till, baserat på ändringarna. Mer information finns i [Redovisning och kontoplan](finance-general-ledger.md).    
 ## <a name="see-also"></a>Se även
-[Finans](finance-setup.md)  
-[Konfigurera Ekonomi](finance-setup-setup-finance-setup.md)  
-[Redovisningen och kontoplanen](finance-setup-general-ledger.md)  
+[Finans](finance.md)  
+[Konfigurera Ekonomi](finance-setup-finance.md)  
+[Redovisningen och kontoplanen](finance-general-ledger.md)  
 

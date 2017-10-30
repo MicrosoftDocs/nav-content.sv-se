@@ -1,1 +1,1 @@
-RapidStart-tjänster för Microsoft Dynamics NAV
+Snabbstartstjänster för Microsoft Dynamics NAV

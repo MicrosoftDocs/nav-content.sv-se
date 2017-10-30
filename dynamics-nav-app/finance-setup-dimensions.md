@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 18237c4b755926222a36bc97dec5d6783c11454d
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1b7a293982dfc7ff73c163ad1711e2bce098e98e
 ms.contentlocale: sv-se
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -34,6 +34,6 @@ Om du vill kan du definiera en dimension för varje kontotyp. Koden kopieras då
 Du kan slutligen göra en dimension obligatorisk, så att det inte går att bokföra en transaktion med en viss typ av konto såvida inte kontot har ett tilldelat dimensionsvärde.
 
 ## <a name="see-also"></a>Se även
-[Dimensioner](finance-setup-dimensions.md)  
-[Konfigurera Centrala finansiella processer](finance-setup-setup-finance-setup.md)
+[Arbeta med dimensioner](finance-dimensions.md)  
+[Konfigurera Centrala finansiella processer](finance-setup-finance.md)
 
