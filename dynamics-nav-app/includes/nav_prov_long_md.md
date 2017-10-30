@@ -1,1 +1,1 @@
-<span data-ttu-id="b005a-101">Microsoft Dynamics NAV Provisioneringsverktyg för Windows Azure</span><span class="sxs-lookup"><span data-stu-id="b005a-101">Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure</span></span>
+<span data-ttu-id="15006-101">Provisioneringsverktyg för Microsoft Azure i Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="15006-101">Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure</span></span>

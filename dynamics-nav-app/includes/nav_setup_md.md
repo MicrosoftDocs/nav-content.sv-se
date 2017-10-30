@@ -1,1 +1,1 @@
-<span data-ttu-id="79416-101">Microsoft Dynamics NAV 2017-inställning</span><span class="sxs-lookup"><span data-stu-id="79416-101">Microsoft Dynamics NAV 2017 Setup</span></span>
+<span data-ttu-id="5bc5e-101">Konfiguration av Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="5bc5e-101">Microsoft Dynamics NAV 2017 Setup</span></span>

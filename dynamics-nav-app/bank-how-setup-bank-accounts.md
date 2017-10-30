@@ -1,31 +1,57 @@
 ---
-title: "Så här skapar du bankkonton"
+title: Skapa bankkonton
+description: "Du kan stämma av bankkonton i Dynamics NAV med utdrag från banken."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 10fe32d2153d92aea0f9e6db8ebfb0e465fc04f4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: feed, stream
+ms.date: 09/26/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3581615fe94006aa9245f5e66fe6cf475b22acfb
 ms.contentlocale: sv-se
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="3a80b-103">Så här skapar du bankkonton</span><span class="sxs-lookup"><span data-stu-id="3a80b-103">How to: Set Up Bank Accounts</span></span>
+<span data-ttu-id="3a80b-104">Du använder bankkonton i [!INCLUDE[d365fin](includes/d365fin_md.md)] för att hålla reda på dina banktransaktioner.</span><span class="sxs-lookup"><span data-stu-id="3a80b-104">You use bank accounts in the [!INCLUDE[d365fin](includes/d365fin_md.md)] to keep track of your banking transactions.</span></span> <span data-ttu-id="3a80b-105">Konton kan definieras i den lokala valutan eller i en utländsk valuta.</span><span class="sxs-lookup"><span data-stu-id="3a80b-105">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="3a80b-106">När du har skapat bankkonton kan du också använda funktionen för utskrift av checkar.</span><span class="sxs-lookup"><span data-stu-id="3a80b-106">After you have set up bank accounts, you can also use the check printing option.</span></span>
 
-# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="50627-102">Så här skapar du bankkonton</span><span class="sxs-lookup"><span data-stu-id="50627-102">How to: Set Up Bank Accounts</span></span>
-<span data-ttu-id="50627-103">Du använder bankkonton i Dynamics NAV för att hålla reda på dina banktransaktioner.</span><span class="sxs-lookup"><span data-stu-id="50627-103">You use bank accounts in the Dynamics NAV to keep track of your banking transactions.</span></span> <span data-ttu-id="50627-104">Konton kan definieras i den lokala valutan eller i en utländsk valuta.</span><span class="sxs-lookup"><span data-stu-id="50627-104">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="50627-105">När du har skapat bankkonton kan du också använda funktionen för utskrift av checkar.</span><span class="sxs-lookup"><span data-stu-id="50627-105">After you have set up bank accounts, you can also use the check printing option.</span></span>
+## <a name="to-set-up-bank-accounts"></a><span data-ttu-id="3a80b-107">Så här skapar du bankkonton</span><span class="sxs-lookup"><span data-stu-id="3a80b-107">To set up bank accounts</span></span>
+1. <span data-ttu-id="3a80b-108">Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Bankkonton** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3a80b-108">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3a80b-109">I fönstret **Bankkonton** väljer du åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="3a80b-109">In the **Bank Accounts** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="3a80b-110">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="3a80b-110">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-1. <span data-ttu-id="50627-106">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Bankkonton** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="50627-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.</span></span>
-2. <span data-ttu-id="50627-107">I fönstret **Bankkonton** väljer du åtgärden **Ny**.</span><span class="sxs-lookup"><span data-stu-id="50627-107">In the **Bank Accounts** window, choose the **New** action.</span></span>
-3. <span data-ttu-id="50627-108">Fyll i fälten om det behövs.</span><span class="sxs-lookup"><span data-stu-id="50627-108">Fill in the fields as necessary.</span></span> <span data-ttu-id="50627-109">Välj ett fält om du vill få en kort beskrivning av fältet eller länken till mer information.</span><span class="sxs-lookup"><span data-stu-id="50627-109">Choose a field to read a short description of the field or link to more information.</span></span>
+> [!NOTE]
+> <span data-ttu-id="3a80b-111">Så här fyller du i fältet **Saldo** med en ingående balans, du måste bokföra en bankkontotransaktion med beloppet i fråga.</span><span class="sxs-lookup"><span data-stu-id="3a80b-111">To fill in the **Balance** field with an opening balance, you must post a bank account ledger entry with the amount in question.</span></span> <span data-ttu-id="3a80b-112">Du kan göra detta genom att utföra en bankkontoavstämning.</span><span class="sxs-lookup"><span data-stu-id="3a80b-112">You can do this by performing a bank account reconciliation.</span></span> <span data-ttu-id="3a80b-113">Mer information finns i [Så här stämmer du av bankkonton separat](bank-how-reconcile-bank-accounts-separately.md).</span><span class="sxs-lookup"><span data-stu-id="3a80b-113">For more information, see [How to: Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md).</span></span> <span data-ttu-id="3a80b-114">Alternativt kan du implementera den ingående balansen som en del av skapande av allmänna data i nya företag med hjälp av den assisterade konfigurationen **Migrera affärsdata**.</span><span class="sxs-lookup"><span data-stu-id="3a80b-114">Alternatively, you can implement the opening balance as a part of general data creation in new companies by using the **Migrate Business Data** assisted setup.</span></span> <span data-ttu-id="3a80b-115">Mer information finns i [Välkommern till [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span><span class="sxs-lookup"><span data-stu-id="3a80b-115">For more information, see [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span></span>
 
-<span data-ttu-id="50627-110">**Obs!** Fälten på snabbfliken **Överför** är relaterade till import och export av bankfeeds och filer.</span><span class="sxs-lookup"><span data-stu-id="50627-110">**Note**: Fields on the **Transfer** FastTab are related to import/export of bank feeds and files.</span></span> <span data-ttu-id="50627-111">Mer information finns i [Så här konfigurerar du bankdatakonverteringstjänsten](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="50627-111">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
+## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a><span data-ttu-id="3a80b-116">Så här skapar du ett bankkonto för import eller export av bankfilerna</span><span class="sxs-lookup"><span data-stu-id="3a80b-116">To set up your bank account for import or export of bank files</span></span>
+<span data-ttu-id="3a80b-117">Fälten på snabbfliken **Överför** i fönstret **Bankkontokort** är relaterade till import och export av bankfeeds och filer.</span><span class="sxs-lookup"><span data-stu-id="3a80b-117">Fields on the **Transfer** FastTab in the **Bank Account Card** window are related to import and export of bank feeds and files.</span></span> <span data-ttu-id="3a80b-118">Mer information finns i [Så här konfigurerar du bankdatakonverteringstjänsten](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="3a80b-118">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="50627-112">Se även</span><span class="sxs-lookup"><span data-stu-id="50627-112">See Also</span></span>  
-[<span data-ttu-id="50627-113">Konfigurera bank</span><span class="sxs-lookup"><span data-stu-id="50627-113">Set Up Banking</span></span>](bank-setup-banking.md)  
-[<span data-ttu-id="50627-114">Hantera bankkonton</span><span class="sxs-lookup"><span data-stu-id="50627-114">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)
+1. <span data-ttu-id="3a80b-119">Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Bankkonton** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3a80b-119">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3a80b-120">Öppna kortet för ett bankkonto som du ska exportera eller importera bankfiler.</span><span class="sxs-lookup"><span data-stu-id="3a80b-120">Open the card for a bank account that you will export or import bank files for.</span></span>
+3. <span data-ttu-id="3a80b-121">I snabbfliken **Överför** fyller du i nödvändiga fält.</span><span class="sxs-lookup"><span data-stu-id="3a80b-121">On the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+> [!NOTE]  
+>   <span data-ttu-id="3a80b-122">Andra filexporttjänster och deras format kräver olika inställningsvärden i fönstret **bankkontokort**.</span><span class="sxs-lookup"><span data-stu-id="3a80b-122">Different file export services and their formats require different setup values in the **Bank Account Card** window.</span></span> <span data-ttu-id="3a80b-123">Du får information om vilka inställningsvärden som är fel eller saknas när du försöker exportera filen.</span><span class="sxs-lookup"><span data-stu-id="3a80b-123">You will be informed about wrong or missing setup values as you try to export the file.</span></span> <span data-ttu-id="3a80b-124">Så läs de korta beskrivningarna av fälten eller se relaterad procedur i närliggande ämnen.</span><span class="sxs-lookup"><span data-stu-id="3a80b-124">So read the short descriptions of the fields carefully or refer to the related procedure topics.</span></span> <span data-ttu-id="3a80b-125">Till exempel exportera en betalningsfil för nordamerikansk elektronisk överföring kräver att både fältet **Sista kundremissnr.** och fältet **Transitnr.** fylls i.</span><span class="sxs-lookup"><span data-stu-id="3a80b-125">For example, exporting a payment file for North American electronic funds transfer (EFT) requires that both the **Last Remittance Advice No.** field and the **Transit No.** field are filled in.</span></span> <span data-ttu-id="3a80b-126">Mer information finns i [Så här exporterar du betalningar till en bankfil](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="3a80b-126">For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a><span data-ttu-id="3a80b-127">Så här skapar du leverantörsbankkonto för export av bankfiler</span><span class="sxs-lookup"><span data-stu-id="3a80b-127">To set up vendor bank accounts for export of bank files</span></span>
+<span data-ttu-id="3a80b-128">Fälten på snabbfliken **Överför** i fönstret **Leveraqntörsbankkontokort** är relaterade till export av bankfeeds och filer.</span><span class="sxs-lookup"><span data-stu-id="3a80b-128">Fields on the **Transfer** FastTab in the **Vendor Bank Account Card** window are related to export of bank feeds and files.</span></span> <span data-ttu-id="3a80b-129">Mer information finns i [Så här skapar du tjänsten för Bankdatakonvertering](bank-how-setup-bank-data-conversion-service.md) och [Så här exporterar du betalningar till en bankfil](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="3a80b-129">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md) and [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+1. <span data-ttu-id="3a80b-130">Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Leverantör** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="3a80b-130">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3a80b-131">Öppna kortet för en leverantör vars bankkonto som du ska exportera betalningsbankfiler till.</span><span class="sxs-lookup"><span data-stu-id="3a80b-131">Open the card for a vendor whose bank account you will export payment bank files to.</span></span>
+3. <span data-ttu-id="3a80b-132">Välj åtgärden **bankkonton**.</span><span class="sxs-lookup"><span data-stu-id="3a80b-132">Choose the **Bank Accounts** action.</span></span>
+3. <span data-ttu-id="3a80b-133">I fönstret**Leverantörsbankkontokort** på snabbfliken **Överför** fyller du sedan de fält som behövs.</span><span class="sxs-lookup"><span data-stu-id="3a80b-133">In the **Vendor Bank Account Card** window, on the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+## <a name="to-set-the-opening-balance-on-new-bank-accounts"></a><span data-ttu-id="3a80b-134">Ange den ingående balansen för nya bankkonton</span><span class="sxs-lookup"><span data-stu-id="3a80b-134">To set the opening balance on new bank accounts</span></span>
+
+
+## <a name="see-also"></a><span data-ttu-id="3a80b-135">Se även</span><span class="sxs-lookup"><span data-stu-id="3a80b-135">See Also</span></span>
+[<span data-ttu-id="3a80b-136">Ställa in bankverksamhet</span><span class="sxs-lookup"><span data-stu-id="3a80b-136">Setting Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="3a80b-137">Hantera bankkonton</span><span class="sxs-lookup"><span data-stu-id="3a80b-137">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+<span data-ttu-id="3a80b-138">[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="3a80b-138">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

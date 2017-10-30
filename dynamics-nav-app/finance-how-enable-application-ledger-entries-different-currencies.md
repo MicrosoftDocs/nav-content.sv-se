@@ -1,39 +1,53 @@
 ---
-title: "Så här aktiverar du koppling av kundreskontratransaktioner till olika valutor"
+title: Koppla transaktioner i olika valutor
+description: "Du kan koppla transaktioner i olika valutor om du t.ex.. säljer i en valuta och får betalningen i en annan valuta."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 7d6ce2a9133b02a1a38cd853c34b1f3440e7a50e
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: multiple currencies, payment, reconcile
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f323b98472f3e2ef0f28000f8a9140b066206945
 ms.contentlocale: sv-se
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="02b19-103">Så här aktiverar du koppling av kundreskontratransaktioner till olika valutor</span><span class="sxs-lookup"><span data-stu-id="02b19-103">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
+<span data-ttu-id="02b19-104">Om en valuta används vid inköp från en leverantör och en annan vid betalning kan du koppla betalningen till inköpet.</span><span class="sxs-lookup"><span data-stu-id="02b19-104">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
 
-# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="e1b3d-102">Så här aktiverar du koppling av kundreskontratransaktioner till olika valutor</span><span class="sxs-lookup"><span data-stu-id="e1b3d-102">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
-<span data-ttu-id="e1b3d-103">Om en valuta används vid inköp från en leverantör och en annan vid betalning kan du koppla betalningen till inköpet.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-103">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
+<span data-ttu-id="02b19-105">Om du säljer i en valuta och får betalt i en annan kan du koppla betalningen till försäljningsfakturan.</span><span class="sxs-lookup"><span data-stu-id="02b19-105">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
 
-<span data-ttu-id="e1b3d-104">Om du säljer i en valuta och får betalt i en annan kan du koppla betalningen till försäljningsfakturan.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-104">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
+<span data-ttu-id="02b19-106">Efterföljande proceduren beskriver hur du ställer in detta för leverantörsreskontratransaktioner i fönstret **Inköpsinställningar**.</span><span class="sxs-lookup"><span data-stu-id="02b19-106">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="02b19-107">Denna inställning liknar den för kundreskontratransaktioner i fönstret **Försäljningsinställningar**.</span><span class="sxs-lookup"><span data-stu-id="02b19-107">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
 
-<span data-ttu-id="e1b3d-105">Efterföljande proceduren beskriver hur du ställer in detta för leverantörsreskontratransaktioner i fönstret **Inköpsinställningar**.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-105">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="e1b3d-106">Denna inställning liknar den för kundreskontratransaktioner i fönstret **Försäljningsinställningar**.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-106">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
+## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="02b19-108">Så här aktiverar du koppling av leverantörsreskontratransaktioner i olika valutor</span><span class="sxs-lookup"><span data-stu-id="02b19-108">To enable application of vendor ledger entries in different currencies</span></span>
+1. <span data-ttu-id="02b19-109">Välj ikonen ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Inköpsinställningar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="02b19-109">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="02b19-110">I fältet **Koppling mellan valutor** markerar du ett av följande alternativ.</span><span class="sxs-lookup"><span data-stu-id="02b19-110">In the **Appln. between Currencies** field, select one of the following options.</span></span>
 
-## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="e1b3d-107">Så här aktiverar du koppling av leverantörsreskontratransaktioner i olika valutor</span><span class="sxs-lookup"><span data-stu-id="e1b3d-107">To enable application of vendor ledger entries in different currencies</span></span>
-1. <span data-ttu-id="e1b3d-108">Välj ikonen **Söka efter sida eller rapport** i det övre högra hörnet, gå till **Inköpsinställningar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-108">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
-2. <span data-ttu-id="e1b3d-109">I fältet **Koppling mellan valutor** markerar du ett av följande alternativ.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-109">In the **Appln. between Currencies** field, select one of the following options.</span></span>
+| <span data-ttu-id="02b19-111">Alternativ</span><span class="sxs-lookup"><span data-stu-id="02b19-111">Option</span></span> | <span data-ttu-id="02b19-112">Beskrivning</span><span class="sxs-lookup"><span data-stu-id="02b19-112">Description</span></span> |
+| --- | --- |
+| <span data-ttu-id="02b19-113">Ingen</span><span class="sxs-lookup"><span data-stu-id="02b19-113">None</span></span> |<span data-ttu-id="02b19-114">Koppling mellan valutor är inte tillåten.</span><span class="sxs-lookup"><span data-stu-id="02b19-114">Application between currencies is not allowed.</span></span> |
+| <span data-ttu-id="02b19-115">EMU</span><span class="sxs-lookup"><span data-stu-id="02b19-115">EMU</span></span> |<span data-ttu-id="02b19-116">Koppling mellan EMU-valutor är tillåten.</span><span class="sxs-lookup"><span data-stu-id="02b19-116">Application between EMU currencies is allowed.</span></span> |
+| <span data-ttu-id="02b19-117">Alla</span><span class="sxs-lookup"><span data-stu-id="02b19-117">All</span></span> |<span data-ttu-id="02b19-118">Koppling mellan alla valutor är tillåten.</span><span class="sxs-lookup"><span data-stu-id="02b19-118">Application between all currencies is allowed.</span></span> |
 
-|<span data-ttu-id="e1b3d-110">Alternativ</span><span class="sxs-lookup"><span data-stu-id="e1b3d-110">Option</span></span> |<span data-ttu-id="e1b3d-111">Beskrivning</span><span class="sxs-lookup"><span data-stu-id="e1b3d-111">Description</span></span> |
-|-------|------------|
-|<span data-ttu-id="e1b3d-112">Ingen</span><span class="sxs-lookup"><span data-stu-id="e1b3d-112">None</span></span>|<span data-ttu-id="e1b3d-113">Koppling mellan valutor är inte tillåten.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-113">Application between currencies is not allowed.</span></span>|
-|<span data-ttu-id="e1b3d-114">EMU</span><span class="sxs-lookup"><span data-stu-id="e1b3d-114">EMU</span></span>|<span data-ttu-id="e1b3d-115">Koppling mellan EMU-valutor är tillåten.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-115">Application between EMU currencies is allowed.</span></span>|
-|<span data-ttu-id="e1b3d-116">Alla</span><span class="sxs-lookup"><span data-stu-id="e1b3d-116">All</span></span>|<span data-ttu-id="e1b3d-117">Koppling mellan alla valutor är tillåten.</span><span class="sxs-lookup"><span data-stu-id="e1b3d-117">Application between all currencies is allowed.</span></span>
+## <a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><span data-ttu-id="02b19-119">Så här skapar du redovisningskonton för avrundningsdifferenser vid valutakoppling</span><span class="sxs-lookup"><span data-stu-id="02b19-119">To set up G/L accounts for currency application rounding differences</span></span>  
+<span data-ttu-id="02b19-120">Om du kopplar transaktioner till olika valutor måste du ange de redovisningskonton som du vill bokföra avrundningsdifferenserna på.</span><span class="sxs-lookup"><span data-stu-id="02b19-120">If you apply entries in different currencies, you must set up the general ledger accounts to which you want to post rounding differences.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="e1b3d-118">Se även</span><span class="sxs-lookup"><span data-stu-id="e1b3d-118">See Also</span></span>  
-[<span data-ttu-id="e1b3d-119">Hantera likviditet</span><span class="sxs-lookup"><span data-stu-id="e1b3d-119">Manage Payables</span></span>](payables-manage-payables.md)  
-[<span data-ttu-id="e1b3d-120">Hantera kundreskontra</span><span class="sxs-lookup"><span data-stu-id="e1b3d-120">Manage Receivables</span></span>](receivables-manage-receivables.md)
+> [!NOTE]  
+>  <span data-ttu-id="02b19-121">Du måste skapa redovisningskonton innan du slutför uppgiften.</span><span class="sxs-lookup"><span data-stu-id="02b19-121">You must set up the general ledger accounts before you complete the task.</span></span> <span data-ttu-id="02b19-122">Mer information finns i [Förstå redovisning och kontoplan](finance-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="02b19-122">For more information, see [Understanding the General Ledger and the Chart of Accounts](finance-general-ledger.md).</span></span>
+
+1. <span data-ttu-id="02b19-123">Välj ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Kundbokningsgruppen** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="02b19-123">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer Posting Groups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="02b19-124">Ange aktuella redovisningskonton för bokföring av avrundningsskillnader i fälten **Debet valutakopp. avrundning** och **Kredit valutakopp. avrundning**.</span><span class="sxs-lookup"><span data-stu-id="02b19-124">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+3. <span data-ttu-id="02b19-125">Välj ![Söka efter sida eller rapport](media/ui-search/search_small.png "ikonen Söka efter sida eller rapport"), ange **Leverantörsbokföringsmallar** och välj sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="02b19-125">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendor Posting Groups**, and then choose the related link.</span></span>  
+4. <span data-ttu-id="02b19-126">Ange aktuella redovisningskonton för bokföring av avrundningsskillnader i fälten **Debet valutakopp. avrundning** och **Kredit valutakopp. avrundning**.</span><span class="sxs-lookup"><span data-stu-id="02b19-126">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="02b19-127">Se även</span><span class="sxs-lookup"><span data-stu-id="02b19-127">See Also</span></span>
+[<span data-ttu-id="02b19-128">Hantera Leverantörsreskontra</span><span class="sxs-lookup"><span data-stu-id="02b19-128">Managing Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="02b19-129">Hantera kundreskontra</span><span class="sxs-lookup"><span data-stu-id="02b19-129">Managing Receivables</span></span>](receivables-manage-receivables.md)  
+<span data-ttu-id="02b19-130">[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="02b19-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

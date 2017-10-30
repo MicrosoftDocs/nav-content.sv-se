@@ -1,37 +1,42 @@
 ---
-title: "Förbereda årsbokslutsmeddelanden"
+title: "Översikt över rapporter för att förbereda årsbokslutsmeddelanden"
+description: "Ger en översikt över de rapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporte när du avslutar ett räkenskapsår."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 96f5cd1dd34803b10402fb547793ff6e8ad174c0
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 240fd8eb76a430ab3163ab4326c3c077df838cba
 ms.contentlocale: sv-se
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="prepare-closing-statements"></a><span data-ttu-id="bd069-102">Förbereda årsbokslutsmeddelanden</span><span class="sxs-lookup"><span data-stu-id="bd069-102">Prepare Closing Statements</span></span>
-<span data-ttu-id="bd069-103">Det finns ett antal standardrapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporter.</span><span class="sxs-lookup"><span data-stu-id="bd069-103">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
+# <a name="preparing-closing-statements"></a><span data-ttu-id="7d1db-103">Förbereda årsbokslutsrapporter</span><span class="sxs-lookup"><span data-stu-id="7d1db-103">Preparing Closing Statements</span></span>
+<span data-ttu-id="7d1db-104">Det finns ett antal standardrapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporter.</span><span class="sxs-lookup"><span data-stu-id="7d1db-104">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
 
-<span data-ttu-id="bd069-104">I tabellen nedan beskrivs ett antal rapporter som kan vara användbara i den här processen, med länkar till avsnitten där de beskrivs.</span><span class="sxs-lookup"><span data-stu-id="bd069-104">The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.</span></span>
+<span data-ttu-id="7d1db-105">I tabellen nedan beskrivs ett antal rapporter som kan vara användbara i den här processen, med länkar till avsnitten där de beskrivs.</span><span class="sxs-lookup"><span data-stu-id="7d1db-105">The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.</span></span>
 
-|<span data-ttu-id="bd069-105">Om du vill</span><span class="sxs-lookup"><span data-stu-id="bd069-105">To</span></span>     |<span data-ttu-id="bd069-106">Se den här rapporten</span><span class="sxs-lookup"><span data-stu-id="bd069-106">See this report</span></span>                  |
-|-------|---------------------------------|
-|<span data-ttu-id="bd069-107">skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton.</span><span class="sxs-lookup"><span data-stu-id="bd069-107">Print a trial balance report with balances and net changes for general ledger accounts.</span></span>|<span data-ttu-id="bd069-108">Råbalans</span><span class="sxs-lookup"><span data-stu-id="bd069-108">Trial Balance</span></span>|
-|<span data-ttu-id="bd069-109">få en översikt över kundfordringarna, med åldern på de utestående beloppen beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.</span><span class="sxs-lookup"><span data-stu-id="bd069-109">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span>|<span data-ttu-id="bd069-110">Kundfordringar - ålder</span><span class="sxs-lookup"><span data-stu-id="bd069-110">Aged Accounts Receivable</span></span>|
-|<span data-ttu-id="bd069-111">få en översikt över leverantörsskulderna, med åldern på beloppen som ska betalas beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.</span><span class="sxs-lookup"><span data-stu-id="bd069-111">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span>|<span data-ttu-id="bd069-112">Lev.skulder - ålder</span><span class="sxs-lookup"><span data-stu-id="bd069-112">Aged Accounts Payable</span></span>|
-|<span data-ttu-id="bd069-113">jämföra råbalansen med en budget.</span><span class="sxs-lookup"><span data-stu-id="bd069-113">Compare the trial balance with a budget.</span></span>|<span data-ttu-id="bd069-114">Råbalans/Budget</span><span class="sxs-lookup"><span data-stu-id="bd069-114">Trial Balance/Budget</span></span>|
-|<span data-ttu-id="bd069-115">skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton beräknade för de perioder du valt.</span><span class="sxs-lookup"><span data-stu-id="bd069-115">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span>|<span data-ttu-id="bd069-116">Råbalans per period</span><span class="sxs-lookup"><span data-stu-id="bd069-116">Trial Balance by Period</span></span>|
-|<span data-ttu-id="bd069-117">skriva ut en kontouppställning för att analysera siffror för redovisningskonton eller jämföra faktiska redovisningstransaktioner med redovisningsbudgettransaktioner.</span><span class="sxs-lookup"><span data-stu-id="bd069-117">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span>|<span data-ttu-id="bd069-118">Kontouppställning</span><span class="sxs-lookup"><span data-stu-id="bd069-118">Account Schedule</span></span>|
-|<span data-ttu-id="bd069-119">kontrollera om kund- och leverantörsreskontratransaktioner stämmer överens med motsvarande redovisningstransaktioner.</span><span class="sxs-lookup"><span data-stu-id="bd069-119">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span>|<span data-ttu-id="bd069-120">Avstäm kund-</span><span class="sxs-lookup"><span data-stu-id="bd069-120">Reconcile Cust.</span></span> <span data-ttu-id="bd069-121">och lev.konton</span><span class="sxs-lookup"><span data-stu-id="bd069-121">and Vend.</span></span> <span data-ttu-id="bd069-122">Tillgång</span><span class="sxs-lookup"><span data-stu-id="bd069-122">Accs</span></span>|
+| <span data-ttu-id="7d1db-106">Om du vill</span><span class="sxs-lookup"><span data-stu-id="7d1db-106">To</span></span> | <span data-ttu-id="7d1db-107">Se den här rapporten</span><span class="sxs-lookup"><span data-stu-id="7d1db-107">See this report</span></span> |
+| --- | --- |
+| <span data-ttu-id="7d1db-108">skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton.</span><span class="sxs-lookup"><span data-stu-id="7d1db-108">Print a trial balance report with balances and net changes for general ledger accounts.</span></span> |<span data-ttu-id="7d1db-109">Råbalans</span><span class="sxs-lookup"><span data-stu-id="7d1db-109">Trial Balance</span></span> |
+| <span data-ttu-id="7d1db-110">få en översikt över kundfordringarna, med åldern på de utestående beloppen beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.</span><span class="sxs-lookup"><span data-stu-id="7d1db-110">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span> |<span data-ttu-id="7d1db-111">Kundfordringar - ålder</span><span class="sxs-lookup"><span data-stu-id="7d1db-111">Aged Accounts Receivable</span></span> |
+| <span data-ttu-id="7d1db-112">få en översikt över leverantörsskulderna, med åldern på beloppen som ska betalas beräknad från förfallodatumet, bokföringsdatumet eller dokumentdatumet.</span><span class="sxs-lookup"><span data-stu-id="7d1db-112">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span> |<span data-ttu-id="7d1db-113">Lev.skulder - ålder</span><span class="sxs-lookup"><span data-stu-id="7d1db-113">Aged Accounts Payable</span></span> |
+| <span data-ttu-id="7d1db-114">jämföra råbalansen med en budget.</span><span class="sxs-lookup"><span data-stu-id="7d1db-114">Compare the trial balance with a budget.</span></span> |<span data-ttu-id="7d1db-115">Råbalans/Budget</span><span class="sxs-lookup"><span data-stu-id="7d1db-115">Trial Balance/Budget</span></span> |
+| <span data-ttu-id="7d1db-116">skriva ut en råbalansrapport med saldon och nettoförändringar för redovisningskonton beräknade för de perioder du valt.</span><span class="sxs-lookup"><span data-stu-id="7d1db-116">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span> |<span data-ttu-id="7d1db-117">Råbalans per period</span><span class="sxs-lookup"><span data-stu-id="7d1db-117">Trial Balance by Period</span></span> |
+| <span data-ttu-id="7d1db-118">skriva ut en kontouppställning för att analysera siffror för redovisningskonton eller jämföra faktiska redovisningstransaktioner med redovisningsbudgettransaktioner.</span><span class="sxs-lookup"><span data-stu-id="7d1db-118">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span> |<span data-ttu-id="7d1db-119">Kontouppställning</span><span class="sxs-lookup"><span data-stu-id="7d1db-119">Account Schedule</span></span> |
+| <span data-ttu-id="7d1db-120">kontrollera om kund- och leverantörsreskontratransaktioner stämmer överens med motsvarande redovisningstransaktioner.</span><span class="sxs-lookup"><span data-stu-id="7d1db-120">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span> |<span data-ttu-id="7d1db-121">Stäm av kund- och lev.konton</span><span class="sxs-lookup"><span data-stu-id="7d1db-121">Reconcile Cust. and Vend. Accs</span></span> |
 
-<span data-ttu-id="bd069-123">Om du vill se en rapport väljer du ikonen **Sök efter sida eller rapport**, anger namnet som det visas i tabellen och väljer sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="bd069-123">To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.</span></span>
+<span data-ttu-id="7d1db-122">Om du vill se en rapport väljer du ikonen ![Sök efter sida eller rapport](media/ui-search/search_small.png "ikonen Sök efter sida eller rapport") anger namnet som det visas i tabellen och väljer sedan relaterad länk.</span><span class="sxs-lookup"><span data-stu-id="7d1db-122">To see a report, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, type the name as it appears in the table, and then choose the related link.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="bd069-124">Se även</span><span class="sxs-lookup"><span data-stu-id="bd069-124">See Also</span></span>
-[<span data-ttu-id="bd069-125">Avsluta år och perioder</span><span class="sxs-lookup"><span data-stu-id="bd069-125">Close Years and Periods</span></span>](year-close-years-periods.md)
+## <a name="see-also"></a><span data-ttu-id="7d1db-123">Se även</span><span class="sxs-lookup"><span data-stu-id="7d1db-123">See Also</span></span>
+[<span data-ttu-id="7d1db-124">Avsluta år och perioder</span><span class="sxs-lookup"><span data-stu-id="7d1db-124">Closing Years and Periods</span></span>](year-close-years-periods.md)  
+<span data-ttu-id="7d1db-125">[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="7d1db-125">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="7d1db-126">Affärsstöd</span><span class="sxs-lookup"><span data-stu-id="7d1db-126">Business Intelligence</span></span>](bi.md)
 

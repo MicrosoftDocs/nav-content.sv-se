@@ -1,40 +1,51 @@
 ---
-title: "Ange skrivarval för rapporter"
+title: "Skapa rapporter som ska skrivas ut på en viss skrivare"
+description: "Lär dig att ange en skrivare för en rapport och använda fönstret Skrivarval."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 56a5c1428651162293e56d71e2369fe55d291594
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: sv-se
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="3d49a-102">Ange skrivarval för rapporter</span><span class="sxs-lookup"><span data-stu-id="3d49a-102">Specify Printer Selection for Reports</span></span>
-<span data-ttu-id="3d49a-103">Du kan ställa in rapporter så att de måste skrivas ut på en viss skrivare.</span><span class="sxs-lookup"><span data-stu-id="3d49a-103">You can set up reports so that they must be printed on a specific printer.</span></span> <span data-ttu-id="3d49a-104">Följande är några användningsområden för skrivarurvalet:</span><span class="sxs-lookup"><span data-stu-id="3d49a-104">The following are some uses of printer selection:</span></span> 
+# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="4a7ee-103">Ange skrivarval för rapporter</span><span class="sxs-lookup"><span data-stu-id="4a7ee-103">Specify Printer Selection for Reports</span></span>
+<span data-ttu-id="4a7ee-104">Den här sidan är tom eftersom du inte har lagt upp särskilda skrivare för specifika rapporter.</span><span class="sxs-lookup"><span data-stu-id="4a7ee-104">This page is empty because you cannot yet set up specific printers for specific reports.</span></span> <span data-ttu-id="4a7ee-105">Vi arbetar på att lösa detta.</span><span class="sxs-lookup"><span data-stu-id="4a7ee-105">We are working on solving this.</span></span>
 
-- <span data-ttu-id="3d49a-105">Du kan skriva ut rapporter på ett särskilt företagsbrevhuvud.</span><span class="sxs-lookup"><span data-stu-id="3d49a-105">You can print reports on special company letterhead.</span></span>
-- <span data-ttu-id="3d49a-106">Du kan skriva ut rapporter i olika pappersstorlekar.</span><span class="sxs-lookup"><span data-stu-id="3d49a-106">You can print reports on different paper sizes.</span></span>
-- <span data-ttu-id="3d49a-107">Du kan skriva ut rapporter på standardskrivaren för en viss anställd.</span><span class="sxs-lookup"><span data-stu-id="3d49a-107">You can print reports on the default printer of a specified employee.</span></span>
+<span data-ttu-id="4a7ee-106">Under tiden när du vill skriva ut en rapport måste du hämta rapporten som ett PDF-dokument först genom att välja knappen **skicka till**.</span><span class="sxs-lookup"><span data-stu-id="4a7ee-106">In the meantime, when you want to print a report, you have to download the report as a PDF document first by choosing the **Send to** button.</span></span> <span data-ttu-id="4a7ee-107">Sedan väljer du vilken typ av fil du vill ladda ner rapporten som, och här bör du välja **PDF-dokument**.</span><span class="sxs-lookup"><span data-stu-id="4a7ee-107">Then you select the type of file to download the report as, and here you should pick **PDF Document**.</span></span> <span data-ttu-id="4a7ee-108">Nu kan du antingen öppna det PDF-dokumentet på en gång och skriva ut det, eller spara det och skriva ut det senare.</span><span class="sxs-lookup"><span data-stu-id="4a7ee-108">Now, you can either open the PDF document right-away and print it, or save it and print it later.</span></span>
 
-<span data-ttu-id="3d49a-108">Du använder fönstret **Skrivarval** för att ange olika värden för att få olika utflöden.</span><span class="sxs-lookup"><span data-stu-id="3d49a-108">You use the **Printer Selections** window to set different values to obtain different output.</span></span> <span data-ttu-id="3d49a-109">Om du anger ett visst skrivarval, får det sedan företräde framför mer allmänna skrivarval.</span><span class="sxs-lookup"><span data-stu-id="3d49a-109">If you set a specific printer selection, then it takes precedence over a more general printer selection.</span></span> <span data-ttu-id="3d49a-110">Du kan till exempel ange ett skrivarval som har värdena i fälten **Användar-ID**, **Rapport-ID**, och **Skrivarnamn**.</span><span class="sxs-lookup"><span data-stu-id="3d49a-110">For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields.</span></span> <span data-ttu-id="3d49a-111">Det här skrivarvalet åsidosätter det skrivarval som har tomma transaktioner i fälten **Användar-ID** , eller **Rapport-ID**.</span><span class="sxs-lookup"><span data-stu-id="3d49a-111">This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.</span></span> 
+<!--
 
-<span data-ttu-id="3d49a-112">I följande tabell beskrivs kombinationen av värdena för att ange när du lägger upp skrivarval för en rapport.</span><span class="sxs-lookup"><span data-stu-id="3d49a-112">The following table describes the combination of values to specify when you set up printer selections for a report.</span></span>
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|<span data-ttu-id="3d49a-113">Om du vill</span><span class="sxs-lookup"><span data-stu-id="3d49a-113">To</span></span>                                                 |<span data-ttu-id="3d49a-114">Ange följande värden</span><span class="sxs-lookup"><span data-stu-id="3d49a-114">Set the following values</span></span>                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|<span data-ttu-id="3d49a-115">Skriva ut en rapport till en viss skrivare för alla användare</span><span class="sxs-lookup"><span data-stu-id="3d49a-115">Print a report to a specific printer for all users</span></span> |<span data-ttu-id="3d49a-116">Ange värden i fälten **Rapport-ID**, och **Skrivarnamn** och lämna fältet **Användar-ID** tomt.</span><span class="sxs-lookup"><span data-stu-id="3d49a-116">Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.</span></span>|
-|<span data-ttu-id="3d49a-117">Skriva ut alla rapporter till en viss skrivare för en specifik användare</span><span class="sxs-lookup"><span data-stu-id="3d49a-117">Print all reports to a specific printer for a specific user</span></span>|<span data-ttu-id="3d49a-118">Ange värden i fälten **Användar-ID**, och **Skrivarnamn** och lämna fältet **Rapport-ID** tomt.</span><span class="sxs-lookup"><span data-stu-id="3d49a-118">Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.</span></span>|
-|<span data-ttu-id="3d49a-119">Ange standardskrivaren för alla rapporter</span><span class="sxs-lookup"><span data-stu-id="3d49a-119">Set the default printer for all reports</span></span>|<span data-ttu-id="3d49a-120">Ange ett värde i fälten **Skrivarnamn** och lämna fältet **Användar-ID** och **Rapport-ID** tomma.</span><span class="sxs-lookup"><span data-stu-id="3d49a-120">Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.</span></span>|
-|<span data-ttu-id="3d49a-121">Skriva ut en viss rapport till användarens standardskrivare</span><span class="sxs-lookup"><span data-stu-id="3d49a-121">Print a specific report to the user’s default printer</span></span>|<span data-ttu-id="3d49a-122">Ange ett värde i fälten **Rapport-ID** och lämna fältet **Skrivarnamn** och **Användar-ID** tomma.</span><span class="sxs-lookup"><span data-stu-id="3d49a-122">Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.</span></span>|
-|<span data-ttu-id="3d49a-123">Skriva ut en viss rapport till en viss skrivare till en viss användare</span><span class="sxs-lookup"><span data-stu-id="3d49a-123">Print a specific report to a specific printer for a specific user</span></span>|<span data-ttu-id="3d49a-124">Ange värden i samtliga tre fält.</span><span class="sxs-lookup"><span data-stu-id="3d49a-124">Specify values in all three fields.</span></span>|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
-## <a name="see-also"></a><span data-ttu-id="3d49a-125">Se även</span><span class="sxs-lookup"><span data-stu-id="3d49a-125">See Also</span></span>
-[<span data-ttu-id="3d49a-126">Arbeta med Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="3d49a-126">Work with Dynamics NAV</span></span>](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="4a7ee-109">Se även</span><span class="sxs-lookup"><span data-stu-id="4a7ee-109">See Also</span></span>
+<span data-ttu-id="4a7ee-110">[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="4a7ee-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="4a7ee-111">Så här kör du batch-jobb</span><span class="sxs-lookup"><span data-stu-id="4a7ee-111">How to: Run Batch Jobs</span></span>](ui-how-run-batch-jobs.md)  
+[<span data-ttu-id="4a7ee-112">Så här skickar du dokument som e-post</span><span class="sxs-lookup"><span data-stu-id="4a7ee-112">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
 

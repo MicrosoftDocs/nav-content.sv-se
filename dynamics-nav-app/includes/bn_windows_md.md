@@ -1,1 +1,1 @@
-<span data-ttu-id="b0546-101">Välj underposterna i innehållsförteckningen i avsnittet för att visa fönsterämnen.</span><span class="sxs-lookup"><span data-stu-id="b0546-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>
+<span data-ttu-id="65fe4-101">Välj underposterna i innehållsförteckningen i avsnittet för att visa fönsterämnen.</span><span class="sxs-lookup"><span data-stu-id="65fe4-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

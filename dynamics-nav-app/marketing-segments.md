@@ -1,37 +1,41 @@
 ---
-title: Hantera segment
+title: "Hantera segment och välj kontakter att inkludera"
+description: "Definierar uppgifter för att skapa ett segment om du vill välja en grupp med kontakter enligt ett visst kriterium, till exempel kontakter i en viss bransch som du vill använda."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 41e109cc6c8562d179aeba10ec25b9e4c9dbc545
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 8b3dffa99968e2ce61df737ddcbf52798b04d850
 ms.contentlocale: sv-se
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="manage-segments"></a><span data-ttu-id="d0be6-102">Hantera segment</span><span class="sxs-lookup"><span data-stu-id="d0be6-102">Manage Segments</span></span>
-<span data-ttu-id="d0be6-103">Du kan skapa segment om du vill välja ut en grupp med kontakter enligt ett visst kriterium.</span><span class="sxs-lookup"><span data-stu-id="d0be6-103">You create segments to select a group of contacts according to specific criteria.</span></span> <span data-ttu-id="d0be6-104">Ett segment kan t.ex. vara en bransch som kontakterna tillhör eller dina affärsrelationer med kontakterna.</span><span class="sxs-lookup"><span data-stu-id="d0be6-104">For example, a segment could be the industry that the contacts belong to or your business relationship with the contacts.</span></span> <span data-ttu-id="d0be6-105">Du kan också skapa ett segment om du vill vilja ut vilka kontakter som är målgruppen för en kampanj.</span><span class="sxs-lookup"><span data-stu-id="d0be6-105">You can create a segment to select the contacts you want to target with a campaign.</span></span>
+# <a name="managing-segments"></a><span data-ttu-id="3dd8b-103">Hantera segment</span><span class="sxs-lookup"><span data-stu-id="3dd8b-103">Managing Segments</span></span>
+<span data-ttu-id="3dd8b-104">Du kan skapa segment om du vill välja ut en grupp med kontakter enligt ett visst kriterium.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-104">You create segments to select a group of contacts according to specific criteria.</span></span> <span data-ttu-id="3dd8b-105">Ett segment kan t.ex. vara en bransch som kontakterna tillhör eller dina affärsrelationer med kontakterna.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-105">For example, a segment could be the industry that the contacts belong to or your business relationship with the contacts.</span></span> <span data-ttu-id="3dd8b-106">Du kan också skapa ett segment om du vill vilja ut vilka kontakter som är målgruppen för en kampanj.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-106">You can create a segment to select the contacts you want to target with a campaign.</span></span>
 
-<span data-ttu-id="d0be6-106">Det finns två huvuduppgifter i ett segment:</span><span class="sxs-lookup"><span data-stu-id="d0be6-106">There are two main tasks in creating a segment:</span></span>
+<span data-ttu-id="3dd8b-107">Det finns två huvuduppgifter i ett segment:</span><span class="sxs-lookup"><span data-stu-id="3dd8b-107">There are two main tasks in creating a segment:</span></span>
 
-* <span data-ttu-id="d0be6-107">Ange allmän information om segmentet.</span><span class="sxs-lookup"><span data-stu-id="d0be6-107">Enter general information about the segment.</span></span> <span data-ttu-id="d0be6-108">Innan du kan välja kontakter i segmentet måste du först skapa segmentet.</span><span class="sxs-lookup"><span data-stu-id="d0be6-108">Before you can select the contacts within the segment, you must first create the segment.</span></span>
-* <span data-ttu-id="d0be6-109">Välj vilka kontakter som ska ingå i segmentet.</span><span class="sxs-lookup"><span data-stu-id="d0be6-109">Select the contacts to be included within the segment.</span></span>
+* <span data-ttu-id="3dd8b-108">Ange allmän information om segmentet.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-108">Enter general information about the segment.</span></span> <span data-ttu-id="3dd8b-109">Innan du kan välja kontakter i segmentet måste du först skapa segmentet.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-109">Before you can select the contacts within the segment, you must first create the segment.</span></span>
+* <span data-ttu-id="3dd8b-110">Välj vilka kontakter som ska ingå i segmentet.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-110">Select the contacts to be included within the segment.</span></span>
 
-<span data-ttu-id="d0be6-110">I följande tabell beskrivs en serie uppgifter, med länkar till de avsnitt där de beskrivs.</span><span class="sxs-lookup"><span data-stu-id="d0be6-110">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span> <span data-ttu-id="d0be6-111">Uppgifterna står i den ordning de normalt utförs.</span><span class="sxs-lookup"><span data-stu-id="d0be6-111">These tasks are listed in the order in which they are generally performed.</span></span>
+<span data-ttu-id="3dd8b-111">I följande tabell beskrivs en serie uppgifter, med länkar till de avsnitt där de beskrivs.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-111">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span> 
 
-|<span data-ttu-id="d0be6-112">Om du vill</span><span class="sxs-lookup"><span data-stu-id="d0be6-112">To</span></span> |<span data-ttu-id="d0be6-113">Gå till</span><span class="sxs-lookup"><span data-stu-id="d0be6-113">See</span></span> |
-|---|----|
-|<span data-ttu-id="d0be6-114">Skapa segment som gör att du kan välja en grupp kontakter.</span><span class="sxs-lookup"><span data-stu-id="d0be6-114">Create segments which allow you to select a group of contacts.</span></span> <span data-ttu-id="d0be6-115">Till exempel direktutskick.</span><span class="sxs-lookup"><span data-stu-id="d0be6-115">For example, direct mail.</span></span>|[<span data-ttu-id="d0be6-116">Så här skapar du segment</span><span class="sxs-lookup"><span data-stu-id="d0be6-116">How to: Create Segments</span></span>](marketing-how-create-segment.md)|
-|<span data-ttu-id="d0be6-117">Hantera de kontakter som har tilldelats segment.</span><span class="sxs-lookup"><span data-stu-id="d0be6-117">Manage the contacts that are assigned to segments.</span></span>|[<span data-ttu-id="d0be6-118">Så här lägger du till kontakter i segment</span><span class="sxs-lookup"><span data-stu-id="d0be6-118">How to: Add Contacts to Segments</span></span>](marketing-add-contact-segment.md)|
-|<span data-ttu-id="d0be6-119">Lära dig att använda interaktioner och segment, inklusive loggning.</span><span class="sxs-lookup"><span data-stu-id="d0be6-119">Learn about using interactions and segments, including logging.</span></span>|[<span data-ttu-id="d0be6-120">Interaktion och segment</span><span class="sxs-lookup"><span data-stu-id="d0be6-120">Interaction and Segments</span></span>](marketing-interaction-segments.md)|
+| <span data-ttu-id="3dd8b-112">Till</span><span class="sxs-lookup"><span data-stu-id="3dd8b-112">To</span></span> | <span data-ttu-id="3dd8b-113">Gå till</span><span class="sxs-lookup"><span data-stu-id="3dd8b-113">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="3dd8b-114">Skapa segment som gör att du kan välja en grupp kontakter.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-114">Create segments which allow you to select a group of contacts.</span></span> <span data-ttu-id="3dd8b-115">Till exempel direktutskick.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-115">For example, direct mail.</span></span> |[<span data-ttu-id="3dd8b-116">Så här skapar du segment</span><span class="sxs-lookup"><span data-stu-id="3dd8b-116">How to: Create Segments</span></span>](marketing-how-create-segment.md) |
+| <span data-ttu-id="3dd8b-117">Hantera de kontakter som har tilldelats segment.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-117">Manage the contacts that are assigned to segments.</span></span> |[<span data-ttu-id="3dd8b-118">Så här lägger du till kontakter i segment</span><span class="sxs-lookup"><span data-stu-id="3dd8b-118">How to: Add Contacts to Segments</span></span>](marketing-add-contact-segment.md) |
+| <span data-ttu-id="3dd8b-119">Lära dig att använda interaktioner och segment, inklusive loggning.</span><span class="sxs-lookup"><span data-stu-id="3dd8b-119">Learn about using interactions and segments, including logging.</span></span> |[<span data-ttu-id="3dd8b-120">Hantera interaktioner för segment</span><span class="sxs-lookup"><span data-stu-id="3dd8b-120">Managing Interaction and Segments</span></span>](marketing-interaction-segments.md) |
 
-##<a name="see-also"></a><span data-ttu-id="d0be6-121">Se även</span><span class="sxs-lookup"><span data-stu-id="d0be6-121">See Also</span></span>
-[<span data-ttu-id="d0be6-122">Hantera Försäljningsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="d0be6-122">Manage Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)  
-[<span data-ttu-id="d0be6-123">Hantera kontakter</span><span class="sxs-lookup"><span data-stu-id="d0be6-123">Manage Contacts</span></span>](marketing-contacts.md)
+## <a name="see-also"></a><span data-ttu-id="3dd8b-121">Se även</span><span class="sxs-lookup"><span data-stu-id="3dd8b-121">See Also</span></span>
+[<span data-ttu-id="3dd8b-122">Hantera Försäljningsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="3dd8b-122">Managing Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)  
+[<span data-ttu-id="3dd8b-123">Hantera kontakter</span><span class="sxs-lookup"><span data-stu-id="3dd8b-123">Managing Contacts</span></span>](marketing-contacts.md)  
+<span data-ttu-id="3dd8b-124">[Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="3dd8b-124">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
