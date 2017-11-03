@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, configure
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 620d8d2fcdc62249ce5bad6718519211e50cdbac
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="setting-up-sales"></a>Konfigurera försäljning
@@ -35,7 +35,7 @@ Finansrelaterade försäljningar, till exempel betalningssätt och valutor, besk
 | Skapa säljare så att du kan tilldela dem till kundkontakter eller mät säljares prestanda som grund för att beräkna deras försäljningprovision eller bonus. |[Så här skapar du säljare](sales-how-setup-salespeople.md) |
 | Ange hur försäljningsdokument ska skickas som standard för enskilda kunder eller för alla kunder när du väljer åtgärden **Bokför och skicka**. |[Så här konfigurerar du dokumentutskicksprofiler](sales-how-setup-document-send-profiles.md) |
 | Konfigurera din e-post så att den innehåller en sammanfattning av informationen på försäljningsdokumentet som har skickats. |[Så här skickar du dokument som e-post](ui-how-send-documents-email.md). |
-|Du kan använda en EU-webbtjänst för att kontrollera kundens momsregistreringsnummer.|[Gör så här: Kontrollera momsregistreringsnummer](sales-how-to-verify-vat-registration-numbers.md)|
+|Du kan använda en EU-webbtjänst för att kontrollera kundens momsregistreringsnummer.|[Gör så här: Kontrollera momsregistreringsnummer](finance-setup-vat.md)|
 |Ange information om de olika transportleverantörerna som du använder, bland annat en länk till deras godsupplysningstjänst.|[Så här lägger du upp speditörer](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>Se även

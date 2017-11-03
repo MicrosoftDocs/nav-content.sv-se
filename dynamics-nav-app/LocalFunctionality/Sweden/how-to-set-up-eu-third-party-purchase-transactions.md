@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 944e9b5a84dd8ee2ad98cff06b3da3705637aa2a
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 430b8fb3066f2638919e8afa1db685b34f6936e6
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-set-up-eu-third-party-purchase-transactions"></a>Så här ställer du in inköpstransaktioner för tredje part från EU-land
@@ -29,7 +29,6 @@ EU trepartshandel sker när du tar emot en inköpsfaktura från en kund som finn
 4.  Välj knappen **OK**.  
 
 ## <a name="see-also"></a>Se även  
- [Moms- och kvartalsredovisning 1](-$-r_19-vat-vies-declaration-tax-auth-$-1.md)   
  [Så här: rapportera moms till skattemyndigheterna](../../finance-how-report-vat.md)   
  [Lokal funktionalitet för Sverige](sweden-local-functionality.md)
 
