@@ -19,7 +19,6 @@
 ## [Anpassa Dynamics NAV](ui-customizing-overview.md)
 ## [Låta Dynamics NAV föreslå värden](ui-let-system-suggest-values.md)
 ## [Skriva ut en rapport](ui-work-report.md#PrintReport)
-## [Videofilmer om vanliga uppgifter](across-videos.md)
 ## [Språk och språkvarianter](about-locale-language.md)  
 ## [Språk för Docs](about-languages.md)
 
@@ -52,7 +51,6 @@
 ### [Så här skapar du säljare](sales-how-setup-salespeople.md)
 ### [Så här konfigurerar du dokumentutskicksprofiler](sales-how-setup-document-send-profiles.md)
 ### [Så här skickar du dokument som e-post](ui-how-send-documents-email.md)
-### [Gör så här: Kontrollera momsregistreringsnummer](sales-how-to-verify-vat-registration-numbers.md)
 ### [Så här lägger du upp speditörer](sales-how-to-set-up-shipping-agents.md)
 ## [Ställa in inköp](purchasing-setup-purchasing.md)
 ### [Så här registrerar du nya leverantörer](purchasing-how-register-new-vendors.md)
@@ -179,6 +177,7 @@
 ## [Så här: omvandla servicekontrakt som innehåller momsbelopp](service-how-to-convert-service-contracts.md)
 ## [Analysera finansiella rapporter i Excel](finance-analyze-excel.md)
 ## [Analysera transaktioner i företaget](finance-analyze-cash-flow.md)
+## [Så här skriver du ut en kundremissa](finance-how-to-print-remittance-advice.md)
 ## [Avsluta år och perioder](year-close-years-periods.md)
 ### [Så här anger du bokföringsperioder](finance-how-specify-posting-periods.md)
 ### [Avsluta perioder](year-how-complete-period-end-processes.md)
@@ -259,7 +258,7 @@
 ## [Hantera segment](marketing-segments.md)
 ## [Registrera interaktioner](marketing-interactions.md)
 ## [Hantera Försäljningsmöjligheter](marketing-manage-sales-opportunities.md)
-## [Hantera dina kundrelationer med Dynamics 365 for Sales från insidan av Dynamics NAV](marketing-integrate-dynamicscrm.md)
+## [Hantera kunder och försäljningsorder som har skapats i Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)
 
 # [Personal](hr-manage-human-resources.md)
 ## [Så här registrerar du personal](hr-how-register-employees.md)
