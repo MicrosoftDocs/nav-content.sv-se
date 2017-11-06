@@ -1,6 +1,6 @@
 ---
-title: "AnvÃ¤nda tillÃ¤gget GetAddress.io fÃ¶r postnummer i Storbritannien"
-description: "HÃ¤mta adresser fÃ¶r enheter som kunder, leverantÃ¶rer, medarbetare och banker i Storbritannien frÃ¥n tjÃ¤nsten GetAddress.io."
+title: "Använda tillägget GetAddress.io för postnummer i Storbritannien"
+description: "Hämta adresser för enheter som kunder, leverantörer, medarbetare och banker i Storbritannien från tjänsten GetAddress.io."
 documentationcenter: 
 author: bholtorf
 ms.prod: dynamics-nav-2017
@@ -19,21 +19,19 @@ ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>TillÃ¤gget GetAddress.io fÃ¶r postnummer i Storbritannien till Microsoft Dynamics NAV
-TillÃ¤gget GetAddress.io fÃ¶r postnummer i Storbritannien kan spara tid och att undvika misstag nÃ¤r du anger adresser fÃ¶r enheter som t.ex. kunder, leverantÃ¶rer, bankkonton och anstÃ¤llda. Exempelvis nÃ¤r du skapar en kund kan du bara vÃ¤lja ett postnummer och [!INCLUDE[d365fin](includes/d365fin_md.md)] visas en lista Ã¶ver adresser. VÃ¤lj Ã¶nskad adress och presto, adressfÃ¤lt fylls i.  
+# <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>Tillägget GetAddress.io för postnummer i Storbritannien till Microsoft Dynamics NAV
+Tillägget GetAddress.io för postnummer i Storbritannien kan spara tid och att undvika misstag när du anger adresser för enheter som t.ex. kunder, leverantörer, bankkonton och anställda. Exempelvis när du skapar en kund kan du bara välja ett postnummer och [!INCLUDE[d365fin](includes/d365fin_md.md)] visas en lista över adresser. Välj önskad adress och presto, adressfält fylls i.  
 
-##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>SÃ¥ hÃ¤r anvÃ¤nder du tillÃ¤gget GetAddress.io fÃ¶r postnummer i Storbritannien nÃ¤r du anger en adress
-1. Under **adress** vÃ¤ljer du **sÃ¶ka efter en adress frÃ¥n postnummer**.  
+##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Så här använder du tillägget GetAddress.io för postnummer i Storbritannien när du anger en adress
+1. Under **adress** väljer du **söka efter en adress från postnummer**.  
 
     > [!NOTE]  
->   Alternativet **SÃ¶k adressen frÃ¥n postnummer** Ã¤r endast tillgÃ¤ngligt om fÃ¤ltet **lands-/ regionkod** antingen Ã¤r tomt eller innehÃ¥ller **GB**.
-2. I fÃ¶nstret **PostnummersÃ¶kning** i fÃ¤ltet **postnummer** anger du eller vÃ¤ljer postnummer.  
-3. I fÃ¶nstret **Adressval** vÃ¤ljer du adressen.  
+>   Alternativet **Sök adressen från postnummer** är endast tillgängligt om fältet **lands-/ regionkod** antingen är tomt eller innehåller **GB**.
+2. I fönstret **Postnummersökning** i fältet **postnummer** anger du eller väljer postnummer.  
+3. I fönstret **Adressval** väljer du adressen.  
 
 > [!TIP]  
->   Om du vet gatunumret kan du filtrera adresserna genom att ange hela eller delar av numret i fÃ¤ltet **Leveranspunkt**.
+>   Om du vet gatunumret kan du filtrera adresserna genom att ange hela eller delar av numret i fältet **Leveranspunkt**.
 
 
-## <a name="see-also"></a>Se Ã¤ven
-[StÃ¤ll in tillÃ¤gget GetAddress.io fÃ¶r postnummer i Storbritannien](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
