@@ -60,12 +60,6 @@ Funderar du på att prenumerera? Du kan enkelt byta från demonstrationsföretag
 
 Om du vill skapa ett företag för att testa saker går du till menyn **Mina inställningar** i det övre högra hörnet och ändrar företag till **mitt företag**. Logga ut från [!INCLUDE[d365fin](includes/d365fin_md.md)] och logga sedan in igen för att ändringen ska börja gälla. En assisterade konfigurationsguide hjälper dig att ange grundläggande information om företaget. När det är klart kan du titta närmare på sidan och söka efter åtgärden **Assisterad konfiguration**.  
 
-## <a name="ready-to-subscribe"></a>Klar att prenumerera?
-Varje gång du loggar in under provperioden, visas ett meddelande i ett blått fält längst upp återstående tid. Om du vill prenumerera, använder du länken i meddelandet för att kontakta Microsoft. Du kan även kontakta [!INCLUDE[d365fin](includes/d365fin_md.md)]-försäljningsteamet på [Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707).  
-
-## <a name="other-dynamics-nav-apps"></a>Andra Dynamics NAV-appar
-Gå till information om andra Dynamics NAV-appar genom att välja [Dynamics NAV](https://docs.microsoft.com/dynamics365)-länk i den blå banderollen längst upp på sidan. Det finns också mer på [Dynamics NAV webbplats](https://www.microsoft.com/en-us/dynamics365/).
-
 ## <a name="see-also"></a>Se även
 [Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Ställa in [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
@@ -73,9 +67,4 @@ Gå till information om andra Dynamics NAV-appar genom att välja [Dynamics NAV]
 [Anpassa [!INCLUDE[d365fin](includes/d365fin_md.md)] med tillägg](ui-extensions.md)  
 [Använda [!INCLUDE[d365fin](includes/d365fin_md.md)] som min företagsinkorg i Outlook](madeira-outlook.md)  
 [Få [!INCLUDE[d365fin](includes/d365fin_md.md)] på din mobila enhet](install-mobile-app.md)  
-Dokumentation om [Microsoft Dynamics NAV](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
-[roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
-[Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707)  
-
-##
 
