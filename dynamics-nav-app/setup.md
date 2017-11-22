@@ -57,5 +57,3 @@ Vissa områden kräver att du är administratör i din [!INCLUDE[d365fin](includ
 [Installation och administration i [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Välkommen till [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
