@@ -3,7 +3,7 @@ title: "Lokal funktionalitet för Sverige"
 description: "I följande avsnitt beskrivs den lokala funktionaliteten i den svenska versionen av [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 171a0ff535985ae8ec551d21ba30e35f27090961
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6bcf9eee75f3e1de27893fe575beb392e9520841
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="sweden-local-functionality"></a><span data-ttu-id="82ee5-103">Lokal funktionalitet för Sverige</span><span class="sxs-lookup"><span data-stu-id="82ee5-103">Sweden Local Functionality</span></span>

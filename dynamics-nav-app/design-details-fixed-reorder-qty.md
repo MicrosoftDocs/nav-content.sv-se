@@ -3,7 +3,7 @@ title: Designdetaljer - Fast orderkvantitet
 description: "Metoden Fast orderkvantitet är relaterad till lagerplaneringen av typiska C-objekt (lagerkostnad låg, låg risk för åldrande och/eller många artiklar). Metoden används vanligtvis i samband med en beställningspunkt som återspeglar den förutsedda efterfrågan under artikelns ledtid."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6249f51415f46443eb0b528161da290aac25d202
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e8e1cabf265ecc612af708e374d66f8dbb6b2f56
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-fixed-reorder-qty"></a><span data-ttu-id="34aac-104">Designdetaljer: Fast orderkvantitet</span><span class="sxs-lookup"><span data-stu-id="34aac-104">Design Details: Fixed Reorder Qty.</span></span>

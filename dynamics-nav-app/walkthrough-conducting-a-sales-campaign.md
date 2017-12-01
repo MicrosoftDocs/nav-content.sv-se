@@ -3,7 +3,7 @@ title: "Genomgång: Genomföra en försäljningskampanj"
 description: "En kampanj är alla typer av aktiviteter som inkluderar flera kontakter. En viktig del när man planerar en kampanj är att välja målgrupp för kampanjen. Av den anledningen skapar du i [!INCLUDE[d365fin](includes/d365fin_md.md)] ett segment, eller en grupp med kontakter, med hjälp av filter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0bd960274639500ee47a63bba5c20e85691cb8c1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 691da3b1b79cc198863f66e36e19a7c5fd0b6e7a
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-conducting-a-sales-campaign"></a><span data-ttu-id="a1fa8-105">Genomgång: Genomföra en försäljningskampanj</span><span class="sxs-lookup"><span data-stu-id="a1fa8-105">Walkthrough: Conducting a Sales Campaign</span></span>

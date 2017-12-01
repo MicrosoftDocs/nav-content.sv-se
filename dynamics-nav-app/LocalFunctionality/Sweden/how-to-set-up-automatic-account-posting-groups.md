@@ -3,7 +3,7 @@ title: "Så här ställer du in automatiska kontobokföringsmallar"
 description: "Om du vill använda automatiska kontokoder måste du skapa en automatisk kontobokföringsmall."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: dc3819a5fd0ee3c3dee9b7f3ac444f5076da4af7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 760575846aaa62956d0490f8a28a4237e819ae88
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-automatic-account-posting-groups"></a><span data-ttu-id="5dd0e-103">Så här ställer du in automatiska kontobokföringsmallar</span><span class="sxs-lookup"><span data-stu-id="5dd0e-103">How to: Set Up Automatic Account Posting Groups</span></span>

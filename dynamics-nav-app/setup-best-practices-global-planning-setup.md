@@ -2,7 +2,7 @@
 title: "Metodtips för konfiguration av global planering"
 description: "Snabbfliken **Planering** i fönstret **Produktionsinställningar** innehåller flera fält som definierar globala regler för leveransplanering."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b6437c809af79c1c0c24126aaa38e6da6120d066
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d851626e2a107f7f5857fc81013ea0c16d209cca
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setup-best-practices-global-planning-setup"></a><span data-ttu-id="0d09c-103">Skapa metodtips: konfiguration av global planering</span><span class="sxs-lookup"><span data-stu-id="0d09c-103">Setup Best Practices: Global Planning Setup</span></span>

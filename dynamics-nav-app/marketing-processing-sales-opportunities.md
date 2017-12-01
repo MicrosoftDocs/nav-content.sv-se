@@ -3,7 +3,7 @@ title: "Bearbeta affärsmöjligheter i försäljningscykler"
 description: "Visa, stänga eller ta bort affärsmöjligheter och du kan skapa offerter och försäljningsorder för affärsmöjligheter och flytta en affärsmöjlighet genom försäljningscykelns olika faser."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9fe0bd97f7493d9acf4ab99a771fd5f6219027f8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b626047e997363b15f7a322f37b544e04993def2
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-process-sales-opportunities"></a><span data-ttu-id="08770-103">Så här bearbetar du affärsmöjligheter</span><span class="sxs-lookup"><span data-stu-id="08770-103">How to: Process Sales Opportunities</span></span>

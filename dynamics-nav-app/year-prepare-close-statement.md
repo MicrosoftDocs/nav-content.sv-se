@@ -3,7 +3,7 @@ title: "Översikt över rapporter för att förbereda årsbokslutsmeddelanden"
 description: "Ger en översikt över de rapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporte när du avslutar ett räkenskapsår."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ag
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 240fd8eb76a430ab3163ab4326c3c077df838cba
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9c38646d2cb1f4bed2b7988326c1e55c690d6134
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="preparing-closing-statements"></a><span data-ttu-id="7d1db-103">Förbereda årsbokslutsrapporter</span><span class="sxs-lookup"><span data-stu-id="7d1db-103">Preparing Closing Statements</span></span>

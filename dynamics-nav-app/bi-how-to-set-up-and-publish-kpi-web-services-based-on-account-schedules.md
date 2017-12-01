@@ -3,7 +3,7 @@ title: "Så här skapar och publicerar du KPI-webbtjänster som är baserade på
 description: "I fönstret **Installation av webbtjänst för KPI för kontouppställning**, kan du konfigurera hur du visar kontouppställnings-kpi-data och vilka specifika kontouppställningar som du vill basera KPI-erna på."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b45fe6e1e5d4e5be00a6e8a34b7b4fea39b5d75b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 691c8763b8bc6b9f4383fdba7a3b6ba92ec73754
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules"></a><span data-ttu-id="afebc-103">Så här: Skapar och publicerar du KPI-webbtjänster som är baserade på kontouppställningar</span><span class="sxs-lookup"><span data-stu-id="afebc-103">How to: Set Up and Publish KPI Web Services Based on Account Schedules</span></span>

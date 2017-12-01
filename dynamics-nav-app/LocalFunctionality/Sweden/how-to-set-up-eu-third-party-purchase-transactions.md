@@ -3,7 +3,7 @@ title: "Så här ställer du in inköpstransaktioner för tredje part från EU-l
 description: "EU trepartshandel sker när du tar emot en inköpsfaktura från en kund som finns i ett land eller en region inom EU och produkterna skickas till ett annat land eller en annan region inom EU utan att passera Sverige."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 430b8fb3066f2638919e8afa1db685b34f6936e6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e261ec10e29cfd1480d979d030672aa9d527f0a1
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-eu-third-party-purchase-transactions"></a><span data-ttu-id="67baa-103">Så här ställer du in inköpstransaktioner för tredje part från EU-land</span><span class="sxs-lookup"><span data-stu-id="67baa-103">How to: Set Up EU Third-Party Purchase Transactions</span></span>

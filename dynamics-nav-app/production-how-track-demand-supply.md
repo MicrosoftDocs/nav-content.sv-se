@@ -3,7 +3,7 @@ title: "Hur du spårar relationer mellan tillgång och efterfrågan"
 description: "Du kan spåra det orderbehov (spårat antal), den prognos, den försäljningsavropsorder eller den planeringsparameter (ej spårat antal) som gett upphov till den aktuella planeringsraden från alla försörjnings- eller behovsdokument i det så kallade ordernätverker."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: acf030ab57c9251671900b1262dd8441c241c185
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 60672b1b88bff5a5e4de920f346d7d4942f835e9
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-track-relations-between-demand-and-supply"></a><span data-ttu-id="4a9a1-103">Hur du spårar relationer mellan tillgång och efterfrågan</span><span class="sxs-lookup"><span data-stu-id="4a9a1-103">How to: Track Relations Between Demand and Supply</span></span>

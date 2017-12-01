@@ -3,7 +3,7 @@ title: "Översikt över uppgifter för att leverera service"
 description: "Innehåller uppgifter för att se till att du levererar kvalitetsservice och lever upp till avtal med kunder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: service, service items, respond, response
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 37905904770c43859b33a6a011982381cce839bf
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 217f19bfaa721f463f6cf5a81f28337b014d1eec
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="delivering-service"></a><span data-ttu-id="b6281-103">Leverera service</span><span class="sxs-lookup"><span data-stu-id="b6281-103">Delivering Service</span></span>

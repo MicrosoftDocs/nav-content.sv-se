@@ -2,7 +2,7 @@
 title: Insamling med SEPA autogiro
 description: "Skapa insamling av autogiro och exportera till en XML som du skickar eller laddar upp till din elektroniska bank för bearbetning."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: direct-debit, collection, payment, sepa
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6071991197182b13894bd5b0cb5be3d06e967a29
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 466f9bf4acc425d4076c86edf4659f97f4102464
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-sepa-direct-debit-collection-entries-and-export-to-a-bank-file"></a><span data-ttu-id="a3113-103">Så här skapar du insamlingsposter för SEPA Autogiro och exporterar till en bankfil</span><span class="sxs-lookup"><span data-stu-id="a3113-103">How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File</span></span>

@@ -3,7 +3,7 @@ title: "Periodisera intäkter och kostnader"
 description: "För att känna igen en intäkt eller kostnad i en period utanför den period som transaktionen bokfördes i, kan du använda funktioner för att automatiskt periodisera eller skjuta upp dem över ett angivet schema."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: postpone
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f06d241d07bc613bb54cc0a278de419fafffbb58
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7bb46f38ea48f054a34e30707471c4d8cdf3680c
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-defer-revenues-and-expenses"></a><span data-ttu-id="764e0-103">Så här periodiserar du intäkter och kostnader</span><span class="sxs-lookup"><span data-stu-id="764e0-103">How to: Defer Revenues and Expenses</span></span>

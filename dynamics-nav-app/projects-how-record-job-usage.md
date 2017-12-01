@@ -3,7 +3,7 @@ title: "Registrera fakturerbara timmar och budgeterad förbrukning av jobbresurs
 description: "Beskriver hur du registrerar förbrukning eller användning av artiklar eller resurser i ett projekt för att underlätta projekthantering."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, consumption
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7c2c20af125b375e6b1fd8f3d37c848ea3534c37
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 40b1e1a667ea0c8443f2afd64a7147e5001f5d54
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-record-usage-for-jobs"></a><span data-ttu-id="9fd37-103">Så här kan du registrera förbrukning för projekt</span><span class="sxs-lookup"><span data-stu-id="9fd37-103">How to: Record Usage for Jobs</span></span>

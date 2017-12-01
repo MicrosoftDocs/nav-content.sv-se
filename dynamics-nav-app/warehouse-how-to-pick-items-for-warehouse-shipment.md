@@ -3,7 +3,7 @@ title: "Så här: plocka artiklar för Dist.lager utleverans"
 description: "När Lagerställe är inställt på att begära plockningsbearbetning så väl som utleveransbearbetning använder du plockningsdokumenten för att skapa och bearbeta plockningsinformationen innan du bokför Lagerutleveransen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 256f7cfc0348b121a1302db49e57fa030b76f55c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4cab89d6e806974dcd2929e7801abe0ae1c16f28
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-pick-items-for-warehouse-shipment"></a><span data-ttu-id="bb6f6-103">Så här: plocka artiklar för Dist.lager utleverans</span><span class="sxs-lookup"><span data-stu-id="bb6f6-103">How to: Pick Items for Warehouse Shipment</span></span>

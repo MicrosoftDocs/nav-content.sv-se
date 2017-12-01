@@ -3,7 +3,7 @@ title: "Så här återför du preliminära fakturor med ankomstregistrering"
 description: "Återför en ankomstregistrering om du vill annullera den, till exempel om du inte behöver den preliminära inköpsfakturan. Mer information finns i Ankomstregistrering."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 4e530fce048a6474127df862e3e9d707737c71f6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4f28e36ff808a558d8b0ab988b1656e4d0065448
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reverse-preliminary-invoices-by-using-inward-registration"></a><span data-ttu-id="db5c4-104">Så här återför du preliminära fakturor med ankomstregistrering</span><span class="sxs-lookup"><span data-stu-id="db5c4-104">How to: Reverse Preliminary Invoices by Using Inward Registration</span></span>

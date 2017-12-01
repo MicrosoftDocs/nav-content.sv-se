@@ -3,7 +3,7 @@ title: "Automatisk bryta ned volym med dirigerad artikelinförsel och plockning"
 description: "För lagerställen, som använder artikelinförsel och plockning, kan du dela upp en större enhet till mindre enheter, när du skapar lagerinstruktioner som uppfyller behoven hos källdokument, produktionsorder eller intern plockning och artikelinförsel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 67b292438c0b262e7baecd622909ce3fc0f7f233
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 19bdda580107c86df9867dc742a29be29cd4e467
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enable-automatic-breaking-bulk-with-directed-put-away-and-pick"></a><span data-ttu-id="f75c6-103">Så här: Aktivera Automatisk bryta ned volym med dirigerad artikelinförsel och plockning</span><span class="sxs-lookup"><span data-stu-id="f75c6-103">How to: Enable Automatic Breaking Bulk with Directed Put-away and Pick</span></span>

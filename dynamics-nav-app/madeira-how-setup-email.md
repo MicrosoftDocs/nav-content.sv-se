@@ -3,7 +3,7 @@ title: "Ställa in e-post"
 description: "Beskriver hur du använder företagets SMTP-server för att skicka och ta emot e-postmeddelanden inom Dynamics NAV, alternativt hur du använder e-postserverinställningarna som skapats med Office 365-prenumeration."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3b9c2e25ee7ef2b6ff940ce93f9519f566d9f337
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4d454d5221b822861ad64a2cfb67d8f4a15aafb7
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-email-manually-or-using-the-assisted-setup"></a><span data-ttu-id="13bd3-103">Så här: Konfigurera e-post manuellt eller med hjälp av Assisterad konfiguration</span><span class="sxs-lookup"><span data-stu-id="13bd3-103">How to: Set Up Email Manually or Using the Assisted Setup</span></span>

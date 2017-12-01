@@ -3,7 +3,7 @@ title: "Så här kombinerar du inleveranser"
 description: "Om du vill fakturera mer än en inleverans i taget kan du använda funktionen Kombinera inleveranser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 10749dc8d8d692d94c5405fbb0a4a965d482f013
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2e8b2491759ea955104e308eca2750b28e9e466c
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-combine-receipts-on-a-single-invoice"></a><span data-ttu-id="4e8b7-103">Så här kombinerar du inleveranser på en enda faktura</span><span class="sxs-lookup"><span data-stu-id="4e8b7-103">How to: Combine Receipts on a Single Invoice</span></span>

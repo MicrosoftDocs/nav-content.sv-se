@@ -3,7 +3,7 @@ title: Definiera vilka inkommande dokument du ska visa
 description: "Ändra standardläge för inkommande dokument, till exempel e-fakturor, förbättra din översikt över bearbetade och obearbetade poster."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2016
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd0fe9047e6d2fe83783c9370b98c969f8430c49
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 662b83bbc36ec9ba0b1df75948f61037b4c43220
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-manage-many-incoming-document-records"></a><span data-ttu-id="fd719-103">Så här hanterar du många inkommande dokumentposter</span><span class="sxs-lookup"><span data-stu-id="fd719-103">How to: Manage Many Incoming Document Records</span></span>

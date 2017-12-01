@@ -2,7 +2,7 @@
 title: "Ställ in en säljare"
 description: "Du kan ställa in en identifierare för varje säljare, så att du kan övervaka prestanda för en enskild och tilldela en säljare till en kontakt."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: sales rep
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3c2dab0512c8e8965d7751bfda50559844ebcf69
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4e818508b8d7e411e925aa8d69e80660dc00bcb4
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-salespeople"></a><span data-ttu-id="ade0d-103">Så här skapar du säljare</span><span class="sxs-lookup"><span data-stu-id="ade0d-103">How to: Set Up Salespeople</span></span>

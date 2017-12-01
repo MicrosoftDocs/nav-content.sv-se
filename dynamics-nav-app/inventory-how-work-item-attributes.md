@@ -3,7 +3,7 @@ title: Skapa artikelattribut och koppla dem till artiklar.
 description: "Beskriver hur du ställer in artikelattributvärden, till exempel som kan användas som sökord och tilldela dem till artiklar och artikelkategorier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: categories, search words, facets
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 32de1ddb65b2862ae1e1223bb386cd332cb43a3d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 125f8c49dd759607836a38d7ef559b404ee7e59c
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-item-attributes"></a><span data-ttu-id="e6b6c-103">Så här arbetar du med Artikelattribut</span><span class="sxs-lookup"><span data-stu-id="e6b6c-103">How to: Work with Item Attributes</span></span>

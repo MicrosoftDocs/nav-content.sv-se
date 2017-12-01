@@ -3,7 +3,7 @@ title: "Så här skriver du ut rapporterna Balansräkning och Resultaträkning"
 description: "Du kan skriva ut balansräkningsrapporter och resultaträkningsrapporter som ska skickas till banker och olika myndigheter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 6c4f4c29ea54ca5bc972ebd683d6994085478b72
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1439ac35f632d0ec3f5853c5c16108e06c4ac07d
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-balance-sheet-and-income-statement-reports"></a><span data-ttu-id="936fb-103">Så här skriver du ut rapporterna Balansräkning och Resultaträkning</span><span class="sxs-lookup"><span data-stu-id="936fb-103">How to: Print Balance Sheet and Income Statement Reports</span></span>

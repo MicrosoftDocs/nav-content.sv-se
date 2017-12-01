@@ -3,7 +3,7 @@ title: "Designdetaljer - Interna distributionslagerflöden"
 description: "Flödet av artiklar mellan lagerplatser på ett företags lagerställe centreras på plockning av komponenter och införsel av slutartiklar för monterings- eller produktionsorder och ad hoc-transporter, till exempel lagerplatspåfyllningar, utan relation till källdokument."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2a58da6d3b8a651016c842c083f1954fad3fd7a1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ee1a7aaa1c4b8cf2ce4c37e904cbe15e4faaea8a
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-internal-warehouse-flows"></a><span data-ttu-id="55a11-103">Designdetaljer: Interna distributionslagerflöden</span><span class="sxs-lookup"><span data-stu-id="55a11-103">Design Details: Internal Warehouse Flows</span></span>

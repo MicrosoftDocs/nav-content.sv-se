@@ -3,7 +3,7 @@ title: "Designdetaljer - Parti-för-parti"
 description: "Lär dig att använda de parti-för-parti som ska kvitta orderkvantiteten baserat på behov."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 039afd9dd6f7e4c608b17229f5b438c23ba3624b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 544d7044d9c5504476e520552fdaf4470b2bd02d
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-lot-for-lot"></a><span data-ttu-id="3fe91-103">Designdetaljer: Parti-för-parti</span><span class="sxs-lookup"><span data-stu-id="3fe91-103">Design Details: Lot-for-Lot</span></span>

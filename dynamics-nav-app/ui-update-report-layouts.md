@@ -3,7 +3,7 @@ title: Uppdatera en rapportlayout kontinuerligt
 description: "Du kan behöva uppdatera en anpassad rapportlayout som används i en rapport. Det krävs när en designändring har skett för rapportens datauppsättning, till exempel att ett fält som används i layouten har tagits bort från rapportdatauppsättningen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca0bb5b30a6fded7f36f1380c5d73edb3f0a4ff0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 09d0a665894363577f59dd97b49a7736ad700153
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="updating-report-or-document-layouts"></a><span data-ttu-id="447cf-104">Uppdatera rapport- eller dokumentlayouter</span><span class="sxs-lookup"><span data-stu-id="447cf-104">Updating Report or Document Layouts</span></span>

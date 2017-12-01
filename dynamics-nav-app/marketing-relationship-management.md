@@ -3,7 +3,7 @@ title: Kundhantering
 description: "Relationshanteringsfunktionerna i Dynamics NAV ger stöd till din försäljning och låter dig komma åt information om kontakter och potentiella kunder så att du effektivt kan betjäna kunder."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: contact, prospect, client
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: e48a11b73cd844b4eacf157bb90228617d4dc53d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4f2bd57bbc043789efcae560c0d3e96d3414f19f
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-relationships"></a><span data-ttu-id="bb716-103">Hantera relationer</span><span class="sxs-lookup"><span data-stu-id="bb716-103">Managing Relationships</span></span>
