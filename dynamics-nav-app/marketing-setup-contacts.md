@@ -3,7 +3,7 @@ title: "Ställ in Information för kontakter"
 description: "Beskriver uppgifterna om du vill ange information och koder, till exempel om befintliga branschgrupper och affärsrelationer, innan du skapar kontakter."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

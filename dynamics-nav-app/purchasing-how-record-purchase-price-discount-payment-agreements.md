@@ -3,7 +3,7 @@ title: "Ställ in särskilda och alternativa priser och rabatter för leverantö
 description: "Du kan definiera olika eller alternativa priser och rabattavtal och koppla dem till inköpsdokument för leverantörer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

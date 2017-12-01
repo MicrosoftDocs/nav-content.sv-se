@@ -3,7 +3,7 @@ title: "Definiera fast distribution beräknad på fördelningskvot"
 description: "Statisk fördelning är baserad på ett visst värde, till exempel kvadratmeter eller en fastställd fördelningskvot, till exempel 5:2:4."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

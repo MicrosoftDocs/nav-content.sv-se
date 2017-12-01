@@ -3,7 +3,7 @@ title: "Koppla betalningar till obetalda försäljningsdokument"
 description: "Du tillämpar belopp betalda av kunder till relaterade försäljningsdokument och bokför betalningen för att uppdatera kund, redovisning och banktransaktioner."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

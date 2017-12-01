@@ -3,7 +3,7 @@ title: "Designdetaljer - Läsa in lagerprofilerna"
 description: "För att sortera ut de många källorna till efterfrågan och tillgång ordnar planeringssystemet dem på två tidslinjer som kallas lagerprofiler."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Hur du planerar order för order"
 description: "Den här planeringsuppgiften kan utföras i fönstret **Orderplanering** där du kan se alla nya behov samt tillgänglighetsinformation och förslag om leverans. Du ser allt du behöver veta och har tillgång till alla verktyg du behöver för att effektivt kunna planera hur du ska möta behov från försäljningsrader och komponentrader och direkt skapa olika typer av leveransorder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

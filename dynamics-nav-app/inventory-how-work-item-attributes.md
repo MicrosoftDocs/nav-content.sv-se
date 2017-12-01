@@ -3,7 +3,7 @@ title: Skapa artikelattribut och koppla dem till artiklar.
 description: "Beskriver hur du ställer in artikelattributvärden, till exempel som kan användas som sökord och tilldela dem till artiklar och artikelkategorier."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

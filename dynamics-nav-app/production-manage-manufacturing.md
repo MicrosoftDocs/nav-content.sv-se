@@ -3,7 +3,7 @@ title: "Utföra produktion"
 description: "När behov har planerats och material har tagits utt enligt produktionsstrukturerna kan de faktiska produktionsoperationerna inledas och sedan genomföras i den ordning som definieras av operationsföljden för produktionsorder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

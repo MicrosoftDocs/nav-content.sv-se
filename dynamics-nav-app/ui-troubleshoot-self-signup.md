@@ -3,7 +3,7 @@ title: "Olika sätt att felsöka och lösa problem med registrering av självser
 description: "Mer information om de vanligaste orsakerna till varför du inte kanske kan slutföra registreringen till Dynamics NAV och hur du åtgärdar dem."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

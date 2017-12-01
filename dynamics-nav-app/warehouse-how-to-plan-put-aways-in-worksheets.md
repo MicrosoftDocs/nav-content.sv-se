@@ -3,7 +3,7 @@ title: "Så här: Planera artikelinförsel i förslaget"
 description: "Du kan använda artikelinförselförslaget om lagerstället kräver både artikelinförsel- och inleveransbearbetning, och du vill planera artikelinförselinstruktioner för flera inleveranser, i stället för att låta personalen följa de instruktioner som har skapats i programmet för separata bokförda inleveranser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

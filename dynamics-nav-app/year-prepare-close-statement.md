@@ -3,7 +3,7 @@ title: "Översikt över rapporter för att förbereda årsbokslutsmeddelanden"
 description: "Ger en översikt över de rapporter du kan använda för att samla den information du behöver för att förbereda ditt företags bokslutsrapporte när du avslutar ett räkenskapsår."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

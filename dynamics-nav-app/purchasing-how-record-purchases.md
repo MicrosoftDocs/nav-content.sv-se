@@ -3,7 +3,7 @@ title: "Skapa en inköpsfaktura och registrera inköp"
 description: "Beskriver hur du köper lager- och serviceartiklar genom att skapa och bokföra inköpsfakturor eller order."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

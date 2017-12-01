@@ -3,7 +3,7 @@ title: Redovisa kostnader
 description: "Kostnadsredovisning används för att hjälpa dig förstå kostnaderna för att driva en verksamhet. När du vill börja med kostnadsredovisning, se följande avsnitt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här säljer du lagerartiklar i flöde för montering mot kundorder"
 description: "Om artikeln är inställd för kort med montering mot kundorder förutsätter standardprocessen för försäljningsorder att artikeln inte finns på lager och måste monteras för den specifika försäljningsordern. Därför skapas en kopplad monteringsorder automatiskt när du lägger till artikeln i en försäljningsorderrad."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

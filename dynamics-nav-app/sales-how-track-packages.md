@@ -3,7 +3,7 @@ title: "Så här spårar du godspaket"
 description: "Använd speditörernas godsupplysningstjänst om du vill visa förloppet för en leverans."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

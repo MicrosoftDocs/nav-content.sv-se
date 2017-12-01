@@ -3,7 +3,7 @@ title: "Hantera budget för anläggningstillgångar"
 description: "Du kan ställa in information om framtida investeringar, avyttringar och avskrivning av anläggningstillgångar för att förbereda budgetar och prognoser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här: Flytta komponenter till ett operationsområde i grundläggande
 description: "Om artikeln som behandlar operationer utförs i din distributionslagerplats, kan du behöva flytta artiklar mellan lagerplatser så att det stämmer överens med interna källdokument, till exempel produktion, monterings eller serviceorder på lagerstället."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

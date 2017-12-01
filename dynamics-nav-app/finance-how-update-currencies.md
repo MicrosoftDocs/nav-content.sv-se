@@ -3,7 +3,7 @@ title: Uppdatera valutakurser
 description: "För att använda flera valutor i din verksamhet, kan du lägga upp en kod för varje valuta och använda en extern valutakurstjänst, som t.ex. Yahoo."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

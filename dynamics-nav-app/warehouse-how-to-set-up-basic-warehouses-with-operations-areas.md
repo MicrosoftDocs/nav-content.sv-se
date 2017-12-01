@@ -3,7 +3,7 @@ title: "Så här: Ställa in grundläggande dist.lager med operationsområden"
 description: "Om internt operationsområde till exempel produktion eller tillverkning finns i grundläggande distributionslagerkonfiguration, där lagerställen använder **Lagerplats ska finnas** inställningar, och eventuellt fälten **Begär plockning** och **Begär artikelinförsel**, kan du använda följande grundläggande dokument för att registrera lageraktiviteter för internt operationsområde:"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

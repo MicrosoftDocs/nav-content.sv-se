@@ -3,7 +3,7 @@ title: "Lägga upp bästa metoder: Värderingsprincip"
 description: "**Värderingsprincipen** på artikelkortet anger hur artikelns kostnadsflöde registreras och om ett faktiskt eller budgeterat värde ska kapitaliseras och användas i kostnadsberäkningen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

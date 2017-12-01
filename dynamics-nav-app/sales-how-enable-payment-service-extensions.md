@@ -3,7 +3,7 @@ title: "Aktivera kundbetalningar via betalningstjänster"
 description: "Gör det enklare för kunderna att betala sina fakturor genom att aktivera betalningstjänster."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

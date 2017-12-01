@@ -3,7 +3,7 @@ title: "Skapa cykler för affärsmöjligheter och cykeletapper"
 description: "Beskriver hur du definierar säljetapper från första kontakten till avslut om du vill skapa en försäljningscykel och tilldela affärsmöjligheter i Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Definiera affärsrelationskode för kontakter"
 description: "Använd affärsrelationer i Dynamics NAV för att hjälpa till med marknadsföring och för att visa vilket affärsförhållande du har till potentiella kunder eller kunder, till exempel en bank eller serviceleverantör."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

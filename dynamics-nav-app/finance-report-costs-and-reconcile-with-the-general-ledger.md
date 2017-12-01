@@ -3,7 +3,7 @@ title: "Rapportera kostnader och stämma av med redovisningen"
 description: "I slutet av bokföringsperioden varje månad, år eller annat – måste en serie uppgifter för kostnadskontroll och revision utföras så att ett korrekt och balanserat lagervärde rapporteras till ekonomiavdelningen. Förutom bokföringsrutinen som överför enskilda artikelvärdetransaktioner till särskilda redovisningskonton finns det flera rapporter, spårningsfunktioner och speciella avstämningsverktyg som revisorn eller controllern kan använda."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

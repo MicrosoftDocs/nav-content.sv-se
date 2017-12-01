@@ -2,7 +2,7 @@
 title: "Visa innehållet på andra språk"
 description: "Du kan visa innehållet i hjälpen för Dynamics NAV på andra språk."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

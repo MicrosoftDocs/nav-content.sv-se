@@ -3,7 +3,7 @@ title: "Omvärdera anläggningstillgångar"
 description: "Lär dig att justera värdet för anläggningstillgångar, registrera nya belopp eller uppskrivning, nedskrivning och bokföra ytterligare anskaffningskostnader."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

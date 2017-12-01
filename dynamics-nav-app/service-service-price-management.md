@@ -3,7 +3,7 @@ title: Serviceprishantering
 description: "Det här ämnet beskriver hur du tillämparbästa pris på serviceorder, lägga upp egna serviceprisavtal för kunder, förbättra de anställdas effektivitet och effektivisera faktureringen."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

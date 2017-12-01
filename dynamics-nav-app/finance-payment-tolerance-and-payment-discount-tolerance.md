@@ -3,7 +3,7 @@ title: Betalningstolerans och kassarabattstolerans
 description: "Du kan skapa betalningstolerans för att avsluta en faktura, när betalningen inte täcker hela beloppet på fakturan."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

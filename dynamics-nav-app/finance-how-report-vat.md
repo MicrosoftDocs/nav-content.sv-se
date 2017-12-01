@@ -2,7 +2,7 @@
 title: Skicka momsrapporter skattemyndigheterna
 description: "Lär dig hur du förbereder en rapport över moms från försäljning under en period eller från försäljning och inköp och skickar rapporten till en skattemyndighet."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

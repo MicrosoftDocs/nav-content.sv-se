@@ -3,7 +3,7 @@ title: "Översikt över uppgifter för att leverera service"
 description: "Innehåller uppgifter för att se till att du levererar kvalitetsservice och lever upp till avtal med kunder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

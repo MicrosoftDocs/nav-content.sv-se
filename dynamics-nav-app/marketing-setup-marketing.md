@@ -3,7 +3,7 @@ title: "Ställ in Marknadsföring och Kontakthanteringsinformation"
 description: "Du kan ställa in marknadsföring och kontakthantering i Dynamics NAV för att optimera relationer med potentiella kunder eller kunder och förbättra kampanjer och erbjudanden."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Visa objekt som webbtjänster"
 description: "Publicera [!INCLUDE[d365fin](includes/d365fin_md.md)]-objekt som webbtjänster, de är tillgängliga direkt i nätverket."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Använda en redovisningsjournal för att bokföra direkt i redovisningen
 description: "Lär hur du använder Redovisningsjournaler för att bokföra ekonomiska transaktioner på redovisningskonton och andra konton, till exempel bank- och leverantörskonton."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

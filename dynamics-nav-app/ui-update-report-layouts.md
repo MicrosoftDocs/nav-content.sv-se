@@ -3,7 +3,7 @@ title: Uppdatera en rapportlayout kontinuerligt
 description: "Du kan behöva uppdatera en anpassad rapportlayout som används i en rapport. Det krävs när en designändring har skett för rapportens datauppsättning, till exempel att ett fält som används i layouten har tagits bort från rapportdatauppsättningen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

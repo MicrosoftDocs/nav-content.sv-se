@@ -3,7 +3,7 @@ title: "Så här stämmer du av betalningar genom att använda automatisk koppli
 description: "Beskriver hur du använder funktionen automatisk koppling när du använder utbetalningar eller inbetalningar till deras relaterade öppna transaktioner och stämma av betalningar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

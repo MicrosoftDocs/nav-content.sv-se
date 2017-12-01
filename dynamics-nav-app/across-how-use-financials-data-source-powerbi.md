@@ -2,7 +2,7 @@
 title: "Skapa en Power BI-datakälla med din Dynamics NAV"
 description: "Du kan göra din Dynamics NAV-data tillgänglig som datakälla i Power BI och bygga kraftfulla rapporter av din verksamhets status."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

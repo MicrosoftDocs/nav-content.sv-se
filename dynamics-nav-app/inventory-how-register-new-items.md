@@ -3,7 +3,7 @@ title: "Skapa artikelkort för varor eller tjänster"
 description: "Du skapar artikelkort för tjänster som du säljer som timmar och för fysiska produkter, till exempel monteringsartiklar, färdiga produkter, komponenter eller råmaterial som säljs från lagret."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

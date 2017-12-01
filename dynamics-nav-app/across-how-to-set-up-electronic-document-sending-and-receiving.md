@@ -2,7 +2,7 @@
 title: "Så här konfigurerar du utskick och mottagning av elektroniska dokument"
 description: "Som alternativ till att e-posta en filbilaga kan du skicka och ta emot elektroniska affärsdokument."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här: Hitta distributionslagertilldelningar"
 description: "Öppna kortet för ett valt artikel, för att hitta distributionslagren uppgifter. Om distributionslagerinstruktioner har skapats visas rader för att ta och placera, och du kan börja arbeta med en tilldelning. I vissa distributionslager kan chefen ha gett särskilda instruktioner till respektive anställd."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

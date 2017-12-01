@@ -3,7 +3,7 @@ title: "Ändra hur mycket detaljer som visas i listor"
 description: "Du kan visa listor i detaljerade vyer som innehåller mer information eller som paneler som är lätta att skanna visuellt."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

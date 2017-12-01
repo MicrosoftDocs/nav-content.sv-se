@@ -3,7 +3,7 @@ title: "Så här reserverar du artiklar"
 description: "Du kan reservera artiklar för försäljningsorder, inköpsorder och produktionsorder. Du kan reservera artiklar i lager eller ankommande på öppna dokumentrader."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

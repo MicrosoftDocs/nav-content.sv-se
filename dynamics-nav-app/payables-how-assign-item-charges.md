@@ -3,7 +3,7 @@ title: "Tilldela artikelomkostnader till försäljning och inköp"
 description: "Om du vill att dina lagerartiklar ska läggas på extra kostnader, som till exempel frakt, fysisk hantering, försäkring och transport som förekommer vid inköp eller försäljning av artiklar, kan du använda funktionen för artikelomkostnader."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

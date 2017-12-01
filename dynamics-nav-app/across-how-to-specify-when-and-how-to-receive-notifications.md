@@ -3,7 +3,7 @@ title: "Så här anger du när och hur användare ska meddelas"
 description: "När du konfigurerar användare i godkännandearbetsflöden måste du ange hur och när varje användare meddelas om godkännandearbetsflödessteg i fönstret Konfigurera meddelanden och Meddelandeschema. Individuella användare kan också ändra sina meddelandeinställningar genom att välja knappen Ändra meddelandeinställningar i något meddelande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här planerar du plockningar i förslaget"
 description: "Om distributionslagret kräver både plocknings- och utleveransbearbetning kan du välja att raderna i utleveransdokument inte automatiskt ska omvandlas till plockningsinstruktioner, utan i stället göras tillgängliga i plockningsförslaget."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

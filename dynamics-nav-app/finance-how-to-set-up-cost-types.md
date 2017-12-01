@@ -3,7 +3,7 @@ title: "Så här skapar du ett diagram över kostnadstyper"
 description: "Planen över kostnadstyper liknar kontoplanen i redovisningen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

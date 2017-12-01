@@ -3,7 +3,7 @@ title: "Arbeta med tidrapporter för projekt"
 description: "Beskriver hur du skapar en tidrapport för ett projekt, kopierar rader till ordern, definierar arbetstyper, fyller i tidrapporten och skickar den för godkännande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

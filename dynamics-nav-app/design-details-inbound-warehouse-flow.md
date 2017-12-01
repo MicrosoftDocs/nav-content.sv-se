@@ -3,7 +3,7 @@ title: "Designdetaljer - Ankommande distributionslagerflöde"
 description: "Det ankommande artikelflödet i ett distributionslager börjar när artiklarna inlevereras i distributionslagret på företagsplatsen, antingen som har tagits emot från externa källor eller från en annan företagplats. Den anställde registrerar artiklarna, vanligtvis genom att skanna en streckkod. Från inleveransstället utförs lageraktiviteter på olika komplexitetsnivåer för att få artiklarna till lagringsområdet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

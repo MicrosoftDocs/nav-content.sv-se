@@ -3,7 +3,7 @@ title: 'Skapa metodtips: leveransplanering'
 description: "Leveransplanering är ett kritiskt område. Leveransplaneringen hjälper dig att undvika att varor tar slut i lager, och att reducera order- och lagerkostnader, när den har konfigurerats korrekt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Konfigurera föreslagna fältvärden"
 description: "Om du vill undvika manuella beräkningar, och genomför uppgifter snabbt och effektivt ställer du in automatisk datainmatning så att Dynamics NAV fyller i fälten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

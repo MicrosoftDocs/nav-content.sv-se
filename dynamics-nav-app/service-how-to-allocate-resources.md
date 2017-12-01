@@ -2,7 +2,7 @@
 title: "Så här fördelar du resurser"
 description: "Du kan ändra det årliga beloppet på ett servicekontrakt eller en kontraktsoffert om du vill korrigera det årliga faktureringsbeloppet."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

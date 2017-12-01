@@ -3,7 +3,7 @@ title: "Så här: Omstrukturera distributionslager"
 description: Du kanske vill omstrukturera distributionslagret med nya lagerplatskoder och nya lagerplatsegenskaper.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

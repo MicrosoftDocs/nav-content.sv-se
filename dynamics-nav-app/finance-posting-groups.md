@@ -3,7 +3,7 @@ title: "Konfiguration av bokföringsmall"
 description: "Översikt av bokföringsmallar som du kan använda för att spara tid och för att undvika misstag när du bokför transaktioner."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

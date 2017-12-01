@@ -3,7 +3,7 @@ title: "Fördelningsstatus och reparationsstatus"
 description: "Lär dig mer om sambandet mellan reparationsstatus för serviceartiklar och fördelningsstatus för fördelningsposterna för dessa."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

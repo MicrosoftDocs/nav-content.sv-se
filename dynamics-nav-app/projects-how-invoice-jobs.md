@@ -3,7 +3,7 @@ title: "Skapa en försäljningsfaktura för att fakturera ett projekt"
 description: "Beskriver hur du kan fakturera kunder för projektutgifter allt eftersom projektet fortskrider."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

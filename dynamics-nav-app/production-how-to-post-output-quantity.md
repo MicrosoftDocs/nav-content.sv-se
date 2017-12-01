@@ -3,7 +3,7 @@ title: "Så här: Batch-bokför produktionsutflöde och körtid"
 description: "Utflödesantalet representerar det pågående arbetet som det färdiga antalet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

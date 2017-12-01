@@ -3,7 +3,7 @@ title: "Så här beräknar du ett orderlöftesdatum"
 description: "Orderlöftesfunktionen är ett verktyg för att beräkna det första möjliga datum då en artikel är disponibel för leverans. Funktionen skapar också inköpsförslagsrader för de datum som du accepterar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

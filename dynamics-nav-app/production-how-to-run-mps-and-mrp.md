@@ -3,7 +3,7 @@ title: "Så här kör du en fullständig planering, nettobehov och produktionspl
 description: "Begreppen \"beräkna planeringsförslag\" eller \"beräkna nettobehov\" syftar på beräkningen av produktionsprogram och materialbehov baserat på faktiskt och prognostiserat behov. I planeringssystemet beräknas antingen produktionsprogrammet eller nettobehovet, eller så beräknas båda på samma gång."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

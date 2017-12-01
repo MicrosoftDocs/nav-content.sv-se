@@ -3,7 +3,7 @@ title: "Så här säljer du en artikel som monterats mot kundorder"
 description: "Om artikeln är inställd på  montering mot kundorder förväntas inte artikeln finnas i lager, och den måste monteras särskilt mot en försäljningsorder. När du anger en artikel på en försäljningsorderrad skapas en monteringsorder automatiskt och länkas till försäljningsordern."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

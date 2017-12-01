@@ -3,7 +3,7 @@ title: Skapa segment
 description: "Beskriver hur du skapar ett segment för en grupp med kontakter i Dynamics NAV, till exempel, för att rikta flera kontakter med ett direktutskick."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

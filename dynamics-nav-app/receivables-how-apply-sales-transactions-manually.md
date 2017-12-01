@@ -2,7 +2,7 @@
 title: "Koppla kundreskontratransaktioner för att manuellt stämma av kundbetalningar"
 description: "Beskriver hur du använder inbetalningar eller återbetalningar för kunder till en eller flera öppna kundreskontratransaktioner och stämma av kundbetalningar."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

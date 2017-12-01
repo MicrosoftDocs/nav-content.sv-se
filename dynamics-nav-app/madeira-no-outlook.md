@@ -3,7 +3,7 @@ title: "Använda Dynamics NAV utan Outlook"
 description: "Du kan använda Dynamics NAV som företagsinkorg i Outlook eftersom det är integrerat med Office 365, men du kan även arbeta utan Outlook i en webbläsare eller på en mobil enhet."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

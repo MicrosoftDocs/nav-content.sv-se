@@ -3,7 +3,7 @@ title: "Designdetaljer - Disposition av artikelspårning"
 description: "Det här avsnittet beskriver hur du ser till att de personer som behandlar beställningar kan lita på tillgängligheten av serie- eller partinummer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

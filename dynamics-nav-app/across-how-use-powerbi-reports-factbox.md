@@ -3,7 +3,7 @@ title: Visa anpassade Power BI-rapporter
 description: "Du kan använda Power BI-rapporter för att få ytterligare information om data i listor i Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

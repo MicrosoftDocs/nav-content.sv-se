@@ -3,7 +3,7 @@ title: "Så här: Skapa Lagerplatstyper"
 description: "Du kan dirigera flödet av artiklar via lagerplatser som du har definierat för särskilda distributionslageraktiviteter. Du ger varje lagerplats dess grundläggande flödesaktiviteter, genom att tilldela lagerplatsen en lagerplatstyp, och definierar därmed det sätt som lagerplatsen ska användas på."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

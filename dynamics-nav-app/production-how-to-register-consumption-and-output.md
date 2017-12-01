@@ -3,7 +3,7 @@ title: "Så här registrerar du förbrukning och utflöde för en produktionsord
 description: "Den här åtgärden utförs i fönstret **Produktionsjournal**. I journalen kombineras funktionerna hos de skilda förbruknings- och utflödesjournalerna. Den kombinerade journalen kan öppnas direkt från en släppt produktionsorder. Huvudsyftet med journalen är att komponentförbrukning, antalet slutartiklar som har producerats och den tid som går åt under operationer ska kunna bokföras manuellt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

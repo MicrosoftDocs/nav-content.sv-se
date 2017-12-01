@@ -3,7 +3,7 @@ title: "Transaktioner mellan företag inom samma organisation"
 description: "Med de koncerninterna funktionerna förenklar du affärsprocesser och transaktioner mellan företag inom samma organisation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

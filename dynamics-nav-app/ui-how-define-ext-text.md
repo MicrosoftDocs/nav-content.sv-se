@@ -3,7 +3,7 @@ title: "Lägga till ytterligare rader när du definierar utökad text för en ar
 description: "Du kan lägga till ytterligare rader om du vill utöka standardtexten som beskriver en artikel."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

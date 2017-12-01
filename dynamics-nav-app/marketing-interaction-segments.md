@@ -3,7 +3,7 @@ title: "Följa upp segment och relaterade interaktioner"
 description: "Lär dig mer om att skapa segment för att definiera kontaktgrupper och ange interaktioner för segment."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

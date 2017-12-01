@@ -3,7 +3,7 @@ title: "Hantera kunder som använder Dynamics 365 for Sales"
 description: "Du kan använda Dynamics 365 for Sales inne i Dynamics NAV for Financials för att mappa data och ha sömlös integration och synkronisering i processen från kundämne till betalning."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

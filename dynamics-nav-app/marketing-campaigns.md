@@ -3,7 +3,7 @@ title: "Så här lägger du upp en marknadsföringskampanj i Dynamics NAV"
 description: "Beskriver hur du kan skapa och genomföra marknadsföringskampanjer i Dynamics NAV för att identifiera och attrahera prospekt och bibehålla kunder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

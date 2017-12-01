@@ -3,7 +3,7 @@ title: "Så här säljer du artiklar för montering mot kundorder och lagerartik
 description: "Om en monteringsartikel är inställd på montering mot lagerförutsätter standardprocessen för försäljningsorder att artikeln redan monterats och kan plockas från lagret, om den är tillgänglig. Men om en del (eller hela) antalet inte är tillgängligt har du möjlighet att skapa en monteringsorder för återstående antal direkt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

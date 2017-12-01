@@ -3,7 +3,7 @@ title: "Så här skapar du nya produktionsstrukturer"
 description: "En produktionsstruktur innehåller standarddata som beskriver de komponenter och underenheter som används vid produktion av en överordnad artikel. När en produktionsorder har skapats för den överordnade artikeln, avgör dess produktionsstruktur beräkningen av materialbehoven enligt vad som visas i fönstret **Prod.order komponenter**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Ställa in analysvy för kassaflöde"
 description: "Skapa diagram i rollcentret konton för att analysera flödet av pengar i företaget, inklusive utgifter och inkomster, likviditet och inbetalningar minus utbetalningar."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

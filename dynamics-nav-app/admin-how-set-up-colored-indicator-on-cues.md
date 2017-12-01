@@ -3,7 +3,7 @@ title: "Ange färgindikatorer för att anpassa visuella signaler om en stack-iko
 description: "Som administratör kan du skapa stack-ikoner som visas i användarens rollcenter för att inkludera en indikator som ändrar färg baserat på datavärdena i stack-ikonerna."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

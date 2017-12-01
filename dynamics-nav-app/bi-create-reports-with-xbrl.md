@@ -3,7 +3,7 @@ title: "Så här skapar du rapporter med XBRL"
 description: "XBRL, som står för eXtensible Business Reporting Language, är ett XML-baserat språk för ekonomisk rapportering som gör det möjligt för företag att effektivt och korrekt behandla och dela med sig av sina data."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

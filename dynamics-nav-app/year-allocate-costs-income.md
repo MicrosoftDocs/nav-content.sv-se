@@ -3,7 +3,7 @@ title: "Översikt över arbetsuppgifter för att fördela kostnader och intäkte
 description: "Beskriver uppgiften att fördela en transaktion i en redovisningsjournal på flera olika konton när du bokför journalen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

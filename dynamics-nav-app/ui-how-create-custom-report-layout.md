@@ -3,7 +3,7 @@ title: "Så här skapar och ändrar du en anpassad layout för rapport eller dok
 description: "Lär dig hur du kan skapa egna anpassade layouter för att personligt anpassa utseendet på rapporten när den visas, skrivs ut eller sparas."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

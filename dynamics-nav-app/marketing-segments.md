@@ -3,7 +3,7 @@ title: "Hantera segment och välj kontakter att inkludera"
 description: "Definierar uppgifter för att skapa ett segment om du vill välja en grupp med kontakter enligt ett visst kriterium, till exempel kontakter i en viss bransch som du vill använda."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

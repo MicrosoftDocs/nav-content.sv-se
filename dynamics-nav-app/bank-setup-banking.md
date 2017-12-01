@@ -3,7 +3,7 @@ title: Konfigurera bank
 description: "Du använder bankkontokort för att hålla reda på dina bankkonton och ställa in bankfeeder för utbyte av data."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

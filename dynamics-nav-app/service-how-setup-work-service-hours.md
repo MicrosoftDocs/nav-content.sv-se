@@ -3,7 +3,7 @@ title: "Ställa in arbetstimmar och servicetider"
 description: "Du kan ange servicearbetstider i företaget. Programmet använder dessa servicetider för att beräkna ett svarsdatum med tid för serviceorder och offerter och då svarstidsvarningar skickas ut."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

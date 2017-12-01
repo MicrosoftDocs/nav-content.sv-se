@@ -3,7 +3,7 @@ title: "Designdetaljer - Disposition av artikelspårning"
 description: "Fönstren **Artikelspårningsrader** och **Artikelspårning sammandrag** ger dynamisk dispositionsinformationen för serie- / partinummer. Avsikten med detta är att öka transparensen för användare på avgående dokument, t.ex. försäljningsorder, genom att visa dem vilka serienummer eller hur många enheter av partinumret som för närvarande tilldelas på andra öppna dokument. Det minskar osäkerhet som orsakas av dubbel fördelning, och gör att orderhandläggarna kan känna sig säkra på att artikelspårningsnumren och datumen som utlovas på försäljningsorder som inte har bokförts kan uppfyllas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

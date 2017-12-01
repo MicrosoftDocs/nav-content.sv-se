@@ -3,7 +3,7 @@ title: "Förstå montering mot kundorder och montering mot lager"
 description: "Monteringsartiklar kan anges genom att sammanföra dem när de beställs eller genom att montering att finnas i lagret tills de behov från en försäljningsorder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,13 +18,13 @@ ms.contentlocale: sv-se
 ms.lasthandoff: 10/16/2017
 
 ---
-# Förstå montering mot kundorder och montering mot lager
+# <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Förstå montering mot kundorder och montering mot lager
 Monteringsartiklar kan levereras i följande två processerna:  
 
 -   Montering mot order.  
 -   Montering mot lager.  
 
-## Montering mot kundorder  
+## <a name="assemble-to-order"></a>Montering mot kundorder  
 Du använder vanligtvis *montering mot kundorder* för de artiklar som du inte vill att tillverka, eftersom du förväntar dig att anpassa dem till kundförfrågningar, eller eftersom du vill att minska den bärande kostnaden för lagret. Den andra funktionen är:  
 
 -   Kapacitet för att anpassa monteringsartiklar, när ta en försäljningsorder.  
@@ -44,7 +44,7 @@ När du anger en artikel för montering mot kundorder på en försäljningsrad, 
 
  Om du vill aktivera den här processen, måste fältet **Monteringsmetod** på artikelkortet vara **Montering mot kundorder**.  
 
-## Montering mot lager  
+## <a name="assemble-to-stock"></a>Montering mot lager  
  Du kan använda den för *montering mot lager* för de artiklar som du vill att sammanställa framåt av försäljning, till exempel att förbereda för en satskampanj och hålla lagret tills de beställs. Dessa artiklar är vanligtvis standardobjekt som emballerade satser, som du inte erbjuder för att anpassa till kundförfrågningar.  
 
  I montering mot lager monteras artiklar utan direkt försäljningsbehov och i lagras som en lagerartikel i distributionslagret för senare försäljning eller förbrukning som ett detaljmontage. För mer information finns i [Så här monterar du artiklar](assembly-how-to-assemble-items.md). I det här läget plockas artikel och bearbetas som ett enstaka artikel och är hanterade som en avslutad produktionsartikel.  
@@ -56,7 +56,7 @@ När du anger en artikel för montering mot kundorder på en försäljningsrad, 
 
  Om du vill aktivera den här processen, måste fältet **Monteringsmetod** på artikelkortet vara **Montering mot lager**.  
 
-## Kombinationsscenarion  
+## <a name="combination-scenarios"></a>Kombinationsscenarion  
  En allmän princip i monteringshantering är att montering mot kundorder, när de kombineras på en försäljningsorderrad, måste levereras innan och lagerkvantiteten.  
 
  Om en monteringsorder är kopplad till en försäljningsorderrad, uppdateras värdet i fältet i **Antal att montera mot kundorder** på försäljningsorderraden, **Antal att montera** via **Antal** på monteringsorderhuvudet. Mer information finns i [så här: sälja artiklar monterde mot order](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -84,7 +84,7 @@ När du anger en artikel för montering mot kundorder på en försäljningsrad, 
 -   Den lägsta kvantitet som du kan ange är 1. Det är eftersom du måste åtminstone sammanställa en enhet för att kunna sälja de fyra enheter, antaget att de återstående tre finns i lager.  
 -   Den höga kvantitet som du kan ange är 4. Detta görs för att se till att du inte monterar flera av denna monteringmotkundorderartikel än vad som behövs på försäljningen.  
 
-## Se även  
+## <a name="see-also"></a>Se även  
 [Monteringshantering](assembly-assemble-items.md)  
 [Så här arbetar du med strukturer](inventory-how-work-BOMs.md)  
 [Lagersaldo](inventory-manage-inventory.md)  

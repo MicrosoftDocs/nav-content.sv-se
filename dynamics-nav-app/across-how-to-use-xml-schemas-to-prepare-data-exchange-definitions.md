@@ -2,7 +2,7 @@
 title: "Skapa XML-portar som baseras på XML-scheman"
 description: "Använda XML-scheman för att ange ramverket för datautbyte."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

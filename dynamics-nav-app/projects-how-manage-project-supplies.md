@@ -3,7 +3,7 @@ title: "Köpa artiklar eller tjänster för ett projekt och hantera leveranser"
 description: "Beskriver hur du hanterar försörjning och inköp av material och tjänster för projekt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

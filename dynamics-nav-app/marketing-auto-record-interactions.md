@@ -3,7 +3,7 @@ title: Konfigurera automatisk registrering av interaktioner
 description: "Du kan automatiskt registrera kund- eller klienteinteraktioner, till exempel för försäljnings-, inköps- och servicedokument eller telefonsamtal."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

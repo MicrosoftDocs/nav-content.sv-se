@@ -3,7 +3,7 @@ title: "Så här kan du avsluta öppna artikeltransaktioner som skapas från en 
 description: "Du kan använda fältet **Kopplas från löpnr** i fönstret **Artikeljournal** för att skapa en fast koppling mellan en inkommande transaktion och den ursprungliga utgående transaktionen. Till exempel, för att korrigera utgående transaktion eller bearbeta dess retur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

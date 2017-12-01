@@ -3,7 +3,7 @@ title: "Så här tilldelar du serienummer och partinummer till artiklar för sp�
 description: "Du kan lägga till serie- och partinummer till alla avgående och ankommande dokument och visa de bokförda artikelspårningstransaktionerna i de associerade artikeltransaktionerna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

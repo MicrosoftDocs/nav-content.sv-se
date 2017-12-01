@@ -3,7 +3,7 @@ title: "Ändra hur rapporten ska se ut genom att välja en annan layout"
 description: "Du kan använda olika layouter för en rapport och växla mellan layouter för att ändra utseendet på en rapport."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

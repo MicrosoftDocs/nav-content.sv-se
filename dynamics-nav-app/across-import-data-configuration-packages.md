@@ -2,7 +2,7 @@
 title: "Använda Excel för att importera data till Dynamics NAV"
 description: "Använda standardkonfigurationspaketet för att lägga till kundinformation i Excel och importera data till Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

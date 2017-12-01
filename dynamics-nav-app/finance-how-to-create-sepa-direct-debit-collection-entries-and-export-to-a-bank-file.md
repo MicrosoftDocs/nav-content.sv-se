@@ -2,7 +2,7 @@
 title: Insamling med SEPA autogiro
 description: "Skapa insamling av autogiro och exportera till en XML som du skickar eller laddar upp till din elektroniska bank för bearbetning."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

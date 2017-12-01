@@ -3,7 +3,7 @@ title: "Så här kombinerar du leveranser på en enda faktura"
 description: "Om du vill fakturera mer än en leverans åt gången kan du använda funktionen kombinerade leveranser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

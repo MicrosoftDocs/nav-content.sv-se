@@ -3,7 +3,7 @@ title: "Designdetaljer: Bokföring av monteringsorder"
 description: "Monteringsorderbokföring baserad på samma principer som när du bokför de liknande aktiviteterna försäljningsorder och produktionförbrukning/utflöde. Principerna kombineras genom att monteringsorder har sitt eget användargränssnitt för bokföring, liknande det för försäljningsorder, medan den faktiska transaktionsbokföringen sker i bakgrunden som direkta artikel- och resursjournalbokföringar, som det för produktionsförbrukning, utflöde och kapacitet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

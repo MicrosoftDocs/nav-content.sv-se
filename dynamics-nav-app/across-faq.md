@@ -2,7 +2,7 @@
 title: "Vanliga frågor om hur du använder Dynamics NAV"
 description: "Svar på vanliga frågor om hur du registrerar dig för Dynamics NAV och vad som ska ske när du vill börja."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Om ramverket för datautbyte"
 description: "Formatet på filer för utbyte av data i bankfiler, elektroniska dokument, valutakurser och annat med ERP-system varierar beroende på leverantören av datafilen eller strömmen och på land/region."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

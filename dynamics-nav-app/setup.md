@@ -2,7 +2,7 @@
 title: "Översikt över arbetsuppgifter för att ställa in Dynamics NAV"
 description: "Innehåller information om att lägga upp, initiera och konfigurera Dynamics NAV för att passa dina behov."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Översikt över arbetsuppgifter för att avsluta ett räkenskapsår och 
 description: "Ger en översikt över om du vill avsluta ett räkenskapsår eller en bokföringsperiod, till exempel att se till att dokument och journaler är bokförda och verifiering av banksaldon."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

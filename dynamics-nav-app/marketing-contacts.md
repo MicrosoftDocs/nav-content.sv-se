@@ -3,7 +3,7 @@ title: "Skapa och hantera företagskontakter"
 description: "Du kan ställa in alla externa enheter som du har affärsrelationer med (till exempel potentiella kunder, leverantörer och konsulter) för kontakter."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

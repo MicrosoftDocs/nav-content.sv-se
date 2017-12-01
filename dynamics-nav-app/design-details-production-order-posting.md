@@ -3,7 +3,7 @@ title: "Designdetaljer - Bokföring av produktionsorder"
 description: "Precis som för monteringsorderbokföring konverteras de förbrukade komponenterna och den använda maskintiden och utflödas som producerad artikel när produktionsordern har färdigställts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

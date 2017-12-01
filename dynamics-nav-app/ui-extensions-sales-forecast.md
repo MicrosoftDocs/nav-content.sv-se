@@ -3,7 +3,7 @@ title: "Med hjälp av tillägget försäljning och lagerprognos för att hantera
 description: "Det här tillägget låter dig förutse försäljning, få en tydlig översikt över förväntat slut i lager och du kan till och med skapa återanskaffningsförfrågningar till leverantörer."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

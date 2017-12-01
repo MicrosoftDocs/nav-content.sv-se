@@ -3,7 +3,7 @@ title: "Stämma av leverantörsbetalningar manuellt"
 description: "Om du vill bearbeta, matcha eller stämma av leverantörsbetalningar eller återbetalningar manuellt, kopplar du beloppet till en eller flera öppna leverantörsreskontratransaktioner."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

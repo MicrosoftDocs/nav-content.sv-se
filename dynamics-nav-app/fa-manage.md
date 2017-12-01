@@ -3,7 +3,7 @@ title: "Hantera anläggningstillgångar"
 description: "Lär dig mer om funktionen för anläggningstillgångar i Dynamics NAV och få en översikt över hur du arbetar med anläggningstillgångar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

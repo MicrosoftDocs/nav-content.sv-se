@@ -3,7 +3,7 @@ title: Om produktionsorder
 description: "Produktionsorder används för att hantera omvandlingen av inköpt material till producerade artiklar. Produktionsorder (tillverknings- eller arbetsorder) dirigerar arbete via olika anläggningar (produktions- eller maskingrupper) i fabriken."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

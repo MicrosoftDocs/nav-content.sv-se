@@ -3,7 +3,7 @@ title: "Villkor för överföring av redovisningstransaktioner till kostnadstran
 description: "Det är viktigt att förstå kriterier för överföring av redovisningstransaktioner mot kostnadstransaktioner. Under överföringen använder batchjobbet **Överför redovisningstransaktioner** till kostnadsredovisning följande kriterier för att bestämma om och hur redovisningstransaktionerna överförs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

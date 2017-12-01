@@ -3,7 +3,7 @@ title: "Använda tillägget QuickBooks-migrering"
 description: "Beskriver hur du använder tillägget för att migrera kunder, leverantörer, artiklar och konton från QuickBooks Online till Dynamics NAV."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

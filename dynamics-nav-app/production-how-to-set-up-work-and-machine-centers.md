@@ -3,7 +3,7 @@ title: "Så här: ställa in produktionsgrupper och maskingrupper"
 description: "På ett **Produktionsgrupp**-kort ordnar du fasta värden och behov för produktionsresursen. På så sätt kan du styra utdata från den produktion som utförs i produktionsgruppen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

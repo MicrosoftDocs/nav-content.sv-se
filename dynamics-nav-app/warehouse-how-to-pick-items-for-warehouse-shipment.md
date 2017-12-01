@@ -3,7 +3,7 @@ title: "Så här: plocka artiklar för Dist.lager utleverans"
 description: "När Lagerställe är inställt på att begära plockningsbearbetning så väl som utleveransbearbetning använder du plockningsdokumenten för att skapa och bearbeta plockningsinformationen innan du bokför Lagerutleveransen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

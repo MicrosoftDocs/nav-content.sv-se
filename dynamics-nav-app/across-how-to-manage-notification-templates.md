@@ -3,7 +3,7 @@ title: "Så här hanterar du meddelandemallar"
 description: "Meddelanden skickas till arbetsflödesanvändare för att meddela dem om steg som måste vidtas eller informera dem om statusen för arbetsflödessteg. Du kan konfigurera vem som får meddelanden, och när, genom att ställa in godkännandeanvändare, användarnas meddelandeschema och relevanta arbetsflödessvaren som definierar meddelandemottagaren. Mer information finns i [ställa in meddelanden för arbetsflödet](across-setting-up-workflow-notifications.md)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

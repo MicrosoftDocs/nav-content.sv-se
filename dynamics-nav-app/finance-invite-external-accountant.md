@@ -2,7 +2,7 @@
 title: "Lägga till en extern revisor till Dynamics NAV"
 description: "Lär dig hur du kan bjuda in dina externa revisorn till din Dynamics NAV"
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här bokför du serviceorder"
 description: "När du har skapat en serviceorder, fyllt i all nödvändig information och gjort eventuella ändringar kan du bokföra serviceordern. Ordern måste innehålla åtminstone en serviceartikelrad och en servicerad innan du kan bokföra den. Om ordern innehåller mer än en servicerad bokförs alla rader samtidigt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

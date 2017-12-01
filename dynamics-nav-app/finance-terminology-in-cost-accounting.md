@@ -3,7 +3,7 @@ title: Terminologi i kostnadsredovisning
 description: "I det här avsnittet definieras de viktigaste begreppen som används i kostnadskalkylering."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

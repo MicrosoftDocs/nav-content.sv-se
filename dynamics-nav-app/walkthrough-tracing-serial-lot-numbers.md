@@ -3,7 +3,7 @@ title: "Genomgång: Spåra serienummer/partinummer"
 description: "När produktfel inträffar måste felen identifieras och de artiklar som påverkas måste hindras från att lämna företaget. Ifall defekta produkter redan har skickats måste du spåra vem som tagit emot dem och, vid behov, att återkalla dessa artiklar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

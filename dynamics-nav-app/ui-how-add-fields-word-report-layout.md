@@ -3,7 +3,7 @@ title: "Så här lägger du till fält i en Word-rapportlayout"
 description: "Beskriver hur du lägger till fält i en rapportdatauppsättning i en befintlig Word-rapportlayout för en rapport."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

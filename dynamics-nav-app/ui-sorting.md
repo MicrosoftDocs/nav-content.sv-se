@@ -3,7 +3,7 @@ title: "Ordna data med hjälp av sorteringsfunktionen"
 description: "Du kan använda sorteringsfunktionen för att får en översikt över dina data. Du kan till exempel sortera kunderna efter valutakod för att få ett urval utvalda kunder."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

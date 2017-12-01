@@ -2,7 +2,7 @@
 title: Ta emot och omvandla elektroniska dokument
 description: "Du kan ta emot elektroniska dokument direkt från handelspartner eller en OCR-tjänst."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

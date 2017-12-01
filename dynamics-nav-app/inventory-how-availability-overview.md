@@ -3,7 +3,7 @@ title: "Få en dispositionsöversikt"
 description: "Du kan få information om dispositionen av artiklar eller lager mellan lagerställen per försäljning eller inköphändelser efter en viss tidsperiod eller efter artikelns placering på en monterings- eller produktionsstruktur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

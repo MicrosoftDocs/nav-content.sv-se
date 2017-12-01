@@ -3,7 +3,7 @@ title: "Ställa in resurser, tidrapporter och jobb"
 description: "Beskriver hur du ställer in resurser och tidrapporter och projekt för att hantera projekt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

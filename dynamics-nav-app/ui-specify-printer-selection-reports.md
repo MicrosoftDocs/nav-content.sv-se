@@ -3,7 +3,7 @@ title: "Skapa rapporter som ska skrivas ut på en viss skrivare"
 description: "Lär dig att ange en skrivare för en rapport och använda fönstret Skrivarval."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

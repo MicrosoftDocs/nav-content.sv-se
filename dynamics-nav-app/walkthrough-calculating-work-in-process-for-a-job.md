@@ -3,7 +3,7 @@ title: "Genomgång: Beräkna produkter i arbete för ett projekt"
 description: "Med Projekt kan du schemalägga förbrukningen av ditt företags resurser och hålla reda på de olika kostnader som är förknippade med förbrukningen av resurser i ett visst projekt. I projekt ingår förbrukningen av anställdas arbetstimmar, maskintimmar, lagerartiklar samt andra typer av förbrukning som du behöver hålla koll på i takt med att arbetet fortskrider."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

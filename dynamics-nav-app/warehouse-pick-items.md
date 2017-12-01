@@ -3,7 +3,7 @@ title: Plocka artiklar
 description: "Lageraktiviteten att plocka artiklar innan de har levererats eller förbrukats utförs på olika sätt beroende på hur lagerstyrningsfunktionerna har konfigurerats. Hur komplexa [setup](../configure-warehouse-processes.md)-inställningarna är kan sträcka sig från inga lagerfunktioner, till grundläggande lagerkonfigurationer med hantering av order för order i en eller flera aktiviteter samt avancerade konfigurationer där alla lageraktiviteter måste utförs i ett dirigerat arbetsflöde."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

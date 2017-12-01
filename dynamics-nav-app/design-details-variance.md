@@ -3,7 +3,7 @@ title: Designdetaljer - Varians
 description: "Varians definieras som skillnaden mellan den faktiska kostnaden och standardkostnaden, enligt beskrivningen i följande formel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

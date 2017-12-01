@@ -3,7 +3,7 @@ title: Hantera interaktioner med dina kontakter
 description: "Du kan hantera all slags kommunikation eller interaktioner mellan ditt företag och kontakterna, till exempel för brev, telefonsamtal, sammanträden och så vidare."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

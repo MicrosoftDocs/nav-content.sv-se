@@ -3,7 +3,7 @@ title: "Så här skapar du interaktioner på kontakter och segment"
 description: "Beskriver hur du kan skapa interaktioner för den kommunikation som du har med dina kontakter och segment i Dynamics NAV, till exempel direktreklam."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

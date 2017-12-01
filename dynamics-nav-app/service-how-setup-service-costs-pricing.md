@@ -3,7 +3,7 @@ title: "Definiera prissättning och kostnader för service"
 description: "Så här: registrera prissättning och alternativa kostnader för service"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

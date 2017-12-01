@@ -3,7 +3,7 @@ title: "Översikt över rapporter före bokslut för att kontrollera noggrannhet
 description: "Ger en översikt över de rapporter som du kan använda för att kontrollera att räkenskaperna stämmer innan du avslutar böckerna vid slutet av ett år eller en period."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

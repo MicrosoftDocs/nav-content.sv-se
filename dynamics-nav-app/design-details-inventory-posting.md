@@ -3,7 +3,7 @@ title: "Designdetaljer - Lagerbokföring"
 description: "Varje lagertransaktion, t.ex en inköpsinleverans eller en utleverans, bokför två transaktioner av olika typer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

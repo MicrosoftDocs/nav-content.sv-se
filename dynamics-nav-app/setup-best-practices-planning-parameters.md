@@ -2,7 +2,7 @@
 title: 'Skapa metodtips: planeringsparametrar'
 description: "Snabbfliken **Planering** på artikelkortet är mitten av ett företags försörjningskedja. Det är mycket viktigt att ställa in rätt planeringsparametrar för kostnadseffektiv lagerkontroll och hög kundservicenivå."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

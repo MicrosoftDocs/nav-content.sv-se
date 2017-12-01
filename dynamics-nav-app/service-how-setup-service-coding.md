@@ -3,7 +3,7 @@ title: "Skapa koder för standardservice"
 description: "Lär dig mer om att lägga upp koder för serviceaktiviteter som du utför ofta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

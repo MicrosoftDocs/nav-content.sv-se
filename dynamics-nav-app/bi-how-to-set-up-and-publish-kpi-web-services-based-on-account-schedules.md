@@ -3,7 +3,7 @@ title: "Så här skapar och publicerar du KPI-webbtjänster som är baserade på
 description: "I fönstret **Installation av webbtjänst för KPI för kontouppställning**, kan du konfigurera hur du visar kontouppställnings-kpi-data och vilka specifika kontouppställningar som du vill basera KPI-erna på."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

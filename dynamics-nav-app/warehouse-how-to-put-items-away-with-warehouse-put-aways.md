@@ -3,7 +3,7 @@ title: "Så här: Införa artiklar med dist.lager artikelinförsel"
 description: "När lagerstället kräver både inleverans- och artikelinförselbearbetning för distributionslagret använder du funktionen för distributionslagerartikelinförseldokumenten för att styra hur artiklar införs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

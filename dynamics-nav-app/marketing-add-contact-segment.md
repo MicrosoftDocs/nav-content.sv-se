@@ -3,7 +3,7 @@ title: Definiera kontakter i ett segment
 description: "När du har skapat ett segment kan du kan lägga till kontakter i segmentet, exempelvis som en del av en marknadsföringskampanj där du riktar dig mot vissa kunder."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

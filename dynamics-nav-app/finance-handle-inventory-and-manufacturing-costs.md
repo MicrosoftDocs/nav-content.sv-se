@@ -3,7 +3,7 @@ title: Hantera lager - och produktionskostnader
 description: "Många av funktionerna inom kostnadskalkylering utförs i underliggande processer som användaren inte behöver bry sig om, till exempel transaktionskoppling och automatisk kostnadsjustering, men ett antal fält, fönster och rapporter riktar sig mot användare som direkt eller indirekt hanterar kostnader för artiklar eller driften."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

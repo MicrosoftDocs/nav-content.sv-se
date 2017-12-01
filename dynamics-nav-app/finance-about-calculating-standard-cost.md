@@ -3,7 +3,7 @@ title: "Om beräkning av standardkostnad"
 description: "I standardkostnadssystemet fastställs styckkostnaden i lagret utifrån en historisk eller förväntad kostnad som är rimlig. På det här sättet skapas ett underlag för standardkostnaderna, eftersom tidigare och förväntade framtida kostnadsdata undersöks."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

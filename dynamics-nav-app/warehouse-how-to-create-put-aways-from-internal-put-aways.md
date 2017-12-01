@@ -3,7 +3,7 @@ title: "Så här skapar du artikelinförslar från Intern artikelinförsel"
 description: "När artiklar har förts in och innan de plockas till en produktionsorder eller utleverans, förvaras de i distributionslagret som en del av det disponibla lagersaldot."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

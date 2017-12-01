@@ -3,7 +3,7 @@ title: "Granska en testrapport innan du bokför ett försäljnings- eller inköp
 description: "Innan du bokför ett dokument, till exempel en order eller kreditnota, kan du testa och granska den att söka efter fel som kan förhindra bokföring."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

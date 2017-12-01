@@ -3,7 +3,7 @@ title: "Så här aktiverar du arbetsflöden"
 description: "När du har skapat ett arbetsflöde och du vet att det är redo att startas måste du aktivera arbetsflödet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

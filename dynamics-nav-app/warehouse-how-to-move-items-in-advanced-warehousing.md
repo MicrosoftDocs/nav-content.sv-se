@@ -3,7 +3,7 @@ title: "Så här flyttar du artiklar i avancerad distributionslagerkonfiguration
 description: "I avancerad lagerkonfiguration, dvs lagerställen som använder Dirigerad art.inf. och plockning , utförs transporter mellan lagerplatser av en ansvarig anställd som förbereder Dist.lager transporterna i transportförslaget och sedan skapar dist.lager transporterna så att lagerpersonalen kan utföra dem."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

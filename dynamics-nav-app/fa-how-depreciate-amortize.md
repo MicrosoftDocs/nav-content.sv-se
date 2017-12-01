@@ -3,7 +3,7 @@ title: Skriva av eller amortera anl.
 description: "Du måste definiera hur du ska skriva ner, skriva av eller amortera var och en av anläggningstillgångarna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

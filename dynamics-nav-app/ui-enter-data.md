@@ -2,7 +2,7 @@
 title: "Hur du anger du data i fält"
 description: "Det finns många allmänna funktioner som gör det snabbt och enkelt att registrera data. Dessa funktioner för dataregistrering beskrivs i det här avsnittet."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

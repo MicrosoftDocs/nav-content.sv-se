@@ -3,7 +3,7 @@ title: "Så här skapar du operationsföljder"
 description: "En operationsföljd innehåller standarddata som samlar processkraven för en viss producerad artikel. När en produktionsorder har skapats för den överordnade artikeln, avgör dess produktionsstruktur beräkningen av materialbehoven enligt vad som visas i fönstret **Prod.orderoperationsföljd**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

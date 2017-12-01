@@ -3,7 +3,7 @@ title: "Så här skapar du låneartiklar"
 description: "Du kan skapa låneartiklar som du kan låna ut till kunder för att ersätta serviceartiklar medan de är på service."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

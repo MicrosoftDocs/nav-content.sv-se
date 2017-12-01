@@ -3,7 +3,7 @@ title: Designdetaljer - Konton i redovisningen
 description: "Om du vill stämma av lager- och kapacitetstransaktioner med redovisningen, bokförs de relaterade värdetransaktionerna på olika redovisningskonton."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

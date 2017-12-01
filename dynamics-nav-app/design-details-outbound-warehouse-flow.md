@@ -3,7 +3,7 @@ title: "Designdetaljer - Avgående distributionslagerflöde"
 description: "Det avgående artikelflödet i distributionslagret inleds med en förfrågan från utsläppta källdokument att ta artiklarna ut från distributionslagerplatsen, antingen för att levereras till en extern part eller till en annan företagplats. Från lagringsområdet utförs lageraktiviteter på olika komplexitetsnivåer för att få ut artiklarna till utleveransställena."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

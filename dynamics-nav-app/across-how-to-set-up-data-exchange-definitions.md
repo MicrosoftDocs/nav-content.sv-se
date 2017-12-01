@@ -2,7 +2,7 @@
 title: "Definiera hur data överförs elektroniskt"
 description: "Använd en extern leverantör för OCR-tjänster för att omvandla PDF- eller bildfiler till elektroniska dokument."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

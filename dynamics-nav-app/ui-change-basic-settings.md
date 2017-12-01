@@ -3,7 +3,7 @@ title: "Visa och redigera grundläggande inställningar i Dynamics NAV"
 description: "Lär dig hur du ändrar några av de grundläggande inställningarna i Dynamics NAV till exempel, rollcenter, företag eller arbetsdatumet."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

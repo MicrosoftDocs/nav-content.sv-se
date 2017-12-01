@@ -3,7 +3,7 @@ title: "Definiera allmänna lagerinställningar"
 description: "Beskriver hur du definierar den allmänna lagerinställningen, såsom nummerserier och platser så att du kan hantera lagerställe och lager."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

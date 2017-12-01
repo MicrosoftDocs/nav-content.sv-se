@@ -2,7 +2,7 @@
 title: "Dynamics NAV och Power BI innehållspaket"
 description: "Det är enkelt att få insikter, affärsstöd och KPI:er från dina Dynamics NAV-data med Power BI och innehållspaketet för Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

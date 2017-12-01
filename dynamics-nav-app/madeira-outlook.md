@@ -3,7 +3,7 @@ title: "Använda Dynamics NAV med Outlook"
 description: "Dynamics NAV har långtgående integrering med Office 365 så att du kan hantera alla dina kontakter och skicka e-post till kunder och leverantörer direkt i Outlook."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Designdetaljer - Prioritera order
 description: "Mer information om hur du prioriterar för att täcka både krav för efterfrågan och tillgång."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

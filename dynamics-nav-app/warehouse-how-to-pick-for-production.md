@@ -3,7 +3,7 @@ title: "Så här plockar du komponenter för produktion i en grundläggande lage
 description: "När distributionslagrets lagerställe kräver plockningsbearbetning, men inte utleveransbearbetning, använder du fönstret **Lagerplockning** för att ordna och registrera plockning av komponenter."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

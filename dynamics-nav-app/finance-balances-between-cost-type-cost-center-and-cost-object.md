@@ -3,7 +3,7 @@ title: "Saldon mellan kostnadstyp, kostnadsställe och kostnadsbärare"
 description: "När du lägger upp kostnadsredovisning måste du kontrollera att alla transaktioner har kopplats till en kostnadstyp samt ett kostnadsställe eller en kostnadsbärare. Det innebär att varje kostnadstransaktion måste ha en tilldelad kostnadstyp och en kod för kostnadsställe eller kostnadsbärare. Denna regel ser till att alla kostnadstransaktioner visas i antingen kostnadsställena eller kostnadsbärarna, men inte på båda platserna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här ställer du in automatiska kontobokföringsmallar"
 description: "Om du vill använda automatiska kontokoder måste du skapa en automatisk kontobokföringsmall."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

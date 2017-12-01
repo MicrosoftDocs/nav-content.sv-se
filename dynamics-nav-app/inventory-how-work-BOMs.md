@@ -3,7 +3,7 @@ title: "Så här arbetar du med strukturer för att hantera komponenter"
 description: "Du kan skapa en monteringsstruktur eller produktionsstruktur för att ange vilka komponenter eller resurser som krävs för att sätta ihop artiklarna som strukturen representerar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Genomgång: Sälja, sammanställa och leverera satser"
 description: "För att stödja just-i-tid-lager och kapaciteten för att anpassa produkter till kundförfrågan, kan monteringsorder automatiskt skapas och kopplas så snart försäljningsorderraden skapas. Kopplingen mellan försäljningsbehov och monteringsleverans hjälper försäljningsorderhandläggare att anpassa monteringsartikeln och lova leveransdatum utifrån komponentens tillgänglighet. Monteringsförbrukning och monteringsutflöde bokförs dessutom automatiskt tillsammans med utleveransen av den kopplade försäljningsordern."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

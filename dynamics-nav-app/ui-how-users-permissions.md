@@ -2,7 +2,7 @@
 title: "Tilldela användarbehörigheter och skapa eller ändra behörighetsgrupper"
 description: "Beskriver hur du lägger till Office 365-användare till Dynamics NAV och tilldelar dem behörigheter, åtkomstbehörigheter och säkerhetsinställningar."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

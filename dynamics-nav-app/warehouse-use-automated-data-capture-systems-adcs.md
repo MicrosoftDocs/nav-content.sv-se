@@ -2,7 +2,7 @@
 title: "Använda ADCS (Automated Data Capture Systems)"
 description: "Du kan använda det automatiska datainsamlingssystemet (ADCS eller Automated Data Capture System) för att registrera förflyttningen av alla artiklar i distributionslagret och för att registrera några journalaktiviteter, däribland kvantitetsjusteringar i artikeljournalen för distributionslagret, inventeringsjournalen och fysisk inventering."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

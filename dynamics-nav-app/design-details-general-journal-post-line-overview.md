@@ -3,7 +3,7 @@ title: "Översikt över bokföring av rad i redovisningsjournalen"
 description: "Det här ämnet introducerar ändringar i Kodmodul 12, **Redovisningsjnl.bokför rad** är det större programobjektet för redovisningsbokföring och är den enda plats där redovisning, moms, kund- och leverantörsreskontraposter kan infogas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

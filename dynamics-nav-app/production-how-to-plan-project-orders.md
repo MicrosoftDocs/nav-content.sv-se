@@ -3,7 +3,7 @@ title: "Så här kan du planera projektorder"
 description: "Den här planeringsåtgärden påbörjas från en försäljningsorder, och inställningarna i fönstret **Förs.orderplanering** används. När du har skapat en projektproduktionsorder kan du planera den ytterligare med hjälp av fönstret **Orderplanering**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

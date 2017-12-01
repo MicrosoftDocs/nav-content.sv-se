@@ -3,7 +3,7 @@ title: Konfigurera produktionsprocesser
 description: "För att material ska kunna omvandlas till tillverkade slutartiklar måste produktionsresurser som t.ex. strukturer, operationsföljder, maskinoperatörer och maskiner ställas in i systemet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

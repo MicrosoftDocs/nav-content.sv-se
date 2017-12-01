@@ -2,7 +2,7 @@
 title: "Lägga till information till poster till dig själv"
 description: "Bifoga en anteckning till valfri post i programmet. Om du till exempel har extra information om en försäljningsorder som inte passar något av fälten på försäljningsordern kan du skriva en notering."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

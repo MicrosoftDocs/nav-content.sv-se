@@ -3,7 +3,7 @@ title: Avskrivningsmetoder
 description: "Lär dig mer om de olika metoderna för avskrivning eller nedskrivning av anläggningstillgångar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

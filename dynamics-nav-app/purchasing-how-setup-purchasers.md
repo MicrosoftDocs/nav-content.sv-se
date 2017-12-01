@@ -3,7 +3,7 @@ title: "Skapa inköpare och koppla inköpare till leverantörer"
 description: "Om flera inköpare eller inköpsagenter arbetar i företaget kan du sortera dem för statistiska analyser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

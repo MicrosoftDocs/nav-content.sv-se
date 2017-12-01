@@ -3,7 +3,7 @@ title: "Designdetaljer: Artikelspårning och reservationer"
 description: "Det här avsnittet handlar om artikelspårning och reservationer och beskriver koncepten bakom de två."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

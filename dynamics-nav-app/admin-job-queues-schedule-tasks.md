@@ -2,7 +2,7 @@
 title: "Schemalägga projekt att köras automatiskt"
 description: "Schemalagda aktiviteter hanteras av jobbkön. Dessa projekt kör rapporter och kodenheter. Du kan ange att jobb ska köras en gång eller återkommande."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

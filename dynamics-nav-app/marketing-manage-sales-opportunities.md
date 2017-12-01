@@ -3,7 +3,7 @@ title: "Hantera Försäljningsmöjligheter och leads"
 description: "Beskriver hantering av alla inkommande lead eller affärsmöjligheter i Dynamics NAV och associera affärsmöjligheten med en säljare för att följa upp potentiell försäljning."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

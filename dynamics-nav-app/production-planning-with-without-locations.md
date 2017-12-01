@@ -3,7 +3,7 @@ title: "Planera med och utan lagerställen."
 description: "Det är viktigt att förstå att planera med eller utan lagerställekoder på behovsrader."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

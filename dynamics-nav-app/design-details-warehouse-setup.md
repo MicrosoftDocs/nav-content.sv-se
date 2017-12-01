@@ -3,7 +3,7 @@ title: "Designdetaljer - Lagerstyrningsinställningar"
 description: "Distributionslagerfunktion i [!INCLUDE[d365fin](includes/d365fin_md.md)] innehåller olika nivåer av komplexitet, enligt definitionen av licensbehörigheter i de offererade partiklarna. Nivån av komplexitet i en lagerlösning definieras i hög grad av den lagerplatsinställningen på lagerställekort, som i sin tur är licenskontrollerat så att åtkomsten till inställningsfält för lagerplatsen definieras av licensen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

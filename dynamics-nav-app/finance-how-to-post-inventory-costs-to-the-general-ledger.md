@@ -3,7 +3,7 @@ title: "Så här kan du bokföra lagerkostnader i redovisningen"
 description: Beskriver hur du hanterar fysiska varor som du handlar med, till exempel hantering av lager i distributionslagret.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Konfigurera dokumentspecifikt innehåll och bifogade filer i e-postmedde
 description: "Du kan definiera innehåll som ska infogas i brödtexten i ett e-postmeddelande, till exempel en PayPal-länk. Du kan också koppla dokument till e-postmeddelanden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

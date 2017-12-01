@@ -3,7 +3,7 @@ title: "Tilldela en leverantör till en prioritetsnivå"
 description: "Du kan tilldela nummer till leverantörer eller för att prioritera dem och underlätta betalningsförslag i Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

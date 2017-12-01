@@ -3,7 +3,7 @@ title: "Så här: Skapa lagerplatser"
 description: "Det effektivaste sättet att skapa lagerplatserna i distributionslagret på är att generera grupper med liknande lagerplatser i lagerplatsuppläggningsförslaget, men du kan även skapa en lagerplats i taget genom att följa anvisningarna nedan."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

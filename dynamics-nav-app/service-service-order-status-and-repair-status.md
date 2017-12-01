@@ -3,7 +3,7 @@ title: Serviceorderstatus och reparationsstatus
 description: "Fältet **Status** i fönstret **Serviceorder** och serviceartikelns reparationsstatus som visas i fältet **Reparationsstatuskod** i fönstret **Serviceorder** har ett visst samband i modulen Servicehantering. Serviceorderstatus visar reparationsstatus för alla serviceartiklar i serviceordern."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

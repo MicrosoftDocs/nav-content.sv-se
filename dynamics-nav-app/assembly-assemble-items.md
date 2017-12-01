@@ -3,7 +3,7 @@ title: Monteringshantering
 description: "För att hantera företag som levererar till produkter till kunder genom att slå ihop komponenter i enkla processer utan behov av produktionsfunktionen, innehåller  funktionen för att sammanställa artiklar som integreras med befintliga funktioner, till exempel försäljning, planering, reservationer och lagerhantering."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

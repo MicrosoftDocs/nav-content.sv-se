@@ -3,7 +3,7 @@ title: "Migrera Data från Dynamics GP med tillägget Data Migration"
 description: "Filnamnstillägget Dynamics GP datamigrering används för att flytta över kunder, leverantörer, lagerartiklar och konton från Dynamics GP till Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

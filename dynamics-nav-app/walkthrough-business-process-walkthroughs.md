@@ -3,7 +3,7 @@ title: "Genomgång av affärsprocesser"
 description: "Det här valet av genomgångar visar stegvisa affärsprocesser som du kan utföra med hjälp av demonstrationsföretaget CRONUS International Ltd. Genomgångarna består av flera procedurer, där några vanligtvis utförs av en enda användare medan andra införlivar flera användarroller. För att simulera arbetsmiljön innehåller några av genomgångarna konfigurationssteg för att slutföra övningarna i beskrivningen. Dessa steg kan ge en inblick i typen av information som användare måste dela med sitt företags IT-proffs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

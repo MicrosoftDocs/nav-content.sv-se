@@ -2,7 +2,7 @@
 title: "Fältmappning för export av bankbetalningsfiler"
 description: "När du exporterar betalningsfiler med hjälp av funktionen för bankdatakonvertering kommer de data du exporterar att bli exponerade för bankdatakonverteringstjänsten."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

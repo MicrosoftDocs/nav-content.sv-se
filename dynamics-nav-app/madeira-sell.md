@@ -3,7 +3,7 @@ title: "Försäljning av Dynamics NAV"
 description: "Ta reda på hur du kan expandera dina affärsmöjligheter och bli en Microsoft-partner och återförsäljare av Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

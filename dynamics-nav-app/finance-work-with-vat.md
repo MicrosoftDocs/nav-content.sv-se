@@ -3,7 +3,7 @@ title: "Så här arbetar du med moms på försäljning och inköp"
 description: "Det här avsnittet beskriver hur du utför uppgifter som att rätta bokförd moms i EU-länder/regioner, där varje försäljnings- och inköptransaktion är momspliktiga. Det här avsnittet beskriver hur."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

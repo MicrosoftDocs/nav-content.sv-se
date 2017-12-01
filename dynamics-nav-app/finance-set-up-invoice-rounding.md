@@ -3,7 +3,7 @@ title: "Ställa in överavrundning"
 description: "Du kan avrunda fakturabelopp när du skapar fakturor. Dessutom kan lokala regler eller lokal praxis kräva att fakturan rundas av på ett visst sätt, till exempel till ett belopp som är delbart med 0,05."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Bearbeta inkommande dokument
 description: "Om du vill registrera ett externt dokument, t.ex. en PDF i Dynamics NAV, måste du först skapa eller slutföra en inkommande dokumentpost."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

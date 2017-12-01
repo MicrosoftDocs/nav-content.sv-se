@@ -3,7 +3,7 @@ title: "Konfigurera arbetsansvar för kontakter"
 description: "Du kan definiera ett arbetsansvar och tilldela den till en kontakt för att ange vilka aktiviteter som kontakten ansvarar för i företaget, till exempel IT- eller produktionsorder."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

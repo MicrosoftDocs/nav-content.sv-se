@@ -3,7 +3,7 @@ title: "Översikt över aktiviteterna som avslutar böckerna"
 description: "Mer information om hur du avslutar böckerna för ett räkenskapsår eller en period och vad som händer när du avslutar i slutet av året."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Så här arbetar du med serviceuppgifter"
 description: "När du har skapat en serviceorder eller serviceoffert, registrerat serviceartikelrader och fördelat resurser på orderns eller offertens serviceartiklar kan du börja reparera och underhålla serviceartiklarna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

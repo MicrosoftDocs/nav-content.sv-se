@@ -2,7 +2,7 @@
 title: "Påminna eller bötfälla kunder med förfallna betalningar"
 description: "Beskriver hur du skickar en påminnelse till en kund om en betalning förfaller och lägger till avgifter på grund av förseningen."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

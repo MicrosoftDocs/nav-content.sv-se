@@ -3,7 +3,7 @@ title: "Designdetaljer - Omvärdering"
 description: "Du kan omvärdera lagret utifrån den värderingsbas som bäst återspeglar lagervärdet. Du kan också bakåtdatera en omvärdering, så att kostnaden för sålda varor (KSV) uppdateras korrekt för artiklar som redan har sålts. Artiklar som använder värderingsprincipen Standard, som inte har fakturerats helt, kan också omvärderas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

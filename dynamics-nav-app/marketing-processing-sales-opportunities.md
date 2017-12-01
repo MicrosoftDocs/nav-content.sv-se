@@ -3,7 +3,7 @@ title: "Bearbeta affärsmöjligheter i försäljningscykler"
 description: "Visa, stänga eller ta bort affärsmöjligheter och du kan skapa offerter och försäljningsorder för affärsmöjligheter och flytta en affärsmöjlighet genom försäljningscykelns olika faser."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

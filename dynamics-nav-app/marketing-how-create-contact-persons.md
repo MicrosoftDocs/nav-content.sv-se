@@ -3,7 +3,7 @@ title: Skapa kontaktpersoner
 description: "Beskriver hur du skapar ett kontaktkort för varje ny person eller potentiell kund som du interagerar med eller har en affärsrelation med."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

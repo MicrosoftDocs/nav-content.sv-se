@@ -3,7 +3,7 @@ title: "Arbeta med anpassade och inbyggda layouts för rapporter och dokument"
 description: "Använd rapportlayouter för att anpassa dokument, till exempel för att anpassa teckensnitt, logotyp eller inställningar för de PDF-filer som du skickar till kunder."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

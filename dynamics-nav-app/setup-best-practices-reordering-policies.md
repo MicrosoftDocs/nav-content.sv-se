@@ -3,7 +3,7 @@ title: 'Skapa metodtips: partiformningsmetoder'
 description: "Fältet **Partiformningsmetod** på artikelkort erbjuder fyra olika planeringsmetoder som bestämmer hur de enskilda planeringsparametrarna kommunicerar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

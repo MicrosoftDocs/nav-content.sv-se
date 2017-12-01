@@ -3,7 +3,7 @@ title: "Genomgång: Lägga upp och fakturera förskottsbetaln., försäljning"
 description: "Förskottsbetalningar är betalningar som faktureras och bokförs för en försäljnings- eller inköpsorder före slutfaktureringen. Du kan kräva en deposition innan du tillverkar artiklar mot order eller så kan du kräva betalning innan du levererar artiklar till en kund. Använd funktionen i för förskottsbetalning i [!INCLUDE[d365fin](includes/d365fin_md.md)] för att fakturera och inkassera depositioner från kunder eller betala depositioner till leverantörer. På så sätt kan du se till att alla betalningar bokförs mot en faktura."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

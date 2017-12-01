@@ -3,7 +3,7 @@ title: "Så här kan du ändra planeringsförslag i en grafisk översikt över s
 description: "En vanlig planeringsaktivitet är att ändra eller lägga till planeringsförslagsrader för att ändra de föreslagna leveransordrarna innan du utför dem genom att köra funktionen **Verkställ åtgärdsmeddelande**. Ett alternativ för att göra det i planeringsförslaget är att använda en grafisk översikt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Administrativa uppgifter i Dynamics NAV
 description: "Vissa uppgifter i [!INCLUDE[d365fin](includes/d365fin_md.md)] kräver central administration och inställningar. Se vad de är och lär dig vad du ska göra."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

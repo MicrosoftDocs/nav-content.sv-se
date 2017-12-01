@@ -2,7 +2,7 @@
 title: "Servicebokföring"
 description: "Funktionen för servicebokföring gör att du kan behandla dokumenten mer effektivt och upprätthålla en bra service till kunderna. Du kan skapa och uppdatera bokförda dokument och skapa transaktioner i modulen Service och i andra moduler så att informationen alltid är korrekt uppdaterad."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

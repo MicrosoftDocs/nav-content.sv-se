@@ -3,7 +3,7 @@ title: "Så här skapar du serviceorder"
 description: "Du kan använda fönstret **Serviceorder** för att skapa dokument där du anger information om service, som reparation och underhåll, på serviceartiklar efter kundkrav."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

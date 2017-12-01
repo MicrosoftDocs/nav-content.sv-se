@@ -3,7 +3,7 @@ title: "Så här skriver du ut en kundremissa"
 description: "Du kan hjälpa dina leverantörer göra avstämningar genom att skriva ut en kundremissa innan du bokför en utbetalningsjournal och när du har bokfört en betalning."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

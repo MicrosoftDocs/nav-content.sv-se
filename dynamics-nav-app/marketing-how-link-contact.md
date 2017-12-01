@@ -3,7 +3,7 @@ title: "Länka kontakter med kunder och leverantörer"
 description: "Beskriver hur du kopplar kontakter till en kund, leverantör eller bankkonto från samma företag, så att du kan synkronisera gemensamma data."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

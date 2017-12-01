@@ -3,7 +3,7 @@ title: Definiera relationen mellan kostnadstyper och redovisningskonton
 description: "Lär dig hur du skapar relationen mellan kostnadstypen och redovisningskontot."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

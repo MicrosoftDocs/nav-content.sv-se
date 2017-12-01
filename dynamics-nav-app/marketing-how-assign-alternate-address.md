@@ -3,7 +3,7 @@ title: Tilldela en annan kontaktadress
 description: "Beskriver hur du tilldelar en alternativ adress för kontakter eller potentiella kunder, där de ibland skickas information."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

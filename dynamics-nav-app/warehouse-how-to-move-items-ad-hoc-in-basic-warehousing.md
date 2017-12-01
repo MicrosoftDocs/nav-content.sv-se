@@ -3,7 +3,7 @@ title: "Så här flyttar du artiklar ad hoc i grundläggande lagerkonfiguration"
 description: "Ibland kan du behöva flytta artiklar mellan interna lagerplatser, inte inleverans eller utleveranslagerplatser, utan en viss efterfrågan från ett källdokument. Du kan utföra dessa ad hoc-transporter, till exempel, kan du ordna om distributionslagret, för att få artiklarna till område, eller flytta ytterligare artiklar till och från en produktionsområde utan ett systemsamband med produktionsorderkälldokumentet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

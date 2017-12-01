@@ -3,7 +3,7 @@ title: "Valfria aktiviteter för att avsluta perioder"
 description: "I det här avsnittet beskrivs de valfria processer och aktiviteter för att avsluta bokföringsperioder i Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

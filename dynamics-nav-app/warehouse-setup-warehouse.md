@@ -3,7 +3,7 @@ title: Konfigurera lagerprocesser
 description: "Ett företags distributionsstrategi återspeglas i konfigurationen av dess lagerprocesser. Detta omfattar att definiera hur olika artiklar hanteras på olika lagerställen, till exempel graden av styrning av lagerplats och omfattningen av arbetsflödet som krävs mellan lageraktiviteterna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

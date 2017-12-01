@@ -3,7 +3,7 @@ title: "Genomgång: Konfigurera och använda ett arbetsflöde för godkännande 
 description: "Du kan automatisera processen för att godkänna nya eller ändrade transaktioner, t.ex dokument, journalrader och kundkort, genom att skapa arbetsflöden med stegen för godkännandena i fråga. Innan du skapar godkännandearbetsflöden, måste du skapa en godkännare och ersättningsgodkännare för varje godkännandeanvändare. Du kan också ange godkännares beloppsgränser för att definiera vilka försäljnings- och inköpsposter de är behöriga att godkänna. Godkännandebegäranden och andra kan meddelanden skickas som e-post eller intern anteckning. För varje inställning av godkännandeanvändare kan du också ställa in när de tar emot meddelanden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

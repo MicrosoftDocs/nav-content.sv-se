@@ -2,7 +2,7 @@
 title: "Så här ändrar du det årliga beloppet på servicekontrakt eller kontraktsofferter"
 description: "Du kan ändra beloppet som ska faktureras per år för servicekontraktet eller kontraktsofferten."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

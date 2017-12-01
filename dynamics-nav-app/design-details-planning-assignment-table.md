@@ -3,7 +3,7 @@ title: Designdetaljer - Planeringstilldelningstabell
 description: "Det här avsnittet innehåller information om vad som händer när du ändrar hur du planerar för en artikel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

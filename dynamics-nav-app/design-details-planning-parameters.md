@@ -3,7 +3,7 @@ title: Designdetaljer - Planeringsparametrar
 description: "Det här avsnittet beskriver de olika planeringsparametrar som du kan använda i [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

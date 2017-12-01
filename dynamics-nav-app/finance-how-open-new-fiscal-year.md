@@ -2,7 +2,7 @@
 title: "Skapa bokföringsperioder och räkenskapsår"
 description: "Du måste öppna ett räkenskapsår och definiera redovisningsperioder innan du kan föra in ett räkenskapsår."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

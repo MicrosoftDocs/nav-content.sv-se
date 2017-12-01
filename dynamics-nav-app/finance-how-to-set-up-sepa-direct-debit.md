@@ -2,7 +2,7 @@
 title: "Så här: Konfigurera SEPA Autogiro"
 description: "Lär dig hur du ställer in SEPA autogiro i Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

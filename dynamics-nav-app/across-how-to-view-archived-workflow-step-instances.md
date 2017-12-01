@@ -3,7 +3,7 @@ title: "Så här visar du arkiverade instanser för arbetsflödessteg"
 description: "Alla slutförda instanser för arbetsflödessteg sparas i **Arkiverade instanser för arbetsflödessteg**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

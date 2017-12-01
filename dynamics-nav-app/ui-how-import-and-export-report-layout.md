@@ -3,7 +3,7 @@ title: Importera och exportera en rapport och dokumentlayout
 description: "Du kan importera och exportera en befintlig anpassad rapportlayout som en fil till och från en plats på datorn och nätverket."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

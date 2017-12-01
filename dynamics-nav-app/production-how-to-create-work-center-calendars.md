@@ -3,7 +3,7 @@ title: "Så här lägger du upp fabrikskalendrar"
 description: "I en produktionsgruppkalender anger du de arbetsdagar och arbetstimmar, skift, helgdagar och frånvaro som avgör den tillgängliga bruttokapaciteten för produktionsgruppen (mätt i tidsenheter) utifrån de effektivitets- och kapacitetsvärden som har definierats för gruppen. Om du vill skapa och aktivera en produktionsgruppkalender måste du först utföra flera förberedande åtgärder."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

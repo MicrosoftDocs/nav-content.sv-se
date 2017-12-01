@@ -3,7 +3,7 @@ title: "Genomgång: Planera leveranser automatiskt"
 description: "Begreppen \"kör planering\" eller \"kör nettobehov\" syftar på beräkningen av produktionsprogrammet och materialbehovsplan (nettobehov), baserat på faktiska behov och behovsprognoser."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Välkommen"
 description: "Översikt över assisterade installationer, videor, hjälpavsnitt och sidor och fönster du kan använda för att bli redo att göra affärer med Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

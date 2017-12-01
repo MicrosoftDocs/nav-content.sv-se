@@ -3,7 +3,7 @@ title: Servicehantering
 description: "Lär dig att använda funktioner som fungerar som stöd för verkstäder och fältservice."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

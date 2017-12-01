@@ -3,7 +3,7 @@ title: "Så här skapar du lagerplatsinnehåll"
 description: "När du har skapat lagerplatserna kan du skapa deras innehåll. Du kan ange de artiklar som du vill lagra på en viss lagerplats och ange regler som styr hur lagerplatsen ska fyllas med en viss artikel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

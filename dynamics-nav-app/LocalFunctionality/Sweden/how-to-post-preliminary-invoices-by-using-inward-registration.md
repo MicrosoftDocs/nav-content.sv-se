@@ -3,7 +3,7 @@ title: "Så här bokför du preliminära fakturor med ankomstregistrering"
 description: "Med en ankomstregistrering kan du bokföra en preliminär inköpsfaktura, som du senare skriver över när du bokför fakturan som vanligt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
