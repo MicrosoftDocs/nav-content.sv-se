@@ -1,9 +1,8 @@
 ---
-title: "Ställa in mappning för text-till-konto för återkommande betalningar"
+title: "Ställa in mappning för text-till-konto för återkommande betalningar | Microsoft Docs"
 description: "Länka text på betalningar med specifika konton så att betalningar bokförs på kontona när du bokför utbetalningsjournalen för avstämning."
-documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,17 +11,14 @@ ms.search.keywords: account linking, direct payment posting, automatic payment p
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: de3042d13ff280617c43075df705f86bbba7b013
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 284dcac805ef34b433b4cb18499d47249dc8d01b
 ms.contentlocale: sv-se
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Så här mappar du text på återkommande betalningar till konton för automatisk avstämning
 I fönstret **Mappa text till konto** som du öppnar från fönstret **Betalningsavstämningsjournal** kan du skapa mappningar mellan text på betalningar och specifika debet-, kredit- och balanskonton så att sådana betalningar bokförs på de angivna kontona när du bokför betalningar i betalningsavstämningsjournalen.
-
-> [!NOTE]  
->   Ämnet gäller även när du använder funktionen **Mappa text till konto** från en inkommande dokumentpost för att hjälpa till att konvertera elektroniska dokument som tas emot från externa tjänster till dokument i [!INCLUDE[d365fin](includes/d365fin_md.md)]. Mer information [Så här använder du OCR för att omvandla PDF- och bildfiler till elektroniska dokument](across-how-use-ocr-pdf-images-files.md).   
 
 Liknande funktioner finns för att stämma av överskottbelopp på Betalningsavstämningsjournaler på en ad hoc-basis. Mer information finns i [Så här stämmer du av betalningar som inte kan kopplas automatiskt](receivables-how-reconcile-payments-cannot-apply-auto.md).
 
@@ -40,13 +36,15 @@ På en rad i en utbetalningsavstämningsjournal där betalningen har angetts fö
 4. I fältet **Mappningstext** anger du text som finns på betalningar som du vill bokföra på angivna konton utan koppling till en öppen transaktion. Du kan ange upp till 50 tecken.
 
     > [!NOTE]  
->   Om inga andra utbetalningar eller inkommande dokument finns med mappningstexten i fråga kommer Mappa text till konto att uppstå, även om endast en del av texten på utbetalningen eller det inkommande dokumentet finns som en mappningtext.
-5. På fältet **Leverantörsnr.** anger du numret på de inkommande dokument som innehåller mappningstexten ska skapas för, eller som betalningar ska bokföras på. Mer information [Så här använder du OCR för att omvandla PDF- och bildfiler till elektroniska dokument](across-how-use-ocr-pdf-images-files.md).      
-6. På fältet **Debetkontonr.** anger du det konto som betalningar som innehåller mappningstexten ska bokföras till om de är inkommande betalningar. För inkommande betalningar är tecken på värdet i fältet **Transaktionsbelopp** positivt.
-7. På fältet **Kreditkontonr.** anger du det konto som betalningar som innehåller mappningstexten ska bokföras till om de är utgående betalningar. För utgående betalningar är tecken på värdet i fältet **Transaktionsbelopp** negativt.
-8. Ange om betalningen ska bokföras på ett redovisningskonto eller till ett kund- eller leverantörskonto i fältet **Ursprungstyp för motkonto**.
-9. På fältet **Ursprungsnr för motkonto** anger du det konto som betalningen ska bokföras på, beroende på ditt val i fältet **Ursprungstyp för motkonto**.
-10. Upprepa moment 4 till och med 8 för all text på betalningar som du vill mappa till konton för direkt bokföring utan koppling.
+>   Om inga andra utbetalningar finns med mappningstexten i fråga kommer Mappa text till konto att uppstå, även om endast en del av texten på utbetalningen finns som en mappningtext.
+5. På fältet **Leverantörsnr** anger du den leverantör som betalningar ska bokföras på.
+6. Ange om betalningen ska bokföras på ett redovisningskonto eller till ett kund- eller leverantörskonto i fältet **Ursprungstyp för motkonto**.
+7. På fältet **Ursprungsnr för motkonto** anger du det konto som betalningen ska bokföras på, beroende på ditt val i fältet **Ursprungstyp för motkonto**.
+
+    > [!NOTE]
+    > Använd inte fälten **Debetkontonr** och **Kreditkontonr** fält i samband med betalningsavstämning. De används endast för inkommande dokument. Mer information [Så här använder du OCR för att omvandla PDF- och bildfiler till elektroniska dokument](across-how-use-ocr-pdf-images-files.md).
+
+8. Upprepa moment 3 till och med 7 för all text på betalningar som du vill mappa till konton för direkt bokföring utan koppling.
 
 Nästa gång importerar en bankutdragsfil eller väljer funktionen **Koppla automatiskt** i fönstret **Betalningsavstämningsjournal** innehåller journalrader för betalningar som innehåller den angivna mappningstexten de mappade kontona i fälten **Kontotyp** och **Kontonr.**. Fältet **Matchningssäkerhet** ska innehålla **Hög – mappa text till konto**. Det sker på villkoret att den automatiska kopplingsfunktionen endast kan tillhandahålla matchningssäkerheten **Låg** eller **Medium**.
 
@@ -63,7 +61,6 @@ Om du alltid vill bokföra bränslekostnader upplupna på Shell-bensinmackar i r
 ## <a name="see-also"></a>Se även
 [Hantera kundreskontra](receivables-manage-receivables.md)  
 [Försäljning](sales-manage-sales.md)  
-[Så här ställer du in tjänsten bankdatakonvertering](bank-how-setup-bank-data-conversion-service.md)    
 [Anpassa [!INCLUDE[d365fin](includes/d365fin_md.md)] med tillägg](ui-extensions.md)  
 [Arbeta med [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
